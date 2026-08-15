@@ -1,0 +1,41 @@
+# Goes in the PUBLIC documents repo as .github/workflows/mirror.yml
+# (not in the CondoGuard repo — that one is private, and a private repo's
+# raw.githubusercontent.com URLs need a token the desktop app cannot ship).
+#
+# Pair with scripts/mirror.sh from this same directory.
+name: mirror-rule-sources
+
+on:
+  schedule:
+    # 07:00 UTC on the 1st of each month. HUD handbook updates land a few times
+    # a year, so monthly is plenty and stays polite to a public .gov host.
+    - cron: "0 7 1 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and validate sources
+        run: bash scripts/mirror.sh
+
+      - name: Commit only if content actually changed
+        run: |
+          git config user.name "condoguard-mirror-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A mirrors
+          if git diff --staged --quiet; then
+            echo "No change — nothing to commit."
+          else
+            git commit -m "mirror: refresh rule sources"
+            git push
+          fi
