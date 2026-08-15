@@ -7,9 +7,12 @@ name: mirror-rule-sources
 
 on:
   schedule:
-    # 07:00 UTC on the 1st of each month. HUD handbook updates land a few times
-    # a year, so monthly is plenty and stays polite to a public .gov host.
-    - cron: "0 7 1 * *"
+    # 07:00 UTC daily. Daily keeps consumers' own "check daily" setting honest —
+    # a mirror slower than the consumer's schedule makes that setting theatre.
+    # It is still only one fetch per source per day globally, which is far
+    # gentler on a public .gov host than every install fetching on its own.
+    # Cost is zero: Actions minutes are free on public repos.
+    - cron: "0 7 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -23,7 +26,12 @@ jobs:
   mirror:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+
+      # pdftotext: the committed, diffable artifact for PDFs is extracted text.
+      # A diff between two 11 MB binaries tells a reviewer nothing.
+      - name: Install poppler-utils
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
 
       - name: Fetch and validate sources
         run: bash scripts/mirror.sh
