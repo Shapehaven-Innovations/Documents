@@ -23,7 +23,16 @@ CONDO_PAGE="https://www.hud.gov/hud-partners/single-family-ins-condominiums"
 UA="CondoGuard-RuleMirror/1.0 (+https://github.com/${GITHUB_REPOSITORY:-local}; compliance rule monitoring)"
 
 fetch() { # url outfile -> prints http status
-  curl -sS -L --max-time 120 -A "$UA" -o "$2" -w '%{http_code}' "$1"
+  # --http1.1: the handbook is ~11 MB and hud.gov's HTTP/2 stream aborts partway
+  # often enough to fail a run ("curl: (92) stream 1 was not closed cleanly:
+  # INTERNAL_ERROR"). HTTP/1.1 has been stable for the large transfer.
+  # --retry covers the transient case without hiding a real block: a 403 is not
+  # retried by --retry-all-errors' backoff into a false success, because the
+  # status is still checked by the caller.
+  curl -sS -L --http1.1 \
+    --retry 3 --retry-delay 5 --retry-all-errors \
+    --connect-timeout 30 --max-time 300 \
+    -A "$UA" -o "$2" -w '%{http_code}' "$1"
 }
 
 write_manifest() { # sourceCode sourceUrl filename file outdir
