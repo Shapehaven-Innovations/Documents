@@ -10,24 +10,30 @@ token inside a locally installed desktop app.
 ## CondoGuard rule source mirror
 
 CondoGuard watches the lender and state publications behind its compliance rule
-catalog. Two of them cannot be fetched directly.
+catalog. Two HUD sources are mirrored here rather than fetched directly, for
+three reasons:
 
-hud.gov sits behind Cloudflare and answers **403 to every non-browser client**
-tested from a normal network — curl (default UA, Chrome UA, HTTP/1.1, full
-ordered header set), wget, python urllib, and Node `fetch`. The Wayback Machine
-fallback used previously now answers **429** on every request, including its
-availability API. Both HUD sources were silently failing for a month.
+1. **Versioned filenames.** The handbook ships as
+   `40001-hsgh-Update-18-Redline.pdf` and becomes `-19-` on the next update, so
+   a fixed URL silently reports "no changes" forever. `scripts/mirror.sh`
+   re-resolves the current filename from the landing page every run. This is the
+   only fix, and it is independent of any access issue.
+2. **Conditional requests.** hud.gov sends neither `ETag` nor `Last-Modified`,
+   so a direct check must download the full 11.4 MB every time. The manifest is
+   ~300 bytes and `raw.githubusercontent.com` supports both headers.
+3. **Rate limiting.** hud.gov sits behind Cloudflare bot management, which
+   applies rate-based mitigation per egress IP — once tripped it returns 403 to
+   *every* client (curl, wget, python, Node fetch, any user agent) for hours,
+   then clears. Confirmed 2026-08-15: hours of blanket 403s from one machine,
+   then clean 200s to plain default-UA curl from that same machine.
 
-GitHub Actions runners are **not** blocked. Verified 2026-08-15:
+   It is a cooldown, **not** a permanent block and **not** TLS fingerprinting:
+   the same curl binary that failed locally succeeded from a GitHub runner.
+   Fetching 11.4 MB from every customer install on a schedule is a good way to
+   rediscover this; one mirror fetch per month is not.
 
-```
-http=200 size=11384374
-hud.pdf: PDF document, version 1.7 (zip deflate encoded)
-00000000: 2550 4446 2d31 2e37    %PDF-1.7
-```
-
-So `.github/workflows/mirror.yml` runs monthly, fetches from a runner, and
-commits the documents plus a small manifest. CondoGuard watches the manifest.
+`.github/workflows/mirror.yml` runs monthly, fetches from a runner, and commits
+the documents plus a small manifest. CondoGuard watches the manifest.
 
 ### Layout
 

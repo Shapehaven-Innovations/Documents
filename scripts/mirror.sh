@@ -1,12 +1,16 @@
 #!/usr/bin/env bash
 #
-# Mirrors the HUD publications CondoGuard cannot fetch directly.
+# Mirrors HUD publications so consumers watch a stable, cheap manifest.
 #
-# hud.gov sits behind Cloudflare and answers 403 to every non-browser client we
-# tried from a normal network (curl, wget, python, Node fetch, browser UA, full
-# header set). GitHub Actions runners are NOT blocked — verified 2026-08-15,
-# http=200 and a real 11.4 MB %PDF-1.7. So this runs on a runner, stores the
-# bytes, and CondoGuard watches the resulting manifest instead of hud.gov.
+# Why mirror at all:
+#   - HUD's handbook filename is versioned (…-Update-18-Redline.pdf → -19-), so
+#     a fixed URL freezes and reports "no changes" forever. Resolved per run.
+#   - hud.gov sends no ETag/Last-Modified, so every direct check downloads the
+#     full 11.4 MB. The manifest is ~300 bytes and raw.githubusercontent.com
+#     supports conditional requests.
+#   - hud.gov applies Cloudflare rate-based mitigation per egress IP: once
+#     tripped it returns 403 to every client for hours, then clears. One
+#     fetch per month from one runner stays well clear of that.
 #
 # Two rules keep the mirror honest:
 #   1. Never write a manifest from a response that is not the real document.
