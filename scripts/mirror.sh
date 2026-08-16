@@ -48,11 +48,18 @@ fetch() { # url outfile -> prints http status
     -A "$UA" -o "$2" -w '%{http_code}' "$1" 2>/dev/null
 }
 
-manifest_hash() { # manifestPath -> stored sha256, empty when absent
+# Bumped when the manifest gains fields. A stored manifest at an older version
+# is rewritten even when the content hash is unchanged, so consumers are not
+# left waiting for the next real rule change to see new fields.
+MANIFEST_VERSION=2
+
+manifest_state() { # manifestPath -> "<sha256> <manifestVersion>"
   node -e '
     const fs = require("fs");
-    try { process.stdout.write(JSON.parse(fs.readFileSync(process.argv[1], "utf8")).sha256 ?? ""); }
-    catch { process.stdout.write(""); }
+    try {
+      const m = JSON.parse(fs.readFileSync(process.argv[1], "utf8"));
+      process.stdout.write(`${m.sha256 ?? ""} ${m.manifestVersion ?? 0}`);
+    } catch { process.stdout.write(" 0"); }
   ' "$1"
 }
 
@@ -142,21 +149,30 @@ while IFS=$'\t' read -r CODE DIR TYPE URL PATTERN BASE; do
     textname="page.txt"
   fi
 
-  if [ "$sha" = "$(manifest_hash "$outdir/manifest.json")" ]; then
+  read -r stored_sha stored_version <<<"$(manifest_state "$outdir/manifest.json")"
+  if [ "$sha" = "$stored_sha" ] && [ "$stored_version" = "$MANIFEST_VERSION" ]; then
     echo "  unchanged (sha256=${sha:0:16}…)"
   else
     cp "$raw" "$outdir/$docname"
     cp /tmp/doc.norm.txt "$outdir/$textname"
+    # textFile is what consumers fetch to diff a change. Naming it here means
+    # the app never has to guess at page.txt vs document.txt.
     cat >"$outdir/manifest.json" <<JSON
 {
+  "manifestVersion": $MANIFEST_VERSION,
   "sourceCode": "$CODE",
   "sourceUrl": "$doc_url",
   "filename": "$docname",
+  "textFile": "$textname",
   "sha256": "$sha",
   "bytes": $bytes
 }
 JSON
-    echo "  CHANGED  sha256=${sha:0:16}… bytes=$bytes"
+    if [ "$sha" = "$stored_sha" ]; then
+      echo "  manifest upgraded to v$MANIFEST_VERSION (content unchanged)"
+    else
+      echo "  CHANGED  sha256=${sha:0:16}… bytes=$bytes"
+    fi
     changed=1
   fi
 

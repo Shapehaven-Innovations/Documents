@@ -1,19 +1,23 @@
 #!/usr/bin/env node
 /**
- * Normalize a fetched document to comparable text and print its SHA-256.
+ * Normalize a fetched document into (a) readable text for diffing and
+ * (b) a SHA-256 over its collapsed form for change detection.
  *
- * This is what decides whether a run commits. Hashing raw bytes would commit
- * almost every day: government pages carry rotating nav, session tokens, and
- * "as of <today>" chrome, and each of those would surface in CondoGuard as a
- * false rule-change alert. Hashing normalized text means a commit happens only
- * when the substance moved.
+ * Two outputs, deliberately:
  *
- * The HTML rules mirror normalizeHtml() in CondoGuard's
- * server/services/ruleWatcher.ts. Keep them in step: if the two drift, the app
- * and the mirror disagree about what counts as a change.
+ *   - The TEXT keeps line structure. Block-level tags become newlines so that
+ *     `git diff` — and CondoGuard's change-event view — show which paragraph
+ *     moved. Collapsing everything to one line, as this script first did, makes
+ *     a 546 KB single-line file whose diff is useless to a human.
+ *   - The HASH is taken over the fully collapsed text, so a reflow that only
+ *     changes where lines break is NOT reported as a rule change.
+ *
+ * The stripping rules mirror normalizeHtml() in CondoGuard's
+ * server/services/ruleWatcher.ts. Keep them in step: if they drift, the app and
+ * the mirror disagree about what counts as a change.
  *
  * usage: node scripts/normalize.mjs <file> <html|text> [outFile]
- *        prints the sha256 of the normalized text to stdout
+ *        prints the sha256 of the collapsed text to stdout
  */
 import { readFileSync, writeFileSync } from "node:fs";
 import { createHash } from "node:crypto";
@@ -28,32 +32,40 @@ if (!file || !["html", "text"].includes(mode ?? "")) {
 const CHROME_DATE =
   /\b(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b/gi;
 
-function normalizeHtml(html) {
+/** HTML → readable text, one block element per line. */
+function htmlToText(html) {
   return html
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<!--[\s\S]*?-->/g, " ")
+    // Block boundaries become newlines BEFORE tags are stripped, so the text
+    // keeps the document's paragraph structure instead of running together.
+    .replace(/<br\s*\/?>/gi, "\n")
+    .replace(/<\/(p|div|li|tr|h[1-6]|section|article|td|th)\s*>/gi, "\n")
     .replace(/<[^>]+>/g, " ")
     .replace(/&nbsp;/gi, " ")
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
     .replace(/&gt;/gi, ">")
-    .replace(/&#\d+;/g, " ")
+    .replace(/&#\d+;/g, " ");
+}
+
+/** Tidy per line, drop blank runs. Numeric revision markers are kept. */
+function tidy(text) {
+  return text
     .replace(CHROME_DATE, " ")
-    .replace(/\s+/g, " ")
+    .split("\n")
+    .map((line) => line.replace(/[ \t ]+/g, " ").trim())
+    .filter((line) => line.length > 0)
+    .join("\n")
     .trim();
 }
 
-/**
- * Text extracted from a PDF. Numeric revision markers like Fannie Mae's
- * "(08/06/2025)" are deliberately kept — those changing IS the signal.
- */
-function normalizeText(text) {
-  return text.replace(CHROME_DATE, " ").replace(/\s+/g, " ").trim();
-}
-
 const raw = readFileSync(file, "utf8");
-const normalized = mode === "html" ? normalizeHtml(raw) : normalizeText(raw);
+const readable = tidy(mode === "html" ? htmlToText(raw) : raw);
 
-if (outFile) writeFileSync(outFile, normalized + "\n");
-process.stdout.write(createHash("sha256").update(normalized).digest("hex"));
+// The hash ignores line breaks entirely: only substance counts as a change.
+const collapsed = readable.replace(/\s+/g, " ").trim();
+
+if (outFile) writeFileSync(outFile, readable + "\n");
+process.stdout.write(createHash("sha256").update(collapsed).digest("hex"));
