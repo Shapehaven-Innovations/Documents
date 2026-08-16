@@ -1,4 +1,3 @@
-Laws - Statute Text
 Legislative Services
 |
 Legislative Audits
@@ -147,7 +146,7 @@ About
 Statutes Text
 Article - Real Property
 Previous Next
-&sect;11&ndash;109.2.
+§11–109.2.
 (a) The council of unit owners shall cause to be prepared and submitted to the unit owners an annual proposed budget at least 30 days before its adoption.
 (b) The annual budget shall provide for at least the following items:
 (1) Income;
@@ -157,27 +156,27 @@ Previous Next
 (5) General expenses;
 (6) Reserves; and
 (7) Capital items.
-(c) (1) Subject to paragraphs (2) and (3) of this subsection and in accordance with the funding plan under &sect; 11&ndash;109.4(f) of this title, the reserves provided for in the annual budget under subsection (b) of this section for a residential condominium shall:
-(i) Be the funding amount recommended in the most recent reserve study or updated reserve study completed under &sect; 11&ndash;109.4 of this title; and
+(c) (1) Subject to paragraphs (2) and (3) of this subsection and in accordance with the funding plan under § 11–109.4(f) of this title, the reserves provided for in the annual budget under subsection (b) of this section for a residential condominium shall:
+(i) Be the funding amount recommended in the most recent reserve study or updated reserve study completed under § 11–109.4 of this title; and
 (ii) Be deposited in the reserve account on or before the last day of each fiscal year.
-(2) Subject to paragraph (3) of this subsection, if the most recent reserve study was an initial reserve study, the governing body shall, within 5 fiscal years following the fiscal year in which the initial reserve study was completed, attain the annual reserve funding level recommended in the initial reserve study in accordance with the funding plan under &sect; 11&ndash;109.4(f) of this title.
-(3) (i) The governing body of a residential condominium may determine by a two&ndash;thirds majority vote that the condominium and the unit owners are experiencing a financial hardship that limits the ability to fund reserves that are required under paragraph (1) or (2) of this subsection.
+(2) Subject to paragraph (3) of this subsection, if the most recent reserve study was an initial reserve study, the governing body shall, within 5 fiscal years following the fiscal year in which the initial reserve study was completed, attain the annual reserve funding level recommended in the initial reserve study in accordance with the funding plan under § 11–109.4(f) of this title.
+(3) (i) The governing body of a residential condominium may determine by a two–thirds majority vote that the condominium and the unit owners are experiencing a financial hardship that limits the ability to fund reserves that are required under paragraph (1) or (2) of this subsection.
 (ii) Subject to subparagraphs (iii) through (v) of this paragraph, if a governing body makes a financial hardship determination based on the reserve funding requirements of paragraph (1) or (2) of this subsection:
 1. The condominium may reasonably deviate from that reserve funding requirement; and
-2. The funding level under that requirement shall be at least the funding amount necessary for the purposes specified under &sect; 11&ndash;109.4(f)(3) of this title.
+2. The funding level under that requirement shall be at least the funding amount necessary for the purposes specified under § 11–109.4(f)(3) of this title.
 (iii) 1. Except as provided in subsubparagraph 2 of this subparagraph, a residential condominium may not deviate from the reserve funding requirements of paragraph (1) or (2) of this subsection for a period of more than 1 fiscal year following the financial hardship determination.
-2. The governing body may renew a financial hardship determination under subparagraph (i) of this paragraph by a two&ndash;thirds majority vote to extend the period that a residential condominium may deviate from the reserve funding requirement by 1 fiscal year following the renewal.
+2. The governing body may renew a financial hardship determination under subparagraph (i) of this paragraph by a two–thirds majority vote to extend the period that a residential condominium may deviate from the reserve funding requirement by 1 fiscal year following the renewal.
 (iv) The governing body shall:
 1. Make good faith efforts to resolve the financial hardship and resume funding reserves as required under paragraph (1) or (2) of this subsection;
 2. Maintain detailed documentation of the good faith efforts made under item 1 of this subparagraph; and
-3. Treat the documents under item 2 of this subparagraph as records available for examination and copying under &sect; 11&ndash;116 of this title.
+3. Treat the documents under item 2 of this subparagraph as records available for examination and copying under § 11–116 of this title.
 (v) 1. All unit owners shall be given reasonable notice in advance of a vote on an initial or a renewal of a financial hardship determination under this paragraph.
 2. A vote on an initial or a renewal of a financial hardship determination under this paragraph may be taken only at a regular or special meeting of the condominium.
-(4) (i) The governing body of a residential condominium shall annually review the reserves and the most recent reserve study or updated reserve study to determine whether there is adequate funding in accordance with the funding plan required under &sect; 11&ndash;109.4(f) of this title.
-(ii) The annual review under this paragraph does not require a reserve study or updated reserve study in addition to the reserve study requirements under &sect; 11&ndash;109.4 of this title.
+(4) (i) The governing body of a residential condominium shall annually review the reserves and the most recent reserve study or updated reserve study to determine whether there is adequate funding in accordance with the funding plan required under § 11–109.4(f) of this title.
+(ii) The annual review under this paragraph does not require a reserve study or updated reserve study in addition to the reserve study requirements under § 11–109.4 of this title.
 (d) (1) The budget shall be adopted at an open meeting of the council of unit owners or any other body to which the council of unit owners delegates responsibilities for preparing and adopting the budget.
 (2) (i) The council of unit owners or other governing body of unit owners shall submit the adopted annual budget to the unit owners not more than 30 days after the meeting at which the budget was adopted.
-(ii) The adopted annual budget may be submitted to each unit owner by electronic transmission, by posting on the condominium association&rsquo;s home page, or by inclusion in the homeowners association&rsquo;s newsletter.
+(ii) The adopted annual budget may be submitted to each unit owner by electronic transmission, by posting on the condominium association's home page, or by inclusion in the homeowners association's newsletter.
 (e) Any expenditure made other than those made because of conditions which, if not corrected, could reasonably result in a threat to the health or safety of the unit owners or a significant risk of damage to the condominium, that would result in an increase in an amount of assessments for the current fiscal year of the condominium in excess of 15 percent of the budgeted amount previously adopted, shall be approved by an amendment to the budget adopted at a special meeting, upon not less than 10 days written notice to the council of unit owners.
 (f) The adoption of a budget shall not impair the authority of the council of unit owners to obligate the council of unit owners for expenditures for any purpose consistent with any provision of this title.
 (g) The provisions of this section do not apply to a condominium that is occupied and used solely for nonresidential purposes.
@@ -204,7 +203,6 @@ Video Tutorials
 Helpful Tools
 Download Legislative Data
 Open Legislative Data Download
-&times;
 You are about to download a "comma-separated values" (CSV) file and/or a JSON file.
 The file includes information such as number, sponsor, title, legislative status, synopsis, committee assignments,
 legislative history, hearing dates, etc for each piece of legislation introduced during the selected legislative session.

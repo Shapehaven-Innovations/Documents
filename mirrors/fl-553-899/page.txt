@@ -1,7 +1,3 @@
-Statutes & Constitution
-:View Statutes
-:
-Online Sunshine
 Skip to Menu | Skip to Main Content
 Search Statutes:
 2025
@@ -94,14 +90,13 @@ Select Year:
 1999
 1998
 1997
-The Florida Statutes
 The 2025 Florida Statutes
 Title XXXIII
 REGULATION OF TRADE, COMMERCE, INVESTMENTS, AND SOLICITATIONS
 Chapter 553
 BUILDING CONSTRUCTION STANDARDS
 View Entire Chapter
-F.S. 553.899 553.899 Mandatory structural inspections for condominium and cooperative buildings. (1) The Legislature finds that maintaining the structural integrity of a building throughout the life of the building is of paramount importance in order to ensure that buildings are structurally sound so as to not pose a threat to the public health, safety, or welfare. As such, the Legislature finds that the imposition of a statewide structural inspection program for aging condominium and cooperative buildings in this state is necessary to ensure that such buildings are safe for continued use.
+553.899 Mandatory structural inspections for condominium and cooperative buildings. (1) The Legislature finds that maintaining the structural integrity of a building throughout the life of the building is of paramount importance in order to ensure that buildings are structurally sound so as to not pose a threat to the public health, safety, or welfare. As such, the Legislature finds that the imposition of a statewide structural inspection program for aging condominium and cooperative buildings in this state is necessary to ensure that such buildings are safe for continued use.
 (2) As used in this section, the terms: (a) “Milestone inspection” means a structural inspection of a building, including an inspection of load-bearing elements and the primary structural members and primary structural systems as those terms are defined in s. 627.706 , by an architect licensed under chapter 481 or engineer licensed under chapter 471 authorized to practice in this state for the purposes of attesting to the life safety and adequacy of the structural components of the building and, to the extent reasonably possible, determining the general structural condition of the building as it affects the safety of such building, including a determination of any necessary maintenance, repair, or replacement of any structural component of the building. The purpose of such inspection is not to determine if the condition of an existing building is in compliance with the Florida Building Code or the firesafety code. The milestone inspection services may be provided by a team of professionals with an architect or engineer acting as a registered design professional in responsible charge with all work and reports signed and sealed by the appropriate qualified team member.
 (b) “Substantial structural deterioration” means substantial structural distress or substantial structural weakness that negatively affects a building’s general structural condition and integrity. The term does not include surface imperfections such as cracks, distortion, sagging, deflections, misalignment, signs of leakage, or peeling of finishes unless the licensed engineer or architect performing the phase one or phase two inspection determines that such surface imperfections are a sign of substantial structural deterioration.
 (3)(a) An owner or owners of a building that is three habitable stories or more in height as determined by the Florida Building Code and that is subject, in whole or in part, to the condominium or cooperative form of ownership as a residential condominium under chapter 718 or a residential cooperative under chapter 719 must have a milestone inspection performed by December 31 of the year in which the building reaches 30 years of age, based on the date the certificate of occupancy for the building was issued, and every 10 years thereafter. If a building reached 30 years of age before , the building’s initial milestone inspection must be performed before . If a building reaches 30 years of age on or after , and before , the building’s initial milestone inspection must be performed before . If the date of issuance for the certificate of occupancy is not available, the date of issuance of the building’s certificate of occupancy shall be the date of occupancy evidenced in any record of the local building official.
@@ -135,4 +130,4 @@ F.S. 553.899 553.899 Mandatory structural inspections for condominium and cooper
 (14) By , the Florida Building Commission shall adopt rules pursuant to ss. 120.536 (1) and 120.54 to establish a building safety program for the implementation of this section within the Florida Building Code: Existing Building. The building inspection program must, at minimum, include inspection criteria, testing protocols, standardized inspection and reporting forms that are adaptable to an electronic format, and record maintenance requirements for the local authority.
 (15) The Florida Building Commission shall consult with the State Fire Marshal to provide recommendations to the Legislature for the adoption of comprehensive structural and life safety standards for maintaining and inspecting all types of buildings and structures in this state that are three stories or more in height. The commission shall provide a written report of its recommendations to the Governor, the President of the Senate, and the Speaker of the House of Representatives by .
 History. s. 3, ch. 2022-269; s. 2, ch. 2023-203; s. 4, ch. 2024-244; s. 4, ch. 2025-175.
-Copyright &copy; 1995-2026 The Florida Legislature Privacy Statement Contact Us
+Copyright © 1995-2026 The Florida Legislature Privacy Statement Contact Us

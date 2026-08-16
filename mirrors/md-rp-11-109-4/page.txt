@@ -1,4 +1,3 @@
-Laws - Statute Text
 Legislative Services
 |
 Legislative Audits
@@ -147,9 +146,9 @@ About
 Statutes Text
 Article - Real Property
 Previous Next
-&sect;11&ndash;109.4.
+§11–109.4.
 (a) (1) In this section the following words have the meanings indicated.
-(2) &ldquo;Reserve study&rdquo; means a study of the reserves required for future major repairs and replacement of the common elements of a condominium that:
+(2) "Reserve study" means a study of the reserves required for future major repairs and replacement of the common elements of a condominium that:
 (i) Using an itemized list, identifies each structural, mechanical, electrical, and plumbing component of the common elements and any other components that:
 1. Are the responsibility of the council of unit owners to repair and replace; and
 2. If applicable, meet a minimum cost of repair or replacement, as determined by the governing body, that is:
@@ -159,24 +158,24 @@ B. Not a minor expense that is otherwise addressed by the budget of the condomin
 (iii) States the estimated cost of repair or replacement of each identified component;
 (iv) States the estimated annual reserve amount necessary to accomplish any identified future repair or replacement; and
 (v) States the quantity or size of each identified component using the appropriate measurement, such as unit amount, square footage, or cubic feet.
-(3) &ldquo;Updated reserve study&rdquo; means, for the common elements since the prior reserve study was completed within the previous 5 years, a study that:
+(3) "Updated reserve study" means, for the common elements since the prior reserve study was completed within the previous 5 years, a study that:
 (i) Revises replacement cost, remaining life, and useful life estimates;
 (ii) Analyzes work performed and amounts spent; and
 (iii) Identifies whether any maintenance contracts are in place.
 (b) This section applies only to a residential condominium.
 (c) (1) This subsection applies only to a condominium established in:
-(i) Prince George&rsquo;s County on or after ;
+(i) Prince George's County on or after ;
 (ii) Montgomery County on or after ; or
-(iii) Any county other than Prince George&rsquo;s County or Montgomery County on or after .
-(2) The governing body of the condominium shall have an independent reserve study completed not less than 30 calendar days before the meeting of the council of unit owners required under &sect; 11&ndash;109(c)(16) of this title.
+(iii) Any county other than Prince George's County or Montgomery County on or after .
+(2) The governing body of the condominium shall have an independent reserve study completed not less than 30 calendar days before the meeting of the council of unit owners required under § 11–109(c)(16) of this title.
 (3) The governing body shall have an updated reserve study completed within 5 years after the date of the initial reserve study conducted under paragraph (2) of this subsection and at least every 5 years thereafter.
-(d) (1) (i) This paragraph applies only to a condominium established in Prince George&rsquo;s County before .
+(d) (1) (i) This paragraph applies only to a condominium established in Prince George's County before .
 (ii) If the governing body of a condominium has had a reserve study conducted on or after , the governing body shall have an updated reserve study conducted within 5 years after the date of that reserve study and at least every 5 years thereafter.
 (iii) If the governing body of a condominium has not had a reserve study conducted on or after , the governing body shall have a reserve study conducted on or before , and an updated reserve study at least every 5 years thereafter.
 (2) (i) This paragraph applies only to a condominium established in Montgomery County before .
 (ii) If the governing body of a condominium has had a reserve study conducted on or after , the governing body shall have an updated reserve study conducted within 5 years after the date of that reserve study and at least every 5 years thereafter.
 (iii) If the governing body of a condominium has not had a reserve study conducted on or after , the governing body shall have a reserve study conducted on or before , and an updated reserve study at least every 5 years thereafter.
-(3) (i) This paragraph applies only to a condominium established in any county other than Prince George&rsquo;s County or Montgomery County before .
+(3) (i) This paragraph applies only to a condominium established in any county other than Prince George's County or Montgomery County before .
 (ii) If the governing body of a condominium has had a reserve study conducted on or after , the governing body shall have an updated reserve study conducted within 5 years after the date of that reserve study and at least every 5 years thereafter.
 (iii) If the governing body of a condominium has not had a reserve study conducted on or after , the governing body shall have a reserve study conducted on or before , and an updated reserve study at least every 5 years thereafter.
 (e) Each reserve study and updated reserve study required under this section shall:
@@ -196,7 +195,7 @@ B. Not a minor expense that is otherwise addressed by the budget of the condomin
 (iv) The threshold cash flow method; or
 (v) Any other funding method consistent with generally accepted accounting principles.
 (3) A funding plan developed under this subsection shall prioritize adequate amounts for repair and replacement of common elements of the condominium that are necessary for:
-(i) The health, safety, and well&ndash;being of the occupants;
+(i) The health, safety, and well–being of the occupants;
 (ii) Ensuring structural integrity, such as roofing replacements and maintaining structural systems;
 (iii) Essential functioning, such as plumbing, sewer, heating, cooling, and electrical infrastructure; and
 (iv) Any other essential or critical purpose, as determined by the governing body.
@@ -225,7 +224,6 @@ Video Tutorials
 Helpful Tools
 Download Legislative Data
 Open Legislative Data Download
-&times;
 You are about to download a "comma-separated values" (CSV) file and/or a JSON file.
 The file includes information such as number, sponsor, title, legislative status, synopsis, committee assignments,
 legislative history, hearing dates, etc for each piece of legislation introduced during the selected legislative session.
