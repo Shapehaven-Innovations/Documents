@@ -36,7 +36,11 @@ jobs:
       - name: Fetch and validate sources
         run: bash scripts/mirror.sh
 
+      # always(): mirror.sh exits non-zero when any single source failed, but
+      # the sources that succeeded were still written and must not be discarded
+      # because one site was down. The run stays red; the good data lands.
       - name: Commit only if content actually changed
+        if: always()
         run: |
           git config user.name "condoguard-mirror-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

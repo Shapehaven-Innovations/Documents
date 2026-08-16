@@ -1,0 +1,111 @@
+{
+  "_comment": "Every publication CondoGuard watches. Consumers read mirrors/<dir>/manifest.json, never these URLs directly. `resolve` marks a source whose filename rotates: the PDF link is discovered from the landing page each run instead of being hardcoded.",
+  "sources": [
+    {
+      "sourceCode": "FNMA_B4_2_PROJECT_STANDARDS",
+      "dir": "fnma-b4-2",
+      "type": "html",
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2/project-standards"
+    },
+    {
+      "sourceCode": "FNMA_B4_2_1_03_INELIGIBLE",
+      "dir": "fnma-b4-2-1-03",
+      "type": "html",
+      "url": "https://selling-guide.fanniemae.com/sel/b4-2.1-03/ineligible-projects"
+    },
+    {
+      "sourceCode": "FRE_CONDO_PRODUCT_PAGE",
+      "dir": "freddie-condo-product",
+      "type": "html",
+      "url": "https://sf.freddiemac.com/working-with-us/origination-underwriting/mortgage-products/condominium-unit-mortgages"
+    },
+    {
+      "sourceCode": "FRE_CONDO_FACT_SHEET_PDF",
+      "dir": "freddie-condo-factsheet",
+      "type": "pdf",
+      "url": "https://sf.freddiemac.com/docs/pdf/fact-sheets/condo_mortgages_project_reviews_597.pdf"
+    },
+    {
+      "sourceCode": "HUD_4000_1_HANDBOOK_PDF",
+      "dir": "hud-4000-1",
+      "type": "pdf",
+      "url": "https://www.hud.gov/hud-partners/single-family-handbook-4000-1",
+      "resolve": {
+        "linkPattern": "4000[^\"]*\\.pdf",
+        "base": "https://www.hud.gov"
+      }
+    },
+    {
+      "sourceCode": "HUD_CONDO_PAGE",
+      "dir": "hud-condo",
+      "type": "html",
+      "url": "https://www.hud.gov/hud-partners/single-family-ins-condominiums"
+    },
+    {
+      "sourceCode": "FL_STATUTE_553_899",
+      "dir": "fl-553-899",
+      "type": "html",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0553/Sections/0553.899.html"
+    },
+    {
+      "sourceCode": "FL_STATUTE_718_112",
+      "dir": "fl-718-112",
+      "type": "html",
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.112.html"
+    },
+    {
+      "sourceCode": "NJ_PL2023_C214_PDF",
+      "dir": "nj-pl2023-c214",
+      "type": "pdf",
+      "url": "https://pub.njleg.state.nj.us/Bills/2022/PL23/214_.PDF"
+    },
+    {
+      "sourceCode": "NJ_DCA_STRUCTURAL_FAQ_PDF",
+      "dir": "nj-dca-faq",
+      "type": "pdf",
+      "url": "https://www.nj.gov/dca/codes/forms/pdf_pred/str_int_cap_res_faq.pdf"
+    },
+    {
+      "sourceCode": "CA_CIV_5551",
+      "dir": "ca-civ-5551",
+      "type": "html",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=5551"
+    },
+    {
+      "sourceCode": "CA_CIV_5550",
+      "dir": "ca-civ-5550",
+      "type": "html",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=5550"
+    },
+    {
+      "sourceCode": "MD_RP_11_109_2",
+      "dir": "md-rp-11-109-2",
+      "type": "html",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=11-109.2&enactments=false"
+    },
+    {
+      "sourceCode": "MD_RP_11_109_4",
+      "dir": "md-rp-11-109-4",
+      "type": "html",
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=grp&section=11-109.4&enactments=false"
+    },
+    {
+      "sourceCode": "NV_NRS_116",
+      "dir": "nv-nrs-116",
+      "type": "html",
+      "url": "https://www.leg.state.nv.us/NRS/NRS-116.html"
+    },
+    {
+      "sourceCode": "VA_55_1_1965",
+      "dir": "va-55-1-1965",
+      "type": "html",
+      "url": "https://law.lis.virginia.gov/vacode/title55.1/section55.1-1965/"
+    },
+    {
+      "sourceCode": "WA_RCW_64_90_545",
+      "dir": "wa-rcw-64-90-545",
+      "type": "html",
+      "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.545"
+    }
+  ]
+}

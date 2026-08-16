@@ -1,48 +1,54 @@
 #!/usr/bin/env bash
 #
-# Mirrors HUD publications so consumers watch a stable, cheap manifest.
+# Mirrors every publication CondoGuard watches, so installs read a small stable
+# manifest instead of fetching the source sites themselves.
 #
-# Why mirror at all:
+# Why mirror:
+#   - One fetch per source per day globally, instead of every customer install
+#     hitting leg.state.fl.us / leginfo.ca.gov / hud.gov on its own schedule.
+#     That traffic pattern is what got us rate-limited by hud.gov's Cloudflare
+#     (blanket 403 to every client for hours, then clearing).
+#   - Per-install bandwidth drops from megabytes per check to a few hundred
+#     bytes of manifest, and raw.githubusercontent.com honors ETag while most
+#     of these sites send neither ETag nor Last-Modified.
 #   - HUD's handbook filename is versioned (…-Update-18-Redline.pdf → -19-), so
-#     a fixed URL freezes and reports "no changes" forever. Resolved per run.
-#   - hud.gov sends no ETag/Last-Modified, so every direct check downloads the
-#     full 11.4 MB. The manifest is ~300 bytes and raw.githubusercontent.com
-#     supports conditional requests.
-#   - hud.gov applies Cloudflare rate-based mitigation per egress IP: once
-#     tripped it returns 403 to every client for hours, then clears. One fetch
-#     per day from one runner stays well clear of that; every customer install
-#     fetching 11 MB on its own schedule would not.
+#     a hardcoded URL silently reports "no changes" forever. Resolved per run.
+#   - Git history gives a real diff of what changed in a publication, which a
+#     hash alone can never provide.
 #
-# Three rules keep the mirror honest:
+# Rules that keep the mirror honest:
 #   1. Never write from a response that is not the real document. A 403 error
-#      page is still a "successful" download to curl. Every fetch is validated
-#      before anything is written.
-#   2. Commit on substance, not on bytes. The decision to write is made on the
-#      hash of NORMALIZED text (see scripts/normalize.mjs). Raw-byte comparison
-#      would commit nearly every day on page chrome alone, and each of those
-#      commits would reach CondoGuard as a false rule-change alert.
+#      page is still a "successful" download to curl. Every fetch is validated.
+#   2. Commit on substance, not bytes. The write decision keys off the hash of
+#      NORMALIZED text (scripts/normalize.mjs). Raw comparison would commit
+#      nearly every day on page chrome alone, and each such commit would reach
+#      CondoGuard as a false rule-change alert.
 #   3. The manifest carries no volatile fields. A fetchedAt timestamp would
 #      change the hash every run and defeat rule 2 by itself.
+#   4. One bad source must not block the other sixteen. Failures are collected,
+#      the run continues, successes still commit, and the job exits non-zero at
+#      the end so the failure is visible.
 #
-set -euo pipefail
+set -uo pipefail
 
-LANDING="https://www.hud.gov/hud-partners/single-family-handbook-4000-1"
-CONDO_PAGE="https://www.hud.gov/hud-partners/single-family-ins-condominiums"
 UA="CondoGuard-RuleMirror/1.0 (+https://github.com/${GITHUB_REPOSITORY:-local}; compliance rule monitoring)"
+POLITE_DELAY=2
 
-changed_any=0
+changed=0
+failed=0
+declare -a failures=()
 
 fetch() { # url outfile -> prints http status
-  # --http1.1: the handbook is ~11 MB and hud.gov's HTTP/2 stream aborts partway
-  # often enough to fail a run ("curl: (92) stream 1 was not closed cleanly:
-  # INTERNAL_ERROR"). HTTP/1.1 has been stable for the large transfer.
+  # --http1.1: hud.gov's HTTP/2 stream aborts partway through the ~11 MB
+  # handbook often enough to fail a run ("curl: (92) stream 1 was not closed
+  # cleanly: INTERNAL_ERROR"). HTTP/1.1 has been stable for large transfers.
   curl -sS -L --http1.1 \
     --retry 3 --retry-delay 5 --retry-all-errors \
     --connect-timeout 30 --max-time 300 \
-    -A "$UA" -o "$2" -w '%{http_code}' "$1"
+    -A "$UA" -o "$2" -w '%{http_code}' "$1" 2>/dev/null
 }
 
-manifest_hash() { # manifestPath -> prints stored sha256, or empty when absent
+manifest_hash() { # manifestPath -> stored sha256, empty when absent
   node -e '
     const fs = require("fs");
     try { process.stdout.write(JSON.parse(fs.readFileSync(process.argv[1], "utf8")).sha256 ?? ""); }
@@ -50,87 +56,124 @@ manifest_hash() { # manifestPath -> prints stored sha256, or empty when absent
   ' "$1"
 }
 
-write_manifest() { # sourceCode sourceUrl filename sha bytes outdir
-  cat >"$6/manifest.json" <<JSON
+fail() { # sourceCode reason
+  echo "  FAILED: $2"
+  failures+=("$1: $2")
+  failed=1
+}
+
+# Resolve a rotating filename from a landing page (HUD's versioned handbook).
+resolve_url() { # landingUrl linkPattern base -> prints absolute URL, empty on failure
+  local landing="$1" pattern="$2" base="$3" href
+  fetch "$landing" /tmp/landing.html >/dev/null || return 1
+  href="$(grep -oE "href=\"[^\"]*${pattern}\"" /tmp/landing.html \
+          | sed -E 's/^href="//; s/"$//' | sort -u | head -1)"
+  [ -n "$href" ] || return 1
+  case "$href" in
+    http*) printf '%s' "$href" ;;
+    /*)    printf '%s%s' "$base" "$href" ;;
+    *)     printf '%s/%s' "$base" "$href" ;;
+  esac
+}
+
+# Emit one tab-separated record per source. Tabs are safe here: none of the
+# fields (codes, dirs, URLs, regex patterns) can contain one.
+node -e '
+  const { sources } = JSON.parse(require("fs").readFileSync("sources.json", "utf8"));
+  for (const s of sources) {
+    process.stdout.write([
+      s.sourceCode, s.dir, s.type, s.url,
+      s.resolve?.linkPattern ?? "", s.resolve?.base ?? "",
+    ].join("\t") + "\n");
+  }
+' > /tmp/sources.tsv
+
+echo "Mirroring $(wc -l </tmp/sources.tsv | tr -d ' ') sources"
+
+while IFS=$'\t' read -r CODE DIR TYPE URL PATTERN BASE; do
+  [ -n "$CODE" ] || continue
+  echo "==> $CODE"
+  outdir="mirrors/$DIR"
+  mkdir -p "$outdir"
+  doc_url="$URL"
+
+  # Rotating filename: discover the real document URL from the landing page.
+  if [ -n "$PATTERN" ]; then
+    doc_url="$(resolve_url "$URL" "$PATTERN" "$BASE")"
+    if [ -z "$doc_url" ]; then
+      fail "$CODE" "could not resolve document link from landing page (layout changed?)"
+      continue
+    fi
+    echo "  resolved: $(basename "$doc_url")"
+  fi
+
+  raw=/tmp/doc.bin
+  status="$(fetch "$doc_url" "$raw")"
+  if [ "$status" != "200" ]; then
+    fail "$CODE" "http=$status"
+    sleep "$POLITE_DELAY"; continue
+  fi
+
+  bytes="$(wc -c <"$raw" | tr -d ' ')"
+
+  if [ "$TYPE" = "pdf" ]; then
+    # Rule 1: a block page is HTML, not a PDF.
+    if ! head -c 5 "$raw" | grep -q '%PDF'; then
+      fail "$CODE" "response is not a PDF (starts: $(head -c 30 "$raw" | tr -d '\0'))"
+      sleep "$POLITE_DELAY"; continue
+    fi
+    # Diffing two multi-MB binaries tells a reviewer nothing, so the diffable
+    # committed artifact is extracted text. The PDF is kept to open.
+    if ! pdftotext -q "$raw" /tmp/doc.raw.txt || [ ! -s /tmp/doc.raw.txt ]; then
+      fail "$CODE" "pdftotext produced no text"
+      sleep "$POLITE_DELAY"; continue
+    fi
+    sha="$(node scripts/normalize.mjs /tmp/doc.raw.txt text /tmp/doc.norm.txt)"
+    docname="$(basename "$doc_url")"
+    textname="document.txt"
+  else
+    # Sanity floor: real pages are tens of KB; block/error pages are tiny.
+    if [ "$bytes" -lt 2000 ]; then
+      fail "$CODE" "response too small to be the real page ($bytes bytes)"
+      sleep "$POLITE_DELAY"; continue
+    fi
+    sha="$(node scripts/normalize.mjs "$raw" html /tmp/doc.norm.txt)"
+    docname="page.html"
+    textname="page.txt"
+  fi
+
+  if [ "$sha" = "$(manifest_hash "$outdir/manifest.json")" ]; then
+    echo "  unchanged (sha256=${sha:0:16}…)"
+  else
+    cp "$raw" "$outdir/$docname"
+    cp /tmp/doc.norm.txt "$outdir/$textname"
+    cat >"$outdir/manifest.json" <<JSON
 {
-  "sourceCode": "$1",
-  "sourceUrl": "$2",
-  "filename": "$3",
-  "sha256": "$4",
-  "bytes": $5
+  "sourceCode": "$CODE",
+  "sourceUrl": "$doc_url",
+  "filename": "$docname",
+  "sha256": "$sha",
+  "bytes": $bytes
 }
 JSON
-}
+    echo "  CHANGED  sha256=${sha:0:16}… bytes=$bytes"
+    changed=1
+  fi
 
-# --- HUD SFH Handbook 4000.1 (PDF, versioned filename) ----------------------
-# The filename rotates with each update (Update-18-Redline today, 19 tomorrow),
-# so it is resolved from the landing page every run rather than hardcoded.
-echo "==> HUD Handbook 4000.1"
-outdir="mirrors/hud-4000-1"
-mkdir -p "$outdir"
+  sleep "$POLITE_DELAY"
+done < /tmp/sources.tsv
 
-status="$(fetch "$LANDING" /tmp/landing.html)"
-[ "$status" = "200" ] || { echo "FATAL: landing page http=$status"; exit 1; }
-
-href="$(grep -oE 'href="[^"]*4000[^"]*\.pdf"' /tmp/landing.html \
-        | sed -E 's/^href="//; s/"$//' | sort -u | head -1)"
-[ -n "$href" ] || { echo "FATAL: no 4000.1 PDF link found — HUD changed the page layout"; exit 1; }
-case "$href" in
-  http*) pdf_url="$href" ;;
-  /*)    pdf_url="https://www.hud.gov$href" ;;
-  *)     pdf_url="https://www.hud.gov/$href" ;;
-esac
-filename="$(basename "$pdf_url")"
-echo "  resolved: $filename"
-
-status="$(fetch "$pdf_url" /tmp/handbook.pdf)"
-[ "$status" = "200" ] || { echo "FATAL: PDF http=$status"; exit 1; }
-# Rule 1: a 403 error page is HTML, not a PDF. Refuse to mirror it.
-head -c 5 /tmp/handbook.pdf | grep -q '%PDF' || {
-  echo "FATAL: response is not a PDF (got: $(head -c 40 /tmp/handbook.pdf))"; exit 1; }
-
-# Diffing two 11 MB binaries is useless to a human reviewer, so the committed
-# artifact that actually gets diffed is the extracted text. The PDF is kept so
-# the reviewer can open the real document.
-pdftotext -q /tmp/handbook.pdf /tmp/handbook.raw.txt
-[ -s /tmp/handbook.raw.txt ] || { echo "FATAL: pdftotext produced no text"; exit 1; }
-
-sha="$(node scripts/normalize.mjs /tmp/handbook.raw.txt text /tmp/handbook.norm.txt)"
-bytes="$(wc -c </tmp/handbook.pdf | tr -d ' ')"
-if [ "$sha" = "$(manifest_hash "$outdir/manifest.json")" ]; then
-  echo "  unchanged (sha256=${sha:0:16}…) — nothing written"
+echo
+if [ "$changed" = "0" ]; then
+  echo "==> No substantive changes"
 else
-  cp /tmp/handbook.pdf "$outdir/handbook.pdf"
-  cp /tmp/handbook.norm.txt "$outdir/handbook.txt"
-  write_manifest "HUD_4000_1_HANDBOOK_PDF" "$pdf_url" "$filename" "$sha" "$bytes" "$outdir"
-  echo "  CHANGED  sha256=${sha:0:16}… bytes=$bytes"
-  changed_any=1
+  echo "==> Changes written"
 fi
 
-# --- HUD FHA Condominiums page (HTML) ---------------------------------------
-echo "==> HUD FHA Condominiums page"
-outdir="mirrors/hud-condo"
-mkdir -p "$outdir"
-
-status="$(fetch "$CONDO_PAGE" /tmp/condo.html)"
-[ "$status" = "200" ] || { echo "FATAL: condo page http=$status"; exit 1; }
-# Sanity floor: the real page is tens of KB; a block page is a few hundred bytes.
-[ "$(wc -c </tmp/condo.html)" -gt 10000 ] || { echo "FATAL: condo page too small to be real"; exit 1; }
-
-sha="$(node scripts/normalize.mjs /tmp/condo.html html /tmp/condo.norm.txt)"
-bytes="$(wc -c </tmp/condo.html | tr -d ' ')"
-if [ "$sha" = "$(manifest_hash "$outdir/manifest.json")" ]; then
-  echo "  unchanged (sha256=${sha:0:16}…) — nothing written"
-else
-  cp /tmp/condo.html "$outdir/page.html"
-  cp /tmp/condo.norm.txt "$outdir/page.txt"
-  write_manifest "HUD_CONDO_PAGE" "$CONDO_PAGE" "page.html" "$sha" "$bytes" "$outdir"
-  echo "  CHANGED  sha256=${sha:0:16}… bytes=$bytes"
-  changed_any=1
-fi
-
-if [ "$changed_any" = "0" ]; then
-  echo "==> Mirror complete — no substantive changes"
-else
-  echo "==> Mirror complete — changes written"
+if [ "$failed" = "1" ]; then
+  echo "==> ${#failures[@]} source(s) failed:"
+  printf '    %s\n' "${failures[@]}"
+  # Rule 4: successes were still written and will be committed by the next
+  # step; this exit only marks the run red so the failure is not silent.
+  exit 1
 fi
