@@ -47,7 +47,9 @@ function htmlToText(html) {
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
     .replace(/&gt;/gi, ">")
-    .replace(/&#\d+;/g, " ");
+    // Numeric entities in both decimal (&#8195;) and hex (&#x2003;) form. Only
+    // decimal was handled before, so hex em-spaces survived into the diff.
+    .replace(/&#(?:\d+|[xX][0-9a-fA-F]+);/g, " ");
 }
 
 /** Tidy per line, drop blank runs. Numeric revision markers are kept. */
