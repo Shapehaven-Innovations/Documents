@@ -35,6 +35,12 @@ const CHROME_DATE =
 /** HTML → readable text, one block element per line. */
 function htmlToText(html) {
   return html
+    // <title> is chrome, and on law.lis.virginia.gov it is actively wrong: the
+    // page for § 55.1-1965 has served <title>§ 52-11. Defense of police
+    // officers</title>, rotating between runs and firing a daily false change.
+    // No revision signal lives here — Fannie Mae's "(08/05/2026)" marker is in
+    // the body, not the title — so dropping it costs nothing.
+    .replace(/<title[\s\S]*?<\/title>/gi, " ")
     .replace(/<script[\s\S]*?<\/script>/gi, " ")
     .replace(/<style[\s\S]*?<\/style>/gi, " ")
     .replace(/<!--[\s\S]*?-->/g, " ")
@@ -47,9 +53,26 @@ function htmlToText(html) {
     .replace(/&amp;/gi, "&")
     .replace(/&lt;/gi, "<")
     .replace(/&gt;/gi, ">")
+    // Named entities statutes actually use. Left undecoded they show up
+    // literally in the diff a reviewer reads (&raquo; in Virginia's breadcrumb,
+    // &sect; throughout). Anything unrecognized becomes a space below.
+    .replace(/&sect;/gi, "\u00a7")
+    .replace(/&raquo;/gi, "\u00bb")
+    .replace(/&laquo;/gi, "\u00ab")
+    .replace(/&mdash;/gi, "\u2014")
+    .replace(/&ndash;/gi, "\u2013")
+    .replace(/&hellip;/gi, "\u2026")
+    .replace(/&bull;/gi, "\u2022")
+    .replace(/&middot;/gi, "\u00b7")
+    .replace(/&deg;/gi, "\u00b0")
+    .replace(/&copy;/gi, "\u00a9")
+    .replace(/&(?:quot|ldquo|rdquo);/gi, '"')
+    .replace(/&(?:apos|lsquo|rsquo);/gi, "'")
     // Numeric entities in both decimal (&#8195;) and hex (&#x2003;) form. Only
     // decimal was handled before, so hex em-spaces survived into the diff.
-    .replace(/&#(?:\d+|[xX][0-9a-fA-F]+);/g, " ");
+    .replace(/&#(?:\d+|[xX][0-9a-fA-F]+);/g, " ")
+    // Any remaining named entity: drop rather than leave raw markup in a diff.
+    .replace(/&[a-zA-Z][a-zA-Z0-9]{1,10};/g, " ");
 }
 
 /** Tidy per line, drop blank runs. Numeric revision markers are kept. */
