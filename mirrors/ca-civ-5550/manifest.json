@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "CA_CIV_5550",
   "sourceUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=5550",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "5499f8d4fce1c38f5241116114b6ae834f72a533b8ba1bdcb96c632553a9a197",
   "bytes": 166337
 }

@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FL_STATUTE_718_112",
   "sourceUrl": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0718/Sections/0718.112.html",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "d635928c8b9a552c47b7b438b40f026970eb79fc67b6bc4e240e58ff12f215a2",
   "bytes": 119756
 }

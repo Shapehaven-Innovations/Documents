@@ -1,1 +1,348 @@
-CHAPTER 214 AN ACT concerning structural integrity regulation for certain residential structures, supplementing P.L.1975, c.217 (C.52:27D-119 et seq.), and amending and supplementing P.L.1977, c.419. BE IT ENACTED by the Senate and General Assembly of the State of New Jersey: C.52:27D-132.2 Findings, declarations. 1. The Legislature finds and declares that: a. The importance of the structural integrity of residential buildings in New Jersey has become a growing concern for many, especially in the wake of the tragic collapse of a highrise, multifamily housing structure in Florida. b. In light of these growing concerns, it is appropriate for the Legislature to put in pl ace appropriate procedures for inspecting, evaluating, and maintaining the structural integrity of certain residential housing structures within this State. C.52:27D-132.3 Definitions. 2. As used in P.L.2023, c.214 (C.52:27D-132.2 et al.): “Balcony” means an extension of the interior living space of the building that extends outwards from the facade of a covered building and is exposed to the elements. “Bureau” means the Bureau of Housing Inspection in the Department of Community Affairs. “Corrective maintenance” means maintenance to be undertaken following the detection of deterioration of the primary load bearing system with the goal of remediating the condition reported by the structural inspector. “Covered building” means a residential condominium or cooperative building that has a primary load bearing system that is comprised of a concrete, masonry, steel, or hybrid structure including, without limitation, heavy timber and a building with podium decks, but not including an excluded structure. “Covered building owner” means the owner of a covered building, whose name appears of record with the county clerk or register, or the association of a common interest community. “Excluded structure” means: (1) International Standardization Organization ISO Type 1 construction or frame-built construction with combustible walls or roofs, but not including a podium deck on which the frame-built construction is situated; (2) a building with ancillary elements that are not part of the primary load bearing syste m such as, but not limited to, elevator shafts or concrete, masonry, steel, or heavy timber that the primary load bearing system does not deliver a building’s load to the foundation; (3) a building that is not a condominium or cooperative, and consists primarily of rental dwellings; or (4) a single-family dwelling. “Podium deck” means a structural slab or deck that transfers applied loads from the structure above to the structure below. “Primary load bearing system” means the assemblage of structural components within a building comprised of columns, beams, or bracing that by contiguous interconnection form a path by which external and internal forces applied to the building are delivered to the foundation. The foundation as well as any connected or attached balconies shall be included as part of the primary load bearing system evaluation. P.L. 2023, CHAPTER 214 2 “Structural inspector” means: (1) a construction official, as that term is used in section 8 of P.L.1975, c.217 (C.52:27D126), who is also an engineer licensed by the State; (2) an employee of the bureau who is also an engineer licensed by the State; or (3) an engineer licensed by the State who has the same qualifications required of an engineer under contract with the enforcing agency with whom the covered building owner contracts to perform inspections of covered buildings under section 3 of P.L.2023, c.214 (C.52:27D-132.4). C.52:27D-132.4 Initial structural inspection, building components, primary load bearing system, covered building, timelines; reports. 3. a. Following the issuance of a certificate of occupancy, an initial structural inspection of the building components forming the primary load bearing system of a covered building shall be undertaken by a post-occupancy structural inspector retained by the covered building owner within the earlier of: (1) 15 years of the date on which the covered building receives a certificate of occupancy pursuant to section 15 of P.L.1975, c.217 (C.52:27D-133); or (2) 60 days after observable damage to the primary load bearing system. b. If a covered building has received a certificate of occupancy pursuant to section 15 of P.L.1975, c.217 (C.52:27D-133) prior to the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.), then an initial structural inspection shall be undertaken by a structural inspector based on the number of years the certificate of occupancy preceded the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.), as provided in this subsection. If the certificate of occupancy was provided: (1) one day to 14 years and 364 days prior to the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.), then the structural inspection shall occur within one year of the date 15 years following the date of the issuance of the certificate of occupancy; or (2) 15 or more years prior to the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.), then the structural inspection shall occur within two years following the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.). c. A building that has been converted to a condominium or cooperative form of ownership after the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall, as part of the process of registering the project pursuant to the “Planned Real Estate Development Full Disclosure Act,” P.L.1977, c.419 (C.45:22A-21 et seq.) and the regulations promulgated thereunder, be required to follow the schedule of inspections provided in paragraphs (1) and (2) of subsection b. of this section. d. After the post-occupancy structural inspector has performed an inspection pursuant to subsection a. of this section, the post-occupancy structural inspector shall issue a written report describing the condition of the primary load bearing system. The post-occupancy structural inspection report shall: (1) set forth with specificity any required maintenance or repairs needed by the primary load bearing system; (2) determine when the next inspection of the primary load bearing system shall be performed, but in no event shall a secondary inspection occur more than the earlier of: (a) 10 years after the initial inspection has taken place; or (b) not more than 60 days after there is observable damage to the primary load bearing system; P.L. 2023, CHAPTER 214 3 (3) be provided to the municipal appointing authority, the construction official and the enforcing agency; (4) be prepared in accordance with the protocol established by the American Society of Civil Engineers, for the structural condition assessment of a covered building or a similar protocol by another nationally recognized structural engineering organization; and (5) provide any other information or guidance necessary to maintain the structural integrity of a covered building. e. If the structural inspector’s report created pursuant to subsection d. of this section finds that corrective maintenance of the primary load bearing system is required, the report shall specify with reasonable detail the required corrective maintenance. f. Notwithstanding the structural inspector’s initial inspection and report undertaken pursuant to subsections a. through e. of this section, subsequent structural inspections and reports shall be provided for as set forth by the structural inspector’s preceding report as follows: (1) The structural inspector shall determine a reasonable period of time within which the next inspection shall take place provided, however, that any subsequent inspection under this paragraph shall not take place more than five years after a preceding inspection. (2) The structural inspector shall review the preceding inspection report prior to undertaking subsequent inspection of the covered building. After the structural inspector completes this review and inspection, the structural inspector will then issue a subsequent inspection report which shall: (a) make note of any new or progressive deterioration; (b) set forth the covered maintenance required to address any new or progressive deterioration; and (c) be provided to the covered building owner, who shall undertake measures necessary to effectuate the covered maintenance, including, but not limited to, engaging the services of an architect or engineer licensed by the State and qualified in structural repairs or maintenance to create plans or specifications to implement the covered maintenance. The covered building owner shall cause any plans or specifications created pursuant to this subparagraph to be filed with the municipal appointing authority or enforcing agency. (3) If the post-occupancy structural inspector’s inspection finds that there is no need for corrective maintenance, the written report shall be filed with the enforcing agency or municipal appointing authority. (4) Any written reports issued by the post-occupancy structural inspector pursuant to this section shall be provided to the covered building’s owner and shall be made available to any resident of a covered building upon request. g. Inspections conducted pursuant to this section may be conducted in conjunction with other required inspections, including, but not limited to, inspections required pursuant to the “Hotel and Multiple Dwelling Law,” P.L.1967, c.76 (C.55:13A-1 et seq.). C.52:27D-132.5 Post-occupancy structural inspector, American Society of Civil Engineers protocols, similar, good faith performance of duties, civil liability, injury, prohibited. 4. A post-occupancy structural inspector who performs the duties set forth in section 3 of P.L.2023, c.214 (C.52:27D-132.4) in good faith and pursuant to the protocols adopted by the American Society of Civil Engineers, or similar protocols by another nationally recognized structural engineering association, shall not incur any civil liability for injury associated with any inspection undertaken by the structural inspector. P.L. 2023, CHAPTER 214 4 5. Section 6 of P.L.1977, c. 419 (C.45:22A-26) is amended to read: C.45:22A-26 Registration of development; delivery to purchaser of current public offering statement; right to cancel contract after execution; notice; report, copies. 6. a. Unless otherwise exempted: (1) No developer may offer or dispose of any interest in a planned real estate development, prior to the registration of such development with the agency. (2) No developer may dispose of any lot, parcel, unit, or interest in a planned real estate development, unless he: delivers to the purchaser a current public offering statement, on or before the contract date of such disposition. b. Any contract or agreement for the purchase of any parcel, lot, unit, or interest in a planned real estate development may be canceled without cause by the purchaser by sending or delivering written notice of cancellation by midnight of the seventh calendar day following the day on which the purchaser has executed such contract or agreement. Every such contract or agreement shall contain, in writing, the following notice in 10-point bold type or larger, directly above the space provided for the signature of the purchaser: "NOTICE TO THE PURCHASER: you have the right to cancel this contract by sending or delivering written notice of cancellation to the developer by midnight of the seventh calendar day following the day on which it was executed. Such cancellation is without penalty, and any deposit made by you shall be promptly refunded in its entirety." c. Notice as required in subsection b. shall, in addition to all other requirements, be conspicuously located and simply stated in the public offering statement. d. The developer shall make copies of the public offering statement freely available to prospective purchasers prior to the contract date of disposition. e. The developer shall make copies of any written report or document prepared pursuant to sections 3 or 9 of P.L.2023, c.214 (C.52:27D-132.4 or 45:22A-43.1) available to prospective purchasers prior to the contract date of disposition. C.45:22A-44.2 Planned real estate development, association, capital reserve study, anticipated costs, replacement, repair, common interest community; standards, credentials. 6. a. Any association of a planned real estate development shall undertake and fund a capital reserve study which shall determine or assess the adequacy of the association’s capital reserve funds to meet the anticipated costs of replacement or repair of the capital assets of a common interest community that the association is obligated to maintain. All capital reserve studies shall be prepared in conformity with the latest edition of the National Reserve Study Standards of the Community Associations Institute or similar standards by another recognized national organization. A capital reserve study conducted pursuant to this section shall be performed or overseen by a reserve specialist who is credentialed through the Community Associations Institute or an engineer or architect who is licensed by the State and shall include, but be not limited to, the following: (1) the association’s capital reserve fund balances; (2) the association’s anticipated income and expenses; (3) an analysis of the physical status and of the common area components of the buildings and other common areas that the association is obligated to maintain; (4) the anticipated costs associated with the building maintenance, as well as the anticipated costs of repair or replacement of common area building components, which are necessary to maintain the structural integrity of the buildings and other common area components that the association is obligated to maintain; P.L. 2023, CHAPTER 214 5 (5) a reasonable estimate of the cost of: (a) future reserve studies; (b) reserve study updates; and (c) periodic structural inspections required pursuant to section 3 of P.L.2023, c.214 (C.52:27D-132.4); (6) a reasonable estimate of the costs associated with implementing any corrective maintenance deemed necessary pursuant to section 3 of P.L.2023, c.214 (C.52:27D-132.4); (7) a proposed 30-year funding plan, as described in section 7 of P.L.2023, c.214 (C.45:22A-44.3) that establishes the adequate proposed capital reserve funding over a 30-year time period; and (8) any other information necessary to perform an analysis of the adequacy of the association’s capital reserve funds relative to maintaining the structural integrity of buildings and common areas which the association is obligated to maintain. b. Associations which have not undertaken a reserve study within five years of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall undertake a reserve study within one year of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.). Associations formed after the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall undertake a reserve study as soon as practicable after the election of a majority of an executive board pursuant to section 5 of P.L.1983, c.30 (C.45:22A-47), but in no event shall such study be undertaken more than two years following the election of a majority of the executive board under section 5 of P.L.1983, c.30 (C.45:22A-47). c. A covered building owner, as defined in section 2 of P.L.2023, c.214 (C.52:27D-132.3), shall ensure that a capital reserve study conducted pursuant to this section shall be reviewed by a licensed architect, engineer, or credentialed reserve specialist and that a capital reserve study be conducted and reviewed at least once every five years. d. This section shall not apply to an association of a planned real estate development with less than $25,000 in total common area capital assets. C.45:22A-44.3 Planned real estate development, association, reserve study, 30-year funding plan, repair, replace capital assets, common elements, facilities; special assessment, loans. 7. a. An association of a planned real estate development shall obtain a reserve study including a 30-year funding plan in order to ensure that the association has adequate reserve funds available to repair or replace the capital assets located on the common elements and facilities that the association is obligated to maintain without need to create a special assessment or loan obligation, except that in those cases in which a capital asset reaches the end of its established useful life earlier than predicted by the reserve study, nothing herein is intended to prevent the imposition of a special assessment or obtaining a loan. These reserve funds shall be used for the repair or replacement of components that have reached the end of their established useful life as set forth in the most recent reserve study undertaken pursuant to section 6 of P.L.2023, c.214 (C.45:22A-44.2). b. When an expenditure of the reserve funds is required to repair or replace a component pursuant to subsection a. of this section, the association shall use only the amount of reserve funds allocated by the reserve study to make such repair or replacement, unless: (1) the use of such additional funds from the reserve fund is not reasonably anticipated to prevent or interfere with the ability of the association to undertake additional repairs or replacements in the five years subsequent to the additional expenditure; and (2) the association’s executive board adopts a written resolution requiring that the expenditure of these additional funds shall be recovered within the following five fiscal years. P.L. 2023, CHAPTER 214 6 c. If an association existing as of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) does not have an adequate reserve fund as described in subsection a. of this section, and the increase in the association’s budget line item for reserve funding to render it adequate as set forth in the reserve study would, without reference to any other budget line item adjustments, require an increase of more than 10 percent of the previous year’s common expense assessment, the deficiency shall be made adequate within the earlier of the following 10 fiscal years, or the projected date predicted by the reserve study by which absent increased funding, the balance in the association’s reserve account would fall below zero. In either case, the annual increas e in reserve funding during the required period of time shall be an equal annual line item increase in the reserve fund until the reserve fund is made adequate, notwithstanding causing an increase of more than 10 percent in the annual common expense assessment. d. If an association existing as of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) does not have an adequate reserve fund as described in subsection a. of this section, and the increase in the association’s budget line item for reserve funding to render it in conformity with the reserve study would, without reference to any other item adjustments, require an increase of less than 10 percent of the previous year’s common expense assessment, the deficiency shall be made adequate within the following two fiscal years. C.45:22A-45a Executive board, assessment payable by owners, loan, reasonable, funding corrective maintenance, primary load bearing system, planned real estate development. 8. a. Notwithstanding the terms of a declaration, master deed, bylaws, or other governing document of an association, the executive board may, without the consent of the owners or approval of a developer selling units in the planned real estate development, adopt an assessment payable by the owners over one or more fiscal years or obtain a loan on such terms as the board determines are reasonable, whenever necessary to fund the cost of corrective maintenance of the primary load bearing system of the planned real estate development pursuant to section 3 of P.L.2023, c.214 (C.52:27D-132.4). Prior to adopting an assessment or obtaining a loan under this section, the executive board shall make a determination that the assessment or loan are necessary to maintain structural integrity of a building and shall obtain a written report from an engineer or architect licensed by the State that states that the failure to undertake corrective maintenance of the primary load bearing system will: (1) constitute an imminent or reasonably foreseeable hazard to health or safety; (2) constitute a violation of section 3 of P.L.2023, c.214 (C.52:27D-132.4), or (3) will result in a material increase in the cost of such corrective maintenance if delayed. b. Nothing in this section shall prevent or interfere with the right of an association to pursue a lawsuit concerning claims for construction defects related to any common element of the planned real estate development. C.45:22A-43.1 Developer, document preparation, preventative maintenance tasks over life of common area components; schedule; timing. 9. The developer shall prepare a document which sets forth the preventative maintenance tasks to be undertaken by the association over the life of the common area components. This preventive maintenance document shall provide the maintenance schedule and timing for preventive maintenance, including, but not limited to, periodic inspections of the structural components of the buildings or common areas which the association is obligated to maintain. The developer shall include within the budget prepared in accordance with the rules and regulations adopted pursuant to section 15 of P.L.1977, c.419 (C.45:22A-35) all operating expenses associated with the preventative maintenance set forth in the preventative P.L. 2023, CHAPTER 214 7 maintenance document prepared pursuant to this section. The preventative maintenance document shall be updated at the completion of any structural inspections performed pursuant to P.L.2023, c.214 (C.52:27D-132.2 et al.) in order to reflect and address any required corrective maintenance. C.45:22A-47.1 Developer relinquishing, unit owners accept association control, deliverance of items, certain, applicable. 10. Within 60 days after the conveyance of 75 percent of the lots, parcels, units, or interests, the developer shall relinquish control of the association, and the unit owners shall accept control, as required by section 5 of P.L.1993, c.30 (C.45:22A-47). At that time, the developer shall also deliver to the association all property of the unit owners and of the association held or controlled by the developer, including, but not limited to, the following items, if applicable, as to each lot, parcel, unit, or interest operated by the association: a. A photocopy of the recorded master deed or declaration and all amendments thereto, certified by affidavit of the developer, or an officer or agent of the developer, as being a complete copy of the actual master deed. b. A certified copy of the association's articles of incorporation, or if not incorporated, then copies of the documents creating the association. c. A copy of the bylaws and all amendments thereto, certified by affidavit of the developer, or an officer or agent of the developer, as being a complete copy of the bylaws. d. A preventative maintenance document or manual created by the developer pursuant to section 9 of P.L.2023, c.214 (C.45:22A-43.1) which sets forth a schedule for monitoring on a periodic basis the structural integrity of the buildings’ primary load bearing sys tem. e. The minute books, including all minutes, and other books and records of the association, if any. f. Any house rules and regulations which have been promulgated. g. Resignations of officers and members of the governing board or other form of administration who are required to resign because the developer is required to relinquish control of the association. h. An accounting for all association funds, including capital accounts and contributions as of the date of the election of a majority of the executive board members. i. Association funds or control thereof. j. All tangible personal property that is property of the association, represented by the developer to be part of the common elements or ostensibly part of the common elements, and an inventory of that property. k. A copy of the plans and specifications utilized in the construction or remodeling of improvements and the supplying of equipment to the planned real estate development, including plans setting forth all field changes impacting any component of the primary load bearing system and in the construction and installation of all mechanical components serving the improvements and the site, with a certificate in affidavit form of the developer, his agent, or an architect or engineer authorized to practice in this State that such plans and specifications represent, to the best of their knowledge and belief, the actual plans and specifications utilized in the construction and improvement of the condominium property and for the construction and installation of the mechanical components serving the improvements. l. Insurance policies. m. Copies of any certificates of occupancy which may have been issued for the planned real estate development property. P.L. 2023, CHAPTER 214 8 n. Any other permits issued by governmental bodies applicable to the planned real estate development property in force or issued within one year prior to the date the unit owners other than the developer take control of the association. o. All written warranties of the contractor, subcontractors, suppliers, and manufacturers, if any, that are still effective. p. A roster of unit owners and their addresses and telephone numbers, if known, as shown on the developer's records. q. Leases of the common elements and other leases to which the association is a party. r. Employment contracts, management contracts, maintenance contracts, contracts for the supply of equipment or materials, and service contracts in which the association is one of the contracting parties and maintenance contracts and service contracts in which the association or the unit owners have an obligation or responsibility, directly or indirectly, to pay some or all of the fee or charge of the person or persons performing the service. s. All other contracts to which the association is a party. 11. This act shall take effect immediately. Approved .
+CHAPTER 214
+AN ACT concerning structural integrity regulation for certain residential structures,
+supplementing P.L.1975, c.217 (C.52:27D-119 et seq.), and amending and supplementing
+P.L.1977, c.419.
+BE IT ENACTED by the Senate and General Assembly of the State of New Jersey:
+C.52:27D-132.2 Findings, declarations.
+1. The Legislature finds and declares that:
+a. The importance of the structural integrity of residential buildings in New Jersey has
+become a growing concern for many, especially in the wake of the tragic collapse of a highrise, multifamily housing structure in Florida.
+b. In light of these growing concerns, it is appropriate for the Legislature to put in pl ace
+appropriate procedures for inspecting, evaluating, and maintaining the structural integrity of
+certain residential housing structures within this State.
+C.52:27D-132.3 Definitions.
+2. As used in P.L.2023, c.214 (C.52:27D-132.2 et al.):
+“Balcony” means an extension of the interior living space of the building that extends
+outwards from the facade of a covered building and is exposed to the elements.
+“Bureau” means the Bureau of Housing Inspection in the Department of Community Affairs.
+“Corrective maintenance” means maintenance to be undertaken following the detection of
+deterioration of the primary load bearing system with the goal of remediating the condition
+reported by the structural inspector.
+“Covered building” means a residential condominium or cooperative building that has a
+primary load bearing system that is comprised of a concrete, masonry, steel, or hybrid structure
+including, without limitation, heavy timber and a building with podium decks, but not
+including an excluded structure.
+“Covered building owner” means the owner of a covered building, whose name appears of
+record with the county clerk or register, or the association of a common interest community.
+“Excluded structure” means:
+(1) International Standardization Organization ISO Type 1 construction or frame-built
+construction with combustible walls or roofs, but not including a podium deck on which the
+frame-built construction is situated;
+(2) a building with ancillary elements that are not part of the primary load bearing syste m
+such as, but not limited to, elevator shafts or concrete, masonry, steel, or heavy timber that the
+primary load bearing system does not deliver a building’s load to the foundation;
+(3) a building that is not a condominium or cooperative, and consists primarily of rental
+dwellings; or
+(4) a single-family dwelling.
+“Podium deck” means a structural slab or deck that transfers applied loads from the
+structure above to the structure below.
+“Primary load bearing system” means the assemblage of structural components within a
+building comprised of columns, beams, or bracing that by contiguous interconnection form a
+path by which external and internal forces applied to the building are delivered to the
+foundation. The foundation as well as any connected or attached balconies shall be included
+as part of the primary load bearing system evaluation.
+P.L. 2023, CHAPTER 214
+2
+“Structural inspector” means:
+(1) a construction official, as that term is used in section 8 of P.L.1975, c.217 (C.52:27D126), who is also an engineer licensed by the State;
+(2) an employee of the bureau who is also an engineer licensed by the State; or
+(3) an engineer licensed by the State who has the same qualifications required of an
+engineer under contract with the enforcing agency with whom the covered building owner
+contracts to perform inspections of covered buildings under section 3 of P.L.2023, c.214
+(C.52:27D-132.4).
+C.52:27D-132.4 Initial structural inspection, building components, primary load bearing
+system, covered building, timelines; reports.
+3. a. Following the issuance of a certificate of occupancy, an initial structural inspection of
+the building components forming the primary load bearing system of a covered building shall
+be undertaken by a post-occupancy structural inspector retained by the covered building owner
+within the earlier of:
+(1) 15 years of the date on which the covered building receives a certificate of occupancy
+pursuant to section 15 of P.L.1975, c.217 (C.52:27D-133); or
+(2) 60 days after observable damage to the primary load bearing system.
+b. If a covered building has received a certificate of occupancy pursuant to section 15 of
+P.L.1975, c.217 (C.52:27D-133) prior to the effective date of P.L.2023, c.214 (C.52:27D-132.2
+et al.), then an initial structural inspection shall be undertaken by a structural inspector based
+on the number of years the certificate of occupancy preceded the effective date of P.L.2023,
+c.214 (C.52:27D-132.2 et al.), as provided in this subsection. If the certificate of occupancy
+was provided:
+(1) one day to 14 years and 364 days prior to the effective date of P.L.2023, c.214
+(C.52:27D-132.2 et al.), then the structural inspection shall occur within one year of the date
+15 years following the date of the issuance of the certificate of occupancy; or
+(2) 15 or more years prior to the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.),
+then the structural inspection shall occur within two years following the effective date of
+P.L.2023, c.214 (C.52:27D-132.2 et al.).
+c. A building that has been converted to a condominium or cooperative form of ownership
+after the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall, as part of the process
+of registering the project pursuant to the “Planned Real Estate Development Full Disclosure
+Act,” P.L.1977, c.419 (C.45:22A-21 et seq.) and the regulations promulgated thereunder, be
+required to follow the schedule of inspections provided in paragraphs (1) and (2) of subsection
+b. of this section.
+d. After the post-occupancy structural inspector has performed an inspection pursuant to
+subsection a. of this section, the post-occupancy structural inspector shall issue a written report
+describing the condition of the primary load bearing system. The post-occupancy structural
+inspection report shall:
+(1) set forth with specificity any required maintenance or repairs needed by the primary
+load bearing system;
+(2) determine when the next inspection of the primary load bearing system shall be
+performed, but in no event shall a secondary inspection occur more than the earlier of: (a) 10
+years after the initial inspection has taken place; or (b) not more than 60 days after there is
+observable damage to the primary load bearing system;
+P.L. 2023, CHAPTER 214
+3
+(3) be provided to the municipal appointing authority, the construction official and the
+enforcing agency;
+(4) be prepared in accordance with the protocol established by the American Society of
+Civil Engineers, for the structural condition assessment of a covered building or a similar
+protocol by another nationally recognized structural engineering organization; and
+(5) provide any other information or guidance necessary to maintain the structural integrity
+of a covered building.
+e. If the structural inspector’s report created pursuant to subsection d. of this section finds
+that corrective maintenance of the primary load bearing system is required, the report shall
+specify with reasonable detail the required corrective maintenance.
+f. Notwithstanding the structural inspector’s initial inspection and report undertaken
+pursuant to subsections a. through e. of this section, subsequent structural inspections and
+reports shall be provided for as set forth by the structural inspector’s preceding report as
+follows:
+(1) The structural inspector shall determine a reasonable period of time within which the
+next inspection shall take place provided, however, that any subsequent inspection under this
+paragraph shall not take place more than five years after a preceding inspection.
+(2) The structural inspector shall review the preceding inspection report prior to undertaking
+subsequent inspection of the covered building. After the structural inspector completes this
+review and inspection, the structural inspector will then issue a subsequent inspection report
+which shall:
+(a) make note of any new or progressive deterioration;
+(b) set forth the covered maintenance required to address any new or progressive
+deterioration; and
+(c) be provided to the covered building owner, who shall undertake measures necessary to
+effectuate the covered maintenance, including, but not limited to, engaging the services of an
+architect or engineer licensed by the State and qualified in structural repairs or maintenance to
+create plans or specifications to implement the covered maintenance. The covered building
+owner shall cause any plans or specifications created pursuant to this subparagraph to be filed
+with the municipal appointing authority or enforcing agency.
+(3) If the post-occupancy structural inspector’s inspection finds that there is no need for
+corrective maintenance, the written report shall be filed with the enforcing agency or municipal
+appointing authority.
+(4) Any written reports issued by the post-occupancy structural inspector pursuant to this
+section shall be provided to the covered building’s owner and shall be made available to any
+resident of a covered building upon request.
+g. Inspections conducted pursuant to this section may be conducted in conjunction with
+other required inspections, including, but not limited to, inspections required pursuant to the
+“Hotel and Multiple Dwelling Law,” P.L.1967, c.76 (C.55:13A-1 et seq.).
+C.52:27D-132.5 Post-occupancy structural inspector, American Society of Civil Engineers
+protocols, similar, good faith performance of duties, civil liability, injury, prohibited.
+4. A post-occupancy structural inspector who performs the duties set forth in section 3 of
+P.L.2023, c.214 (C.52:27D-132.4) in good faith and pursuant to the protocols adopted by the
+American Society of Civil Engineers, or similar protocols by another nationally recognized
+structural engineering association, shall not incur any civil liability for injury associated with
+any inspection undertaken by the structural inspector.
+P.L. 2023, CHAPTER 214
+4
+5. Section 6 of P.L.1977, c. 419 (C.45:22A-26) is amended to read:
+C.45:22A-26 Registration of development; delivery to purchaser of current public offering
+statement; right to cancel contract after execution; notice; report, copies.
+6. a. Unless otherwise exempted:
+(1) No developer may offer or dispose of any interest in a planned real estate development,
+prior to the registration of such development with the agency.
+(2) No developer may dispose of any lot, parcel, unit, or interest in a planned real estate
+development, unless he: delivers to the purchaser a current public offering statement, on or
+before the contract date of such disposition.
+b. Any contract or agreement for the purchase of any parcel, lot, unit, or interest in a
+planned real estate development may be canceled without cause by the purchaser by sending
+or delivering written notice of cancellation by midnight of the seventh calendar day following
+the day on which the purchaser has executed such contract or agreement. Every such contract
+or agreement shall contain, in writing, the following notice in 10-point bold type or larger,
+directly above the space provided for the signature of the purchaser:
+"NOTICE TO THE PURCHASER: you have the right to cancel this contract by sending or
+delivering written notice of cancellation to the developer by midnight of the seventh calendar
+day following the day on which it was executed. Such cancellation is without penalty, and any
+deposit made by you shall be promptly refunded in its entirety."
+c. Notice as required in subsection b. shall, in addition to all other requirements, be
+conspicuously located and simply stated in the public offering statement.
+d. The developer shall make copies of the public offering statement freely available to
+prospective purchasers prior to the contract date of disposition.
+e. The developer shall make copies of any written report or document prepared pursuant
+to sections 3 or 9 of P.L.2023, c.214 (C.52:27D-132.4 or 45:22A-43.1) available to prospective
+purchasers prior to the contract date of disposition.
+C.45:22A-44.2 Planned real estate development, association, capital reserve study, anticipated
+costs, replacement, repair, common interest community; standards, credentials.
+6. a. Any association of a planned real estate development shall undertake and fund a
+capital reserve study which shall determine or assess the adequacy of the association’s capital
+reserve funds to meet the anticipated costs of replacement or repair of the capital assets of a
+common interest community that the association is obligated to maintain. All capital reserve
+studies shall be prepared in conformity with the latest edition of the National Reserve Study
+Standards of the Community Associations Institute or similar standards by another recognized
+national organization. A capital reserve study conducted pursuant to this section shall be
+performed or overseen by a reserve specialist who is credentialed through the Community
+Associations Institute or an engineer or architect who is licensed by the State and shall include,
+but be not limited to, the following:
+(1) the association’s capital reserve fund balances;
+(2) the association’s anticipated income and expenses;
+(3) an analysis of the physical status and of the common area components of the buildings
+and other common areas that the association is obligated to maintain;
+(4) the anticipated costs associated with the building maintenance, as well as the anticipated
+costs of repair or replacement of common area building components, which are necessary to
+maintain the structural integrity of the buildings and other common area components that the
+association is obligated to maintain;
+P.L. 2023, CHAPTER 214
+5
+(5) a reasonable estimate of the cost of:
+(a) future reserve studies;
+(b) reserve study updates; and
+(c) periodic structural inspections required pursuant to section 3 of P.L.2023, c.214
+(C.52:27D-132.4);
+(6) a reasonable estimate of the costs associated with implementing any corrective
+maintenance deemed necessary pursuant to section 3 of P.L.2023, c.214 (C.52:27D-132.4);
+(7) a proposed 30-year funding plan, as described in section 7 of P.L.2023, c.214
+(C.45:22A-44.3) that establishes the adequate proposed capital reserve funding over a 30-year
+time period; and
+(8) any other information necessary to perform an analysis of the adequacy of the
+association’s capital reserve funds relative to maintaining the structural integrity of buildings
+and common areas which the association is obligated to maintain.
+b. Associations which have not undertaken a reserve study within five years of the
+effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall undertake a reserve study within
+one year of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.). Associations formed
+after the effective date of P.L.2023, c.214 (C.52:27D-132.2 et al.) shall undertake a reserve
+study as soon as practicable after the election of a majority of an executive board pursuant to
+section 5 of P.L.1983, c.30 (C.45:22A-47), but in no event shall such study be undertaken more
+than two years following the election of a majority of the executive board under section 5 of
+P.L.1983, c.30 (C.45:22A-47).
+c. A covered building owner, as defined in section 2 of P.L.2023, c.214 (C.52:27D-132.3),
+shall ensure that a capital reserve study conducted pursuant to this section shall be reviewed
+by a licensed architect, engineer, or credentialed reserve specialist and that a capital reserve
+study be conducted and reviewed at least once every five years.
+d. This section shall not apply to an association of a planned real estate development with
+less than $25,000 in total common area capital assets.
+C.45:22A-44.3 Planned real estate development, association, reserve study, 30-year funding
+plan, repair, replace capital assets, common elements, facilities; special assessment, loans.
+7. a. An association of a planned real estate development shall obtain a reserve study
+including a 30-year funding plan in order to ensure that the association has adequate reserve
+funds available to repair or replace the capital assets located on the common elements and
+facilities that the association is obligated to maintain without need to create a special
+assessment or loan obligation, except that in those cases in which a capital asset reaches the
+end of its established useful life earlier than predicted by the reserve study, nothing herein is
+intended to prevent the imposition of a special assessment or obtaining a loan. These reserve
+funds shall be used for the repair or replacement of components that have reached the end of
+their established useful life as set forth in the most recent reserve study undertaken pursuant
+to section 6 of P.L.2023, c.214 (C.45:22A-44.2).
+b. When an expenditure of the reserve funds is required to repair or replace a component
+pursuant to subsection a. of this section, the association shall use only the amount of reserve
+funds allocated by the reserve study to make such repair or replacement, unless:
+(1) the use of such additional funds from the reserve fund is not reasonably anticipated to
+prevent or interfere with the ability of the association to undertake additional repairs or
+replacements in the five years subsequent to the additional expenditure; and
+(2) the association’s executive board adopts a written resolution requiring that the
+expenditure of these additional funds shall be recovered within the following five fiscal years.
+P.L. 2023, CHAPTER 214
+6
+c. If an association existing as of the effective date of P.L.2023, c.214 (C.52:27D-132.2 et
+al.) does not have an adequate reserve fund as described in subsection a. of this section, and the
+increase in the association’s budget line item for reserve funding to render it adequate as set
+forth in the reserve study would, without reference to any other budget line item adjustments,
+require an increase of more than 10 percent of the previous year’s common expense assessment,
+the deficiency shall be made adequate within the earlier of the following 10 fiscal years, or the
+projected date predicted by the reserve study by which absent increased funding, the balance in
+the association’s reserve account would fall below zero. In either case, the annual increas e in
+reserve funding during the required period of time shall be an equal annual line item increase
+in the reserve fund until the reserve fund is made adequate, notwithstanding causing an increase
+of more than 10 percent in the annual common expense assessment.
+d. If an association existing as of the effective date of P.L.2023, c.214 (C.52:27D-132.2
+et al.) does not have an adequate reserve fund as described in subsection a. of this section, and
+the increase in the association’s budget line item for reserve funding to render it in conformity
+with the reserve study would, without reference to any other item adjustments, require an
+increase of less than 10 percent of the previous year’s common expense assessment, the
+deficiency shall be made adequate within the following two fiscal years.
+C.45:22A-45a Executive board, assessment payable by owners, loan, reasonable, funding
+corrective maintenance, primary load bearing system, planned real estate development.
+8. a. Notwithstanding the terms of a declaration, master deed, bylaws, or other governing
+document of an association, the executive board may, without the consent of the owners or
+approval of a developer selling units in the planned real estate development, adopt an
+assessment payable by the owners over one or more fiscal years or obtain a loan on such terms
+as the board determines are reasonable, whenever necessary to fund the cost of corrective
+maintenance of the primary load bearing system of the planned real estate development
+pursuant to section 3 of P.L.2023, c.214 (C.52:27D-132.4). Prior to adopting an assessment
+or obtaining a loan under this section, the executive board shall make a determination that the
+assessment or loan are necessary to maintain structural integrity of a building and shall obtain
+a written report from an engineer or architect licensed by the State that states that the failure
+to undertake corrective maintenance of the primary load bearing system will:
+(1) constitute an imminent or reasonably foreseeable hazard to health or safety;
+(2) constitute a violation of section 3 of P.L.2023, c.214 (C.52:27D-132.4), or
+(3) will result in a material increase in the cost of such corrective maintenance if delayed.
+b. Nothing in this section shall prevent or interfere with the right of an association to
+pursue a lawsuit concerning claims for construction defects related to any common element of
+the planned real estate development.
+C.45:22A-43.1 Developer, document preparation, preventative maintenance tasks over life of
+common area components; schedule; timing.
+9. The developer shall prepare a document which sets forth the preventative maintenance
+tasks to be undertaken by the association over the life of the common area components. This
+preventive maintenance document shall provide the maintenance schedule and timing for
+preventive maintenance, including, but not limited to, periodic inspections of the structural
+components of the buildings or common areas which the association is obligated to maintain.
+The developer shall include within the budget prepared in accordance with the rules and
+regulations adopted pursuant to section 15 of P.L.1977, c.419 (C.45:22A-35) all operating
+expenses associated with the preventative maintenance set forth in the preventative
+P.L. 2023, CHAPTER 214
+7
+maintenance document prepared pursuant to this section. The preventative maintenance
+document shall be updated at the completion of any structural inspections performed pursuant
+to P.L.2023, c.214 (C.52:27D-132.2 et al.) in order to reflect and address any required
+corrective maintenance.
+C.45:22A-47.1 Developer relinquishing, unit owners accept association control, deliverance
+of items, certain, applicable.
+10. Within 60 days after the conveyance of 75 percent of the lots, parcels, units, or
+interests, the developer shall relinquish control of the association, and the unit owners shall
+accept control, as required by section 5 of P.L.1993, c.30 (C.45:22A-47). At that time, the
+developer shall also deliver to the association all property of the unit owners and of the
+association held or controlled by the developer, including, but not limited to, the following
+items, if applicable, as to each lot, parcel, unit, or interest operated by the association:
+a. A photocopy of the recorded master deed or declaration and all amendments thereto,
+certified by affidavit of the developer, or an officer or agent of the developer, as being a
+complete copy of the actual master deed.
+b. A certified copy of the association's articles of incorporation, or if not incorporated,
+then copies of the documents creating the association.
+c. A copy of the bylaws and all amendments thereto, certified by affidavit of the
+developer, or an officer or agent of the developer, as being a complete copy of the bylaws.
+d. A preventative maintenance document or manual created by the developer pursuant to
+section 9 of P.L.2023, c.214 (C.45:22A-43.1) which sets forth a schedule for monitoring on a
+periodic basis the structural integrity of the buildings’ primary load bearing sys tem.
+e. The minute books, including all minutes, and other books and records of the
+association, if any.
+f. Any house rules and regulations which have been promulgated.
+g. Resignations of officers and members of the governing board or other form of
+administration who are required to resign because the developer is required to relinquish
+control of the association.
+h. An accounting for all association funds, including capital accounts and contributions as
+of the date of the election of a majority of the executive board members.
+i. Association funds or control thereof.
+j. All tangible personal property that is property of the association, represented by the
+developer to be part of the common elements or ostensibly part of the common elements, and
+an inventory of that property.
+k. A copy of the plans and specifications utilized in the construction or remodeling of
+improvements and the supplying of equipment to the planned real estate development,
+including plans setting forth all field changes impacting any component of the primary load
+bearing system and in the construction and installation of all mechanical components serving
+the improvements and the site, with a certificate in affidavit form of the developer, his agent,
+or an architect or engineer authorized to practice in this State that such plans and specifications
+represent, to the best of their knowledge and belief, the actual plans and specifications utilized
+in the construction and improvement of the condominium property and for the construction
+and installation of the mechanical components serving the improvements.
+l. Insurance policies.
+m. Copies of any certificates of occupancy which may have been issued for the planned
+real estate development property.
+P.L. 2023, CHAPTER 214
+8
+n. Any other permits issued by governmental bodies applicable to the planned real estate
+development property in force or issued within one year prior to the date the unit owners other
+than the developer take control of the association.
+o. All written warranties of the contractor, subcontractors, suppliers, and manufacturers,
+if any, that are still effective.
+p. A roster of unit owners and their addresses and telephone numbers, if known, as shown
+on the developer's records.
+q. Leases of the common elements and other leases to which the association is a party.
+r. Employment contracts, management contracts, maintenance contracts, contracts for the
+supply of equipment or materials, and service contracts in which the association is one of the
+contracting parties and maintenance contracts and service contracts in which the association
+or the unit owners have an obligation or responsibility, directly or indirectly, to pay some or
+all of the fee or charge of the person or persons performing the service.
+s. All other contracts to which the association is a party.
+11. This act shall take effect immediately.
+Approved .

@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FNMA_B4_2_PROJECT_STANDARDS",
   "sourceUrl": "https://selling-guide.fanniemae.com/sel/b4-2/project-standards",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "b8187ee6980ff1d9693529c50e439915acbf57b0e1f14ccdfbbbbdb942f182be",
   "bytes": 234112
 }

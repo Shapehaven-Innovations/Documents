@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "NJ_DCA_STRUCTURAL_FAQ_PDF",
   "sourceUrl": "https://www.nj.gov/dca/codes/forms/pdf_pred/str_int_cap_res_faq.pdf",
   "filename": "str_int_cap_res_faq.pdf",
+  "textFile": "document.txt",
   "sha256": "e1a4aafbd55e99a630b8594b498aa1bb399ec42b0abad720968b913a30dbaea9",
   "bytes": 1113051
 }

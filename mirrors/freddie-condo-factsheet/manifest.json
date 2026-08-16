@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FRE_CONDO_FACT_SHEET_PDF",
   "sourceUrl": "https://sf.freddiemac.com/docs/pdf/fact-sheets/condo_mortgages_project_reviews_597.pdf",
   "filename": "condo_mortgages_project_reviews_597.pdf",
+  "textFile": "document.txt",
   "sha256": "40369995470865ac247855b338da7067e4cca8d0b32c84af97edafff0161a245",
   "bytes": 1591230
 }

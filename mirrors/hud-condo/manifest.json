@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "HUD_CONDO_PAGE",
   "sourceUrl": "https://www.hud.gov/hud-partners/single-family-ins-condominiums",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "6a28c52abd79cf365aae6209a1e4fc36cd565c5214cfc81418d04d11a417deb4",
   "bytes": 151967
 }

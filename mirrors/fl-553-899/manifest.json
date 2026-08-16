@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FL_STATUTE_553_899",
   "sourceUrl": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0553/Sections/0553.899.html",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "99bdb8183c9049b964beaef093c4134ef42ec0b9b67cec419a2a987a4ecb74fd",
   "bytes": 38960
 }

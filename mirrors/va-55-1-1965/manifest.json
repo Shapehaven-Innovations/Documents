@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "VA_55_1_1965",
   "sourceUrl": "https://law.lis.virginia.gov/vacode/title55.1/section55.1-1965/",
   "filename": "page.html",
-  "sha256": "40bc676fef8c7d741bff9e41e305ed4fdf266c480b4d6c4e81b3c1a192afde9c",
-  "bytes": 31958
+  "textFile": "page.txt",
+  "sha256": "c86cc7fff6382802914e74381a1320688ba5155b702c24132f4ab438c88e82c6",
+  "bytes": 29880
 }

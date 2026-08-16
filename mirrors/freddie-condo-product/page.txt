@@ -1,1 +1,314 @@
-Condominium Unit Mortgages - Freddie Mac Single-Family Skip to main content SF.FreddieMac.com Freddie Mac Home View our other sites Freddie Mac Home View sites for Single-Family Division Single-Family Division Insights, products, and technology to help you grow your business. Seller/Servicer Guide Learn how to work with us with our Guide Bulletins and Industry Letters. Multifamily Division Capital Markets Division View sites for Renters, Buyers and Owners My Home by Freddie Mac ® Resources to help you rent, buy, and own your home. Do we own your mortgage? Find out if Freddie Mac owns your loan using our secure lookup tool. Did we finance your apartment? Use our lookup tool to see if Freddie Mac financed your apartment building. CreditSmart ® Financial and homeownership education resources all about you. Freddie Mac Single-Family Home (800-FREDDIE) Working with Us Technology Learning News & Insights Search Seller/Servicer Guide Toggle (800-FREDDIE) Working with Us Become a Seller/Servicer Responsible Lending Resources for Responsible Lending Requirements Annual Certification and Change and Activity Reporting Origination & Underwriting Improving Workflow Mortgage Products Resources & Learning Selling & Delivery Selling with Confidence Delivery, Options & Pricing Resources & Learning Servicing Servicing Excellence Servicing Products and Programs Resources Affordable Lending Solutions Reaching Borrowers News & Insights CreditSmart DPA One eMortgage eDisclosures and eClosings eMortgages Participants and Vendors Review/Approval Requirements eSign for Loss Mitigation eMortgage Client Trainings Foreclosure Prevention Fraud Prevention Fraud Prevention and Best Practices Exclusionary List Housing Counselors Supporting Customers Education & Insights Housing Finance Agencies HFA Resource Center Housing Finance Agency Forms Contact Us Real Estate Professionals Training Secondary Market Advisors Integrated SMAs Technology System Status Freddie Mac Gateway Condo Project Advisor Loan Collateral Advisor Loan Closing Advisor Loan Collateral Advisor Loan Coverage Advisor Loan Product Advisor Loan Quality Advisor Loan Selling Advisor Attorney Data Reporting (ADR) BPODirect Cash Manager Default Fee Appeal System Electronic Default Reporting (EDR) eBilling Loan Level Reporting Payments Automated Intelligent and Dynamic (PAID) Post-Fund Data Correction Tool Real Estate Valuation and Pricing Resolve Servicer Performance Profile Servicing Data Corrections Servicing Transfer Manager Total MI Claims Total MI Reconciliations Freddie Mac Gateway Our Solutions Get Started with Freddie Mac Gateway Technology Releases Technology Release Archive Technology Learning Freddie Mac Tools Request Form Freddie Mac Income Calculator Access Manager Get Started TPO Direct Access Sign-up TPO Sponsored Access Sign-up Software Provider API Solutions Origination APIs Getting Started with APIs ECO: Evaluate | Compare | Optimize Get Started with ECO Uniform Mortgage Data Program (UMDP) Uniform Appraisal Dataset Uniform Closing Dataset Uniform Collateral Data Portal Uniform Loan Delivery Dataset Uniform Instruments 2001 Construction Conversion Modification Agreements 2021 Updated Instruments News & Updates Learning News & Insights All Insights & Research All News & Announcements Mortgage Technology Business Market of the Future Home Starts Here Podcast Search Seller/Servicer Guide Close Navigation Enter your search Search Process Become a Seller/Servicer Origination & Underwriting Selling & Delivery Servicing Programs Affordable Lending CreditSmart DPA One eMortgage Foreclosure Prevention Fraud Prevention Collaboration Housing Counselors Housing Finance Agencies Spacer Only Real Estate Professionals Secondary Market Advisors Featured Technology System Status Freddie Mac Gateway Freddie Mac Income Calculator Access Manager Spacer TPO Direct Access Sign-up TPO Sponsored Access Sign-up Software Provider Spacer API Solutions ECO: Evaluate | Compare | Optimize Uniform Mortgage Data Program (UMDP) Uniform Instruments Freddie Mac Gateway® Freddie Mac Gateway ® is the entry point to access the Single-Family tools you need to manage your loans throughout the entire mortgage lifecycle. Browse All Insights & Research All News & Announcements Featured Topics Mortgage Technology Business Market of the Future Media Home Starts Here Podcast Enter your search Search Origination & Underwriting Improving Workflow Mortgage Products Resources & Learning Mortgage Products Improving Workflow Resources & Learning Home Working With Us Condominium Unit Mortgages If you’re looking for solutions and options for mortgages you originate that are secured by condominium units, we have a review process that lets you easily determine project status with comprehensive criteria. Project eligibility requirements include items such as financial viability, the residential nature of the project (for example, does the project also include commercial space, hotel operation, business income, etc.), and the ownership structure. Who are Condominium Unit Mortgages for? Borrowers who want to purchase a qualifying condominium. Read Factsheet Not Eligible Status Data Form Use this form to find out if a condominium project has been assigned a Not Eligible status or to initiate an appeal of an existing Not Eligible status. Disclaimer The information on this page is not part of, and is not a replacement or substitute for, the requirements found in the Freddie Mac Single-Family Seller/Servicer Guide and your other Purchase Documents. Mortgage Product Features Eligibility/Underwriting Determining Condominium Project and Mortgage Eligibility 1. Make sure you comply with our condominium project review and general condominium project eligibility requirements in Single-Family Seller/Servicer Guide (Guide) ( See Section 5701.2 for full details). 2. Determine if the mortgage meets the requirements in Section 5701.7 , Exempt From Review or the project meets the requirements for condominium projects with a Project Certified status PAR finding in Section 5701.7 . If the mortgage does not have a Project Certified status PAR finding or Section 5701.7 does not apply, determine which one of the project review types applies and ensure the requirements for that project review type are met. Established condominium Project Reviews 1 ( Section 5701.5 ) New condominium Project Reviews 2 ( Section 5701.6 ) Reciprocal Project Review (CPM (Approved by Fannie Mae/Certified by Lender)/FHA) ( Section 5701.9 ) 1 An Established Condominium Project is a Condominium Project in which: The Condominium Project (all condominium units, common elements and amenities) and related facilities owned by any Master Association are complete and not subject to any additional phasing. With respect to unit ownership, at least 75% of the total units in the project have been conveyed to the unit purchasers The unit owners control the homeowners association 2 A New Condominium Project is a condominium project in which: The condominium project (all condominium units, common elements and amenities) and related facilities owned by any Master Association are not complete, or are subject to additional phasing. Fewer than 75% of the total number of units in the project must have been conveyed to the unit purchasers, or The developer has not turned control of the homeowners association over to the unit owners 3. Follow our condominium delivery requirements (See Section 5701.12 for more information). Read our factsheets: Condominium Unit Mortgages and Project Reviews Determining Condominium Project and Mortgage Eligibility Get More Information If a Seller determines that a condominium unit in an established condominium project does not meet certain Freddie Mac project eligibility requirements and concludes that the condominium unit is still adequate collateral for the mortgage transaction, see Section 5701.11 for information on requesting Freddie Mac to consider a waiver of certain project eligibility requirements. If a Seller wants to obtain feedback regarding an established condominium project’s compliance with the project review requirements that Condo Project Advisor assesses, see Section 5701.10 for more information. Sellers may also contact their Freddie Mac account representative for more information as well as refer to the Condo Project Advisor web page and Condo Project Advisor FAQs . Refer to Guide Chapter 5701 for our complete requirements for condominiums. Condo Project Advisor ® Training Training resources to help you use Condo Project Advisor ® . Condominium Unit Mortgage FAQ Frequently asked questions about solutions and options for mortgages secured by condominium units. Condo Project Advisor Request unit-level exceptions (PWRs) for existing condominium projects and obtain feedback (PARs) regarding existing condominium projects’ compliance with certain project review requirements early in the loan origination process so you can close more condominium loans. Condominium Unit Mortgages and Project Reviews​ Easily determine project status with comprehensive criteria. Download our Condominium Unit Mortgages and Project Reviews fact sheet. Condominium Project Questionnaire – Full Form​​ You may want to use this optional form (full-length version) to collect information from HOAs. Form 476A​​​ Review the addendum to the condominium questionnaire - full form. Determining Condominium Project & Mortgage Eligibility​​​​ Make sure you comply with our condominium project review and general condominium project eligibility requirements in Single-Family Seller/Servicer Guide (Section 5701.2). Condominium Project Status Inquiry and Appeal Request​​​​ This tutorial provides information regarding a Seller’s or authorized HOA representative’s request of the condominium project status and/or to request an appeal. Critical Repairs & Evacuation Orders: Condominium and Cooperative Project Requirements​​​​​ Using multiple scenarios, this short tutorial will help you understand our requirements regarding critical repairs and evacuation orders. Condo Project Advisor ® Access: Third-Party Originators (TPOs)​​​​​​ Use this resource to guide you through the steps to obtain access to Condo Project Advisor to use the Project Assessment Lookup to gain early insight into whether condo projects meet certain project review and eligibility requirements. Seller/Servicer Guide​​​​​​ The same content you depend on, but more streamlined, intuitive and usable, with a modern look, robust search and improved functionality. Other Condominium Requirements in the Single-Family Seller/Servicer Guide Guide Bulletin 2020-20: Updates to Property Insurance, Condo Project Advisor ® and eMortgages Guide Section 5701.3: Ineligible Projects Guide Section 5701.6: New Condominium Projects Guide Section 5701.12: Delivery Requirements Guide Chapter 5701: Condominiums Guide Section 5701.7: Exempt From Review Guide Section 5701.2: Condominium Project review and general Condominium Project eligibility requirements Guide Section 5701.5: Established Condominium Projects Guide Section 5701.9: Reciprocal Review Resources for Borrowers Reaching and educating borrowers &ndash; and helping them find the right mortgage &ndash; is essential for your business. Freddie Mac provides an array of materials you can share with your clients and business prospects. CreditSmart ® CreditSmart ® is a suite of educational resources designed to empower consumers with the skills and knowledge to assist them through every stage of their financial capability and homeownership journey. Reaching Borrowers Take advantage of the information we have gathered here to expand your efforts in reaching homebuyers in today’s changing marketplace. MyHome Whether your borrowers rent, own, or plan to buy, we offer the resources to help make informed decisions and support their success. Duty to Serve Making Affordable Homeownership Available to Every Single Family GreenCHOICE Mortgages ® Our GreenCHOICE Mortgage ® offering helps families facilitate the financing of energy efficient home improvements and energy efficient homes. Share Subscription Center Get and stay connected with Freddie Mac Single-Family. Subscribe to our emails and we'll send the information that you want straight to your email inbox. Sign Up Working With Us News & Insights About Affordable Lending Technology Become a Seller/Servicer Origination & Underwriting Selling & Delivery Freddie Mac Gateway Mortgage Products System Status Seller/Servicer Guide Servicing Access Manager Subscribe &copy; 2026 Freddie Mac Contact Us Careers Terms of Use Privacy Policy State Privacy Notices Cookie Preferences Your Privacy Choices &copy; 2026 Freddie Mac Follow us on social media
+Condominium Unit Mortgages - Freddie Mac Single-Family
+Skip to main content
+SF.FreddieMac.com
+Freddie Mac Home
+View our other sites
+Freddie Mac Home
+View sites for
+Single-Family Division
+Single-Family Division
+Insights, products, and technology to help you grow your business.
+Seller/Servicer Guide
+Learn how to work with us with our Guide Bulletins and Industry Letters.
+Multifamily Division
+Capital Markets Division
+View sites for
+Renters, Buyers and Owners
+My Home by Freddie Mac ®
+Resources to help you rent, buy, and own your home.
+Do we own your mortgage?
+Find out if Freddie Mac owns your loan using our secure lookup tool.
+Did we finance your apartment?
+Use our lookup tool to see if Freddie Mac financed your apartment building.
+CreditSmart ®
+Financial and homeownership education resources all about you.
+Freddie Mac Single-Family Home
+(800-FREDDIE)
+Working with Us
+Technology
+Learning
+News & Insights
+Search
+Seller/Servicer Guide
+Toggle
+(800-FREDDIE)
+Working with Us
+Become a Seller/Servicer
+Responsible Lending
+Resources for Responsible Lending
+Requirements
+Annual Certification and Change and Activity Reporting
+Origination & Underwriting
+Improving Workflow
+Mortgage Products
+Resources & Learning
+Selling & Delivery
+Selling with Confidence
+Delivery, Options & Pricing
+Resources & Learning
+Servicing
+Servicing Excellence
+Servicing Products and Programs
+Resources
+Affordable Lending
+Solutions
+Reaching Borrowers
+News & Insights
+CreditSmart
+DPA One
+eMortgage
+eDisclosures and eClosings
+eMortgages
+Participants and Vendors
+Review/Approval Requirements
+eSign for Loss Mitigation
+eMortgage Client Trainings
+Foreclosure Prevention
+Fraud Prevention
+Fraud Prevention and Best Practices
+Exclusionary List
+Housing Counselors
+Supporting Customers
+Education & Insights
+Housing Finance Agencies
+HFA Resource Center
+Housing Finance Agency Forms
+Contact Us
+Real Estate Professionals
+Training
+Secondary Market Advisors
+Integrated SMAs
+Technology
+System Status
+Freddie Mac Gateway
+Condo Project Advisor
+Loan Collateral Advisor
+Loan Closing Advisor
+Loan Collateral Advisor
+Loan Coverage Advisor
+Loan Product Advisor
+Loan Quality Advisor
+Loan Selling Advisor
+Attorney Data Reporting (ADR)
+BPODirect
+Cash Manager
+Default Fee Appeal System
+Electronic Default Reporting (EDR)
+eBilling
+Loan Level Reporting
+Payments Automated Intelligent and Dynamic (PAID)
+Post-Fund Data Correction Tool
+Real Estate Valuation and Pricing
+Resolve
+Servicer Performance Profile
+Servicing Data Corrections
+Servicing Transfer Manager
+Total MI Claims
+Total MI Reconciliations
+Freddie Mac Gateway
+Our Solutions
+Get Started with Freddie Mac Gateway
+Technology Releases
+Technology Release Archive
+Technology Learning
+Freddie Mac Tools Request Form
+Freddie Mac Income Calculator
+Access Manager
+Get Started
+TPO Direct Access Sign-up
+TPO Sponsored Access Sign-up
+Software Provider
+API Solutions
+Origination APIs
+Getting Started with APIs
+ECO: Evaluate | Compare | Optimize
+Get Started with ECO
+Uniform Mortgage Data Program (UMDP)
+Uniform Appraisal Dataset
+Uniform Closing Dataset
+Uniform Collateral Data Portal
+Uniform Loan Delivery Dataset
+Uniform Instruments
+2001 Construction Conversion Modification Agreements
+2021 Updated Instruments
+News & Updates
+Learning
+News & Insights
+All Insights & Research
+All News & Announcements
+Mortgage Technology
+Business
+Market of the Future
+Home Starts Here Podcast
+Search
+Seller/Servicer Guide
+Close Navigation
+Enter your search
+Search
+Process
+Become a Seller/Servicer
+Origination & Underwriting
+Selling & Delivery
+Servicing
+Programs
+Affordable Lending
+CreditSmart
+DPA One
+eMortgage
+Foreclosure Prevention
+Fraud Prevention
+Collaboration
+Housing Counselors
+Housing Finance Agencies
+Spacer Only
+Real Estate Professionals
+Secondary Market Advisors
+Featured Technology
+System Status
+Freddie Mac Gateway
+Freddie Mac Income Calculator
+Access Manager
+Spacer
+TPO Direct Access Sign-up
+TPO Sponsored Access Sign-up
+Software Provider
+Spacer
+API Solutions
+ECO: Evaluate | Compare | Optimize
+Uniform Mortgage Data Program (UMDP)
+Uniform Instruments
+Freddie Mac Gateway®
+Freddie Mac Gateway ® is the entry point to access the Single-Family tools you need to manage your loans throughout the entire mortgage lifecycle.
+Browse
+All Insights & Research
+All News & Announcements
+Featured Topics
+Mortgage Technology
+Business
+Market of the Future
+Media
+Home Starts Here Podcast
+Enter your
+search
+Search
+Origination & Underwriting
+Improving Workflow
+Mortgage Products
+Resources & Learning
+Mortgage Products
+Improving Workflow
+Resources & Learning
+Home
+Working With Us
+Condominium Unit Mortgages
+If you’re looking for solutions and options for mortgages you originate that are secured by condominium units, we have a review process that lets you easily determine project status with comprehensive criteria.
+Project eligibility requirements include items such as financial viability, the residential nature of the project (for example, does the project also include commercial space, hotel operation, business income, etc.), and the ownership structure.
+Who are Condominium Unit Mortgages for?
+Borrowers who want to purchase a qualifying condominium.
+Read Factsheet
+Not Eligible Status Data Form
+Use this form to find out if a condominium project has been assigned a Not Eligible status or to initiate an appeal of an existing Not Eligible status.
+Disclaimer
+The information on this page is not part of, and is not a replacement or substitute for, the requirements found in the Freddie Mac Single-Family Seller/Servicer Guide and your other Purchase Documents.
+Mortgage Product Features
+Eligibility/Underwriting
+Determining Condominium Project and Mortgage Eligibility
+1. Make sure you comply with our condominium project review and general condominium project eligibility requirements in Single-Family Seller/Servicer Guide (Guide) ( See Section 5701.2 for full details).
+2. Determine if the mortgage meets the requirements in Section 5701.7 , Exempt From Review or the project meets the requirements for condominium projects with a Project Certified status PAR finding in Section 5701.7 .
+If the mortgage does not have a Project Certified status PAR finding or Section 5701.7 does not apply, determine which one of the project review types applies and ensure the requirements for that project review type are met.
+Established condominium Project Reviews 1 ( Section 5701.5 )
+New condominium Project Reviews 2 ( Section 5701.6 )
+Reciprocal Project Review (CPM (Approved by Fannie Mae/Certified by Lender)/FHA) ( Section 5701.9 )
+1 An Established Condominium Project is a Condominium Project in which:
+The Condominium Project (all condominium units, common elements and amenities) and related facilities owned by any Master Association are complete and not subject to any additional phasing.
+With respect to unit ownership, at least 75% of the total units in the project have been conveyed to the unit purchasers
+The unit owners control the homeowners association
+2 A New Condominium Project is a condominium project in which:
+The condominium project (all condominium units, common elements and amenities) and related facilities owned by any Master Association are not complete, or are subject to additional phasing.
+Fewer than 75% of the total number of units in the project must have been conveyed to the unit purchasers, or
+The developer has not turned control of the homeowners association over to the unit owners
+3. Follow our condominium delivery requirements (See Section 5701.12 for more information).
+Read our factsheets:
+Condominium Unit Mortgages and Project Reviews
+Determining Condominium Project and Mortgage Eligibility
+Get More Information
+If a Seller determines that a condominium unit in an established condominium project does not meet certain Freddie Mac project eligibility requirements and concludes that the condominium unit is still adequate collateral for the mortgage transaction, see Section 5701.11 for information on requesting Freddie Mac to consider a waiver of certain project eligibility requirements.
+If a Seller wants to obtain feedback regarding an established condominium project’s compliance with the project review requirements that Condo Project Advisor assesses, see Section 5701.10 for more information.
+Sellers may also contact their Freddie Mac account representative for more information as well as refer to the Condo Project Advisor web page and Condo Project Advisor FAQs . Refer to Guide Chapter 5701 for our complete requirements for condominiums.
+Condo Project Advisor  ® Training
+Training resources to help you use Condo Project Advisor ® .
+Condominium Unit Mortgage FAQ
+Frequently asked questions about solutions and options for mortgages secured by condominium units.
+Condo Project Advisor
+Request unit-level exceptions (PWRs) for existing condominium projects and obtain feedback (PARs) regarding existing condominium projects’ compliance with certain project review requirements early in the loan origination process so you can close more condominium loans.
+Condominium Unit Mortgages and Project Reviews​
+Easily determine project status with comprehensive criteria. Download our Condominium Unit Mortgages and Project Reviews fact sheet.
+Condominium Project Questionnaire – Full Form​​
+You may want to use this optional form (full-length version) to collect information from HOAs.
+Form 476A​​​
+Review the addendum to the condominium questionnaire - full form.
+Determining Condominium Project & Mortgage Eligibility​​​​
+Make sure you comply with our condominium project review and general condominium project eligibility requirements in Single-Family Seller/Servicer Guide (Section 5701.2).
+Condominium Project Status Inquiry and Appeal Request​​​​
+This tutorial provides information regarding a Seller’s or authorized HOA representative’s request of the condominium project status and/or to request an appeal.
+Critical Repairs & Evacuation Orders: Condominium and Cooperative Project Requirements​​​​​
+Using multiple scenarios, this short tutorial will help you understand our requirements regarding critical repairs and evacuation orders.
+Condo Project Advisor ® Access: Third-Party Originators (TPOs)​​​​​​
+Use this resource to guide you through the steps to obtain access to Condo Project Advisor to use the Project Assessment Lookup to gain early insight into whether condo projects meet certain project review and eligibility requirements.
+Seller/Servicer Guide​​​​​​
+The same content you depend on, but more streamlined, intuitive and usable, with a modern look, robust search and improved functionality.
+Other Condominium Requirements in the Single-Family Seller/Servicer Guide
+Guide Bulletin 2020-20: Updates to Property Insurance, Condo Project Advisor ® and eMortgages
+Guide Section 5701.3: Ineligible Projects
+Guide Section 5701.6: New Condominium Projects
+Guide Section 5701.12: Delivery Requirements
+Guide Chapter 5701: Condominiums
+Guide Section 5701.7: Exempt From Review
+Guide Section 5701.2: Condominium Project review and general Condominium Project eligibility requirements
+Guide Section 5701.5: Established Condominium Projects
+Guide Section 5701.9: Reciprocal Review
+Resources for Borrowers
+Reaching and educating borrowers &ndash; and helping them find the right mortgage &ndash; is essential for your business. Freddie Mac provides an array of materials you can share with your clients and business prospects.
+CreditSmart ®
+CreditSmart ® is a suite of educational resources designed to empower consumers with the skills and knowledge to assist them through every stage of their financial capability and homeownership journey.
+Reaching Borrowers
+Take advantage of the information we have gathered here to expand your efforts in reaching homebuyers in today’s changing marketplace.
+MyHome
+Whether your borrowers rent, own, or plan to buy, we offer the resources to help make informed decisions and support their success.
+Duty to Serve
+Making Affordable Homeownership Available to Every Single Family
+GreenCHOICE Mortgages ®
+Our GreenCHOICE Mortgage ® offering helps families facilitate the financing of energy efficient home improvements and energy efficient homes.
+Share
+Subscription Center
+Get and stay connected with Freddie Mac Single-Family. Subscribe to our emails and we'll send the information that you want straight to your email inbox.
+Sign Up
+Working With Us
+News & Insights
+About
+Affordable Lending
+Technology
+Become a Seller/Servicer
+Origination & Underwriting
+Selling & Delivery
+Freddie Mac Gateway
+Mortgage Products
+System Status
+Seller/Servicer Guide
+Servicing
+Access Manager
+Subscribe
+&copy;
+2026
+Freddie Mac
+Contact Us
+Careers
+Terms of Use
+Privacy Policy
+State Privacy Notices
+Cookie Preferences
+Your Privacy Choices
+&copy;
+2026
+Freddie Mac
+Follow us on social media

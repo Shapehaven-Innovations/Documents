@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FRE_CONDO_PRODUCT_PAGE",
   "sourceUrl": "https://sf.freddiemac.com/working-with-us/origination-underwriting/mortgage-products/condominium-unit-mortgages",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "be0cc772ca9a0b89f67bc7535d45a5feabc13ca8181194ccb44037ed28079e27",
   "bytes": 128785
 }

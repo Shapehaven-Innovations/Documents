@@ -1,7 +1,9 @@
 {
+  "manifestVersion": 2,
   "sourceCode": "FNMA_B4_2_1_03_INELIGIBLE",
   "sourceUrl": "https://selling-guide.fanniemae.com/sel/b4-2.1-03/ineligible-projects",
   "filename": "page.html",
+  "textFile": "page.txt",
   "sha256": "4f6c368068e20004276618ed1306f689a73116005fd475e2ed1f4df6bc2df827",
   "bytes": 288260
 }
