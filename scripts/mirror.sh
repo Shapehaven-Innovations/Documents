@@ -149,6 +149,19 @@ while IFS=$'\t' read -r CODE DIR TYPE URL PATTERN BASE; do
     textname="page.txt"
   fi
 
+  # Drop files left behind by a previous run under a different name. HUD's
+  # filename rotates (…-Update-18-Redline.pdf → -19-), so without this every
+  # update strands the prior document in place — a stale handbook sitting next
+  # to the current one with nothing to say which is which. Runs on every pass,
+  # so it self-heals rather than only fixing up at the moment of a rename.
+  for existing in "$outdir"/*; do
+    [ -e "$existing" ] || continue
+    case "$(basename "$existing")" in
+      "$docname"|"$textname"|manifest.json) ;;
+      *) echo "  pruning stale $(basename "$existing")"; rm -f "$existing" ;;
+    esac
+  done
+
   read -r stored_sha stored_version <<<"$(manifest_state "$outdir/manifest.json")"
   if [ "$sha" = "$stored_sha" ] && [ "$stored_version" = "$MANIFEST_VERSION" ]; then
     echo "  unchanged (sha256=${sha:0:16}…)"
