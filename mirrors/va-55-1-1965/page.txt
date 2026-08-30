@@ -29,7 +29,7 @@ Creating a Report: Check the sections you'd like to appear in the report, then u
 Code of Virginia
 Title 55.1. Property and Conveyances
 Chapter 19. Virginia Condominium Act
-8/29/2026
+8/30/2026
 § 55.1-1965 . Annual budget; reserve study; reserves for capital components.
 A. Except to the extent provided in the condominium instruments, the executive board shall, prior to the commencement of the fiscal year, make available to unit owners either (i) the annual budget of the unit owners' association or (ii) a summary of such annual budget.
 B. Except to the extent otherwise provided in the condominium instruments, the executive board shall:
@@ -56,6 +56,14 @@ Charters
 Authorities
 Compacts
 Uncodified Acts
+Virginia Law Library
+The Code of Virginia, Constitution of Virginia, Charters, Authorities, Compacts and Uncodified Acts are available in both PDF and CSV formats.
+Helpful Resources
+Virginia Code Commission
+Virginia Register of Regulations
+U.S. Constitution
+For Developers
+The Virginia Law website data is available via a web service.
 Sign In
 Username:
 Password:
