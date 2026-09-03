@@ -458,7 +458,7 @@ Cookie Preferences
 Originating & Underwriting
 Selling Guide
 Download PDF Guide
-(Published: August 05 2026)
+(Published: September 02 2026)
 Selling Questions? Launch Ask Poli
 Get answers to Guide & policy questions with Fannie Mae's AI-powered search tool.
 Guide Resources
@@ -647,11 +647,11 @@ B3-3.7-03, Analyzing Returns for a Corporation
 B3-3.7-04, Analyzing Profit and Loss Statements
 Section B3-3.8, Rental Income
 B3-3.8-01, General Rental Income Information
--01, Rental Income from the Subject Property
--01, Rental Income from the Subject Property: Short-Term Rental
--01, Rental Income from Non-Subject Property
--01, Rental Income from Non-Subject Property: Departing Residence
--01, Rental Income from Non-Subject Property: Investment Properties Purchased within 45 Days of the Subject Property
+B3-3.8-02, Rental Income from the Subject Property
+B3-3.8-03, Rental Income from the Subject Property: Short-Term Rental
+B3-3.8-04, Rental Income from Non-Subject Property
+B3-3.8-05, Rental Income from Non-Subject Property: Departing Residence
+B3-3.8-06, Rental Income from Non-Subject Property: Investment Properties Purchased within 45 Days of the Subject Property
 Chapter B3-4, Asset Assessment
 Section B3-4.1, General Asset Requirements
 B3-4.1-01, Minimum Reserve Requirements
