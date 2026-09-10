@@ -1,5 +1,5 @@
-[Rev. 4/15/2026 11:04:53
-AM--2025]
+[Rev. 9/9/2026 11:22:02
+AM--2025R1]
 CHAPTER 116 - COMMON-INTEREST OWNERSHIP
 (UNIFORM ACT)
 ARTICLE 1
@@ -181,16 +181,12 @@ for purposes of sales.
 NRS 116.2116 �������� Easement
 rights; validity of existing restrictions.
 NRS 116.2117 �������� Amendment
-of declaration. [Effective through .]
-NRS 116.2117 �������� Amendment
-of declaration. [Effective .]
+of declaration.
 NRS 116.21175 ������ Procedure
 for seeking confirmation from district court of certain amendments to
 declaration.
 NRS 116.2118 �������� Termination
-of common-interest community. [Effective through .]
-NRS 116.2118 �������� Termination
-of common-interest community. [Effective .]
+of common-interest community.
 NRS 116.21183 ������ Rights
 of creditors following termination.
 NRS 116.21185 ������ Respective
@@ -223,8 +219,8 @@ fiduciaries; duty of care; application of business-judgment rule and conflict
 of interest rules; limitations on power.
 NRS 116.310305 ���� Power
 of executive board to impose construction penalties for failure of unit�s owner
-to adhere to certain schedules relating to design, construction, occupancy or use
-of unit or improvement.
+to adhere to certain schedules relating to design, construction, occupancy or
+use of unit or improvement.
 NRS 116.31031 ������ Power
 of executive board to impose fines and other sanctions for violations of
 governing documents; regulations; limitations; procedural requirements;
@@ -272,9 +268,6 @@ NRS 116.3105 �������� Termination
 of contracts and leases of declarant.
 NRS 116.3106 �������� Bylaws.
 NRS 116.31065 ������ Rules.
-[Effective through .]
-NRS 116.31065 ������ Rules.
-[Effective .]
 NRS 116.31068 ������ Notice
 to units� owners.
 NRS 116.31069 ������ Establishment
@@ -460,13 +453,9 @@ request; resubmission of request.
 NRS 116.334 ���������� Adoption
 of rules and regulations by association related to installation of distributed
 generation system; conditions and limitations.
-NRS 116.335 ���������� Association
-prohibited from requiring unit�s owner to obtain approval to rent or lease
-unit; exceptions. [Effective through .]
 NRS 116.335 ���������� Adoption
 of rules and regulations by association related to certain restrictions or
 prohibitions in declaration concerning renting or leasing units; exceptions.
-[Effective .]
 NRS 116.340 ���������� Transient
 commercial use of units within certain planned communities.
 NRS 116.345 ���������� Association
@@ -501,9 +490,7 @@ Exchange Commission or State of Nevada.
 NRS 116.4108 �������� Purchaser�s
 right to cancel.
 NRS 116.4109 �������� Resales
-of units. [Effective through .]
-NRS 116.4109 �������� Resales
-of units. [Effective .]
+of units.
 NRS 116.41095 ������ Required
 form of information statement.
 NRS 116.411 ���������� Escrow
@@ -534,8 +521,8 @@ completion of units.
 ADMINISTRATION AND ENFORCEMENT OF CHAPTER
 General Provisions
 NRS 116.600 ���������� Commission
-for Common-Interest Communities and Condominium Hotels: Creation; appointment
-and qualifications of members; terms of office; compensation.
+for Common-Interest Communities and Condominium Hotels: Creation; appointment and
+qualifications of members; terms of office; compensation.
 NRS 116.605 ���������� Commission
 for Common-Interest Communities and Condominium Hotels: Courses of instruction
 for members.
@@ -572,9 +559,8 @@ and enforcement of subpoenas.
 NRS 116.662 ���������� Witnesses:
 Payment of fees and mileage.
 NRS 116.665 ���������� Conducting
-hearings and other proceedings; collection of information; development and
-promotion of educational guidelines; accreditation of programs of education and
-research.
+hearings and other proceedings; collection of information; development and promotion
+of educational guidelines; accreditation of programs of education and research.
 NRS 116.670 ���������� Establishment
 of standards for subsidizing arbitration, mediation and educational programs;
 acceptance of gifts, grants and donations; agreements and cooperation with
@@ -613,11 +599,7 @@ on complaints.
 NRS 116.785 ���������� Remedial
 and disciplinary action: Orders to cease and desist and to correct violations;
 administrative fines; removal from office or position; payment of costs;
-exemptions from liability. [Effective through .]
-NRS 116.785 ���������� Remedial
-and disciplinary action: Orders to cease and desist and to correct violations;
-administrative fines; removal from office or position; payment of costs;
-exemptions from liability. [Effective .]
+exemptions from liability.
 NRS 116.790 ���������� Remedial
 and disciplinary action: Audit of association; requiring association to hire
 community manager who holds certificate; appointment of receiver.
@@ -1987,74 +1969,7 @@ decisions concerning land use or planning.
 551 ; A 1999,
 3355 ; 2011,
 2424 )
-����� NRS 116.2117 Amendment of declaration. [Effective through .]
-����� 1. Except as otherwise provided in NRS 116.21175 , and except in cases of
-amendments that may be executed by a declarant under subsection 5 of NRS 116.2109 or NRS 116.211 , or by the association under NRS 116.1107 , 116.2106 , subsection 3 of NRS 116.2108 , subsection 1 of NRS 116.2112 or NRS 116.2113 , or by certain units� owners
-under subsection 2 of NRS 116.2108 ,
-subsection 1 of NRS 116.2112 ,
-subsection 2 of NRS 116.2113 or
-subsection 2 of NRS 116.2118 , and
-except as otherwise limited by subsections 4, 6, 7 and 8, the declaration,
-including any plats, may be amended only by vote or agreement of units� owners
-of units to which at least a majority of the votes in the association are
-allocated, unless the declaration specifies a different percentage for all
-amendments or for specified subjects of amendment. If the declaration requires
-the approval of another person as a condition of its effectiveness, the amendment
-is not valid without that approval.
-����� 2. No action to challenge the validity of
-an amendment adopted by the association pursuant to this section may be brought
-more than 1 year after the amendment is recorded.
-����� 3. Every amendment to the declaration must
-be recorded in every county in which any portion of the common-interest
-community is located and is effective only upon recordation. An amendment,
-except an amendment pursuant to NRS
-116.2112 , must be indexed in the grantee�s index in the name of the
-common-interest community and the association and in the grantor�s index in the
-name of the parties executing the amendment.
-����� 4. Except to the extent expressly
-permitted or required by other provisions of this chapter, no amendment may
-change the boundaries of any unit or change the allocated interests of a unit
-in the absence of unanimous consent of only those units� owners whose units are
-affected and the consent of a majority of the owners of the remaining units.
-����� 5. Amendments to the declaration required
-by this chapter to be recorded by the association must be prepared, executed,
-recorded and certified on behalf of the association by any officer of the
-association designated for that purpose or, in the absence of designation, by
-the president of the association.
-����� 6. An amendment to the declaration which
-prohibits or materially restricts the permitted uses of a unit or the number or
-other qualifications of persons who may occupy units may not be enforced
-against a unit�s owner who was the owner of the unit on the date of the
-recordation of the amendment as long as the unit�s owner remains the owner of
-that unit.
-����� 7. A provision in the declaration creating
-special declarant�s rights that have not expired may not be amended without the
-consent of the declarant.
-����� 8. If any provision of this chapter or of
-the declaration requires the consent of a holder of a security interest in a
-unit, or an insurer or guarantor of such interest, as a condition to the
-effectiveness of an amendment to the declaration, that consent is deemed
-granted if:
-����� (a) The holder, insurer or guarantor has not
-requested, in writing, notice of any proposed amendment; or
-����� (b) Notice of any proposed amendment is required
-or has been requested and a written refusal to consent is not received by the
-association within 60 days after the association delivers notice of the
-proposed amendment to the holder, insurer or guarantor, by certified mail,
-return receipt requested, to the address for notice provided by the holder,
-insurer or guarantor in a prior written request for notice.
-����� (Added to NRS by 1991,
-551 ; A 1993,
-2362 ; 1999,
-395 , 396 ;
-2005,
-2589 ; 2009,
-1615 , 1733 ;
-2011,
-2424 ; 2019,
-1379 )
 ����� NRS 116.2117 Amendment of declaration.
-[Effective .]
 ����� 1. Except as otherwise provided in NRS 116.21175 , and except in cases of
 amendments that may be executed by a declarant under subsection 5 of NRS 116.2109 or NRS 116.211 , or by the association under NRS 116.1107 , 116.2106 , subsection 3 of NRS 116.2108 , subsection 1 of NRS 116.2112 or NRS 116.2113 , or by certain units� owners
 under subsection 2 of NRS 116.2108 ,
@@ -2129,7 +2044,7 @@ policies to associations or units in a common-interest community.
 2011,
 2424 ; 2019,
 1379 ; 2025,
-2379 , effective )
+2379 )
 ����� NRS 116.21175 Procedure for seeking confirmation from district court of
 certain amendments to declaration.
 ����� 1. Except as otherwise limited by
@@ -2240,76 +2155,7 @@ the final court order have been recorded and that the declaration has been
 amended pursuant to this section.
 ����� (Added to NRS by 2005,
 2581 )
-����� NRS 116.2118 Termination of common-interest community. [Effective through
-.]
-����� 1. Except in the case of a taking of all
-the units by eminent domain, in the case of foreclosure against an entire
-cooperative of a security interest that has priority over the declaration, or
-in the circumstances described in NRS
-116.2124 , a common-interest community may be terminated only by agreement
-of units� owners to whom at least 80 percent of the votes in the association
-are allocated, or any larger percentage the declaration specifies, and with any
-other approvals required by the declaration. The declaration may specify a
-smaller percentage only if all of the units are restricted exclusively to
-nonresidential uses.
-����� 2. An agreement to terminate must be
-evidenced by the execution of an agreement to terminate, or ratifications
-thereof, in the same manner as a deed, by the requisite number of units�
-owners. The agreement must specify a date after which the agreement will be
-void unless it is recorded before that date. An agreement to terminate and all
-ratifications thereof must be recorded in every county in which a portion of
-the common-interest community is situated and is effective only upon
-recordation.
-����� 3. In the case of a condominium or planned
-community containing only units having horizontal boundaries described in the
-declaration, an agreement to terminate may provide that all of the common
-elements and units of the common-interest community must be sold following
-termination. If, pursuant to the agreement, any real estate in the
-common-interest community is to be sold following termination, the agreement
-must set forth the minimum terms of the sale.
-����� 4. In the case of a condominium or planned
-community containing any units not having horizontal boundaries described in
-the declaration, an agreement to terminate may provide for sale of the common
-elements, but it may not require that the units be sold following termination,
-unless the declaration as originally recorded provided otherwise or all the
-units� owners consent to the sale.
-����� 5. The association, on behalf of the
-units� owners, may contract for the sale of real estate in a common-interest
-community, but the contract is not binding on the units� owners until approved
-pursuant to subsections 1 and 2. If any real estate is to be sold following
-termination, title to that real estate, upon termination, vests in the
-association as trustee for the holders of all interests in the units.
-Thereafter, the association has all powers necessary and appropriate to effect
-the sale. Until the sale has been concluded and the proceeds thereof
-distributed, the association continues in existence with all powers it had
-before termination. Proceeds of the sale must be distributed to units� owners
-and lienholders as their interests may appear, in accordance with NRS 116.21183 and 116.21185 . Unless otherwise specified in
-the agreement to terminate, as long as the association holds title to the real
-estate, each unit�s owner and his or her successors in interest have an
-exclusive right to occupancy of the portion of the real estate that formerly
-constituted the unit. During the period of that occupancy, each unit�s owner and
-his or her successors in interest remain liable for all assessments and other
-obligations imposed on units� owners by this chapter or the declaration.
-����� 6. In a condominium or planned community,
-if the real estate constituting the common-interest community is not to be sold
-following termination, title to the common elements and, in a common-interest
-community containing only units having horizontal boundaries described in the
-declaration, title to all the real estate in the common-interest community, vests
-in the units� owners upon termination as tenants in common in proportion to
-their respective interests as provided in NRS
-116.21185 , and liens on the units shift accordingly. While the tenancy in
-common exists, each unit�s owner and his or her successors in interest have an
-exclusive right to occupancy of the portion of the real estate that formerly
-constituted the unit.
-����� 7. Following termination of the
-common-interest community, the proceeds of a sale of real estate, together with
-the assets of the association, are held by the association as trustee for
-units� owners and holders of liens on the units as their interests may appear.
-����� (Added to NRS by 1991,
-551 ; A 2011,
-2426 )
-����� NRS 116.2118 Termination of
-common-interest community. [Effective .]
+����� NRS 116.2118 Termination of common-interest community.
 ����� 1. Except in the case of a taking of all
 the units by eminent domain, in the case of foreclosure against an entire
 cooperative of a security interest that has priority over the declaration, or
@@ -2318,10 +2164,10 @@ in the circumstances described in NRS
 of units� owners to whom at least 80 percent of the votes in the association
 are allocated, including at least 80 percent of the votes allocated to units
 that are not owned by the declarant, and with any other approvals required by
-the declaration. The declaration may require a larger percentage of the total votes
-in the association for approval, but termination requires approval by at least
-80 percent of the votes allocated to units not owned by the declarant. The
-declaration may specify a smaller percentage only if all of the units are
+the declaration. The declaration may require a larger percentage of the total
+votes in the association for approval, but termination requires approval by at
+least 80 percent of the votes allocated to units not owned by the declarant.
+The declaration may specify a smaller percentage only if all of the units are
 restricted exclusively to nonresidential uses.
 ����� 2. An agreement to terminate must be
 evidenced by the execution of an agreement to terminate, or ratifications
@@ -2378,14 +2224,13 @@ units� owners and holders of liens on the units as their interests may appear.
 ����� (Added to NRS by 1991,
 551 ; A 2011,
 2426 ; 2025,
-2380 , effective )
+2380 )
 ����� NRS 116.21183 Rights of creditors following termination.
 ����� 1. Following termination of a condominium
 or planned community, creditors of the association holding liens on the units,
-which were recorded before termination, may enforce those liens in the same
-manner as any lienholder. All other creditors of the association are to be
-treated as if they had perfected liens on the units immediately before
-termination.
+which were recorded before termination, may enforce those liens in the same manner
+as any lienholder. All other creditors of the association are to be treated as
+if they had perfected liens on the units immediately before termination.
 ����� 2. In a cooperative, the declaration may
 provide that all creditors of the association have priority over any interests
 of units� owners and creditors of units� owners. In that event, following
@@ -4027,30 +3872,8 @@ English.
 3117 ; 2003,
 2232 ; 2011,
 2436 )
-����� NRS 116.31065 Rules. [Effective through .] The rules adopted by an association:
-����� 1. Must be reasonably related to the
-purpose for which they are adopted.
-����� 2. Must be sufficiently explicit in their
-prohibition, direction or limitation to inform a person of any action or
-omission required for compliance.
-����� 3. Must not be adopted to evade any
-obligation of the association.
-����� 4. Must be consistent with the governing
-documents of the association and must not arbitrarily restrict conduct or
-require the construction of any capital improvement by a unit�s owner that is
-not required by the governing documents of the association.
-����� 5. Must be uniformly enforced under the
-same or similar circumstances against all units� owners. Any rule that is not
-so uniformly enforced may not be enforced against any unit�s owner.
-����� 6. May be enforced by the association
-through the imposition of a fine only if the association complies with the
-requirements set forth in NRS 116.31031 .
-����� (Added to NRS by 1997,
-3111 ; A 1999,
-3004 ; 2003,
-2269 )
-����� NRS 116.31065 Rules. [Effective .] The rules adopted by an
-association:
+����� NRS 116.31065 Rules. The rules
+adopted by an association:
 ����� 1. Must be reasonably related to the
 purpose for which they are adopted.
 ����� 2. Must be sufficiently explicit in their
@@ -4074,7 +3897,7 @@ requirements set forth in NRS 116.31031 .
 3111 ; A 1999,
 3004 ; 2003,
 2269 ; 2025,
-2382 , effective )
+2382 )
 ����� NRS 116.31068 Notice to units� owners.
 ����� 1. Except as otherwise provided in
 subsections 2, 3 and 6, an association shall deliver any notice required to be
@@ -4094,10 +3917,10 @@ subsection 6, if a unit�s owner has not opted out of receiving electronic
 notices, but has not designated an electronic mail address at which to receive
 notices pursuant to this section, the association may deliver any notice
 required to be given by the association pursuant to this chapter by:
-����� (a) Electronic means, including, without
-limitation, by electronic mail to an electronic mail address that a unit�s
-owner has provided to the association but has not designated as the electronic
-mail address at which to receive notices pursuant to this section; or
+����� (a) Electronic means, including, without limitation,
+by electronic mail to an electronic mail address that a unit�s owner has
+provided to the association but has not designated as the electronic mail
+address at which to receive notices pursuant to this section; or
 ����� (b) Any of the methods specified in subsection 2.
 ����� 4. A unit�s owner is entitled to designate
 only one electronic mail address at which to receive notices pursuant to this
@@ -4128,9 +3951,9 @@ proposed budgets; and
 ����� (c) The notices and agendas for any upcoming
 meetings of the association.
 ����� 2. Each association of a common-interest
-community that contains fewer than 150 units may, and is encouraged to,
-establish and maintain a secure Internet website or electronic portal pursuant
-to subsection 1.
+community that contains fewer than 150 units may, and is encouraged to, establish
+and maintain a secure Internet website or electronic portal pursuant to
+subsection 1.
 ����� (Added to NRS by 2021,
 3746 , 3751 ;
 A 2023,
@@ -4141,16 +3964,16 @@ assigned for collection; compliance with requirements relating to personal
 information; requirement to conduct evaluation and make determination that
 providing ability to pay obligations electronically is in best interest of
 association.
-����� 1. An Internet website or electronic portal
-established and maintained by an association pursuant to NRS 116.31069 may provide units� owners
+����� 1. An Internet website or electronic
+portal established and maintained by an association pursuant to NRS 116.31069 may provide units� owners
 with the ability to pay obligations electronically only if:
 ����� (a) The association, or if the association has
 contracted with a payment processor, the payment processor, maintains a policy
 of cybersecurity insurance in a minimum aggregate amount of $5,000,000 that
-provides coverage for potential losses associated with the unauthorized acquisition
-of personal information provided to process payments through the Internet
-website or electronic portal, including, without limitation, losses caused by
-identity theft.
+provides coverage for potential losses associated with the unauthorized
+acquisition of personal information provided to process payments through the
+Internet website or electronic portal, including, without limitation, losses
+caused by identity theft.
 ����� (b) For an association that has contracted with a
 payment processor who maintains a policy of cybersecurity insurance described
 in paragraph (a), the association must maintain its own policy of cybersecurity
@@ -5825,8 +5648,8 @@ violates the provisions of this section by failing to pay the fees owed by the
 association or master association within the times established by the Division.
 The administrative penalty that is imposed for each violation must equal 10
 percent of the amount of the fees owed by the association or master association
-or $500, whichever amount is less. The amount of the unpaid fees owed by the
-association or master association bears interest at the rate set forth in NRS 99.040 from the date the fees are due
+or $500, whichever amount is less. The amount of the unpaid fees owed by the association
+or master association bears interest at the rate set forth in NRS 99.040 from the date the fees are due
 until the date the fees are paid in full.
 ����� 5. A unit�s owner may not be required to
 pay any portion of the fees or any administrative penalties or interest
@@ -5837,16 +5660,16 @@ governing documents of a master association may not be required to pay any
 portion of the fees or any administrative penalties or interest required to be
 paid pursuant to this section to the extent they have already been paid by the
 master association.
-����� 7. A master association may not be
-required to pay any portion of the fees or any administrative penalties or
-interest required to be paid pursuant to this section to the extent they have
-already been paid by an association that is subject to the governing documents
-of the master association.
+����� 7. A master association may not be required
+to pay any portion of the fees or any administrative penalties or interest
+required to be paid pursuant to this section to the extent they have already
+been paid by an association that is subject to the governing documents of the
+master association.
 ����� 8. Upon the payment of the fees and any
 administrative penalties and interest required by this section, the
 Administrator shall provide to the association or master association evidence
-that it paid the fees and the administrative penalties and interest in
-compliance with this section.
+that it paid the fees and the administrative penalties and interest in compliance
+with this section.
 ����� 9. Any person, association or master
 association which has been requested or required to pay any fees,
 administrative penalties or interest pursuant to this section and which
@@ -5919,9 +5742,9 @@ unit pursuant to NRS 116.310312 ;
 ����� (b) The unpaid amount of assessments, not to
 exceed an amount equal to assessments for common expenses based on the periodic
 budget adopted by the association pursuant to NRS 116.3115 which would have become due
-in the absence of acceleration during the 9 months immediately preceding the
-date on which the notice of default and election to sell is recorded pursuant
-to paragraph (b) of subsection 1 of NRS
+in the absence of acceleration during the 9 months immediately preceding the date
+on which the notice of default and election to sell is recorded pursuant to
+paragraph (b) of subsection 1 of NRS
 116.31162 ; and
 ����� (c) The costs incurred by the association to
 enforce the lien in an amount not to exceed the amounts set forth in subsection
@@ -5935,18 +5758,18 @@ period of priority for the lien, the period during which the lien is prior to
 all security interests described in paragraph (b) of subsection 2 must be
 determined in accordance with those federal regulations, except that
 notwithstanding the provisions of the federal regulations, the period of
-priority for the lien must not be less than the 6 months immediately preceding
-the recording of a notice of default and election to sell pursuant to paragraph
-(b) of subsection 1 of NRS 116.31162
-or the institution of a judicial action to enforce the lien.
+priority for the lien must not be less than the 6 months immediately preceding the
+recording of a notice of default and election to sell pursuant to paragraph (b)
+of subsection 1 of NRS 116.31162 or
+the institution of a judicial action to enforce the lien.
 ����� 4. This section does not affect the
 priority of mechanics� or materialmen�s liens, or the priority of liens for
 other assessments made by the association.
 ����� 5. The amount of the costs of enforcing
 the association�s lien that are prior to the security interest described in
 paragraph (b) of subsection 2 must not exceed the actual costs incurred by the
-association, must not include more than one trustee�s sale guaranty and must not
-exceed:
+association, must not include more than one trustee�s sale guaranty and must
+not exceed:
 ����� (a) For a demand or intent to lien letter, $165.
 ����� (b) For a notice of delinquent assessment, $325.
 ����� (c) For an intent to record a notice of default
@@ -5975,13 +5798,13 @@ described in paragraph (b) of subsection 2 or the holder�s authorized agent ma
 establish an escrow account, loan trust account or other impound account for
 advance contributions for the payment of assessments for common expenses based
 on the periodic budget adopted by the association pursuant to NRS 116.3115 if the unit�s owner and the
-holder of that security interest consent to the establishment of such an account.
-If such an account is established, payments from the account for assessments
-for common expenses must be made in accordance with the same due dates as apply
-to payments of such assessments by a unit�s owner.
-����� 8. Unless the declaration otherwise provides,
-if two or more associations have liens for assessments created at any time on
-the same property, those liens have equal priority.
+holder of that security interest consent to the establishment of such an
+account. If such an account is established, payments from the account for
+assessments for common expenses must be made in accordance with the same due
+dates as apply to payments of such assessments by a unit�s owner.
+����� 8. Unless the declaration otherwise
+provides, if two or more associations have liens for assessments created at any
+time on the same property, those liens have equal priority.
 ����� 9. Recording of the declaration
 constitutes record notice and perfection of the lien. No further recordation of
 any claim of lien for assessment under this section is required.
@@ -6020,11 +5843,12 @@ foreclosed under NRS 116.31162 to 116.31168 , inclusive.
 ����� 15. In an action by an association to
 collect assessments or to foreclose a lien created under this section, the
 court may appoint a receiver to collect all rents or other income from the unit
-alleged to be due and owing to a unit�s owner before commencement or during
-pendency of the action. The receivership is governed by chapter 32 of NRS. The court may order the
-receiver to pay any sums held by the receiver to the association during
-pendency of the action to the extent of the association�s common expense
-assessments based on a periodic budget adopted by the association pursuant to NRS 116.3115 .
+alleged to be due and owing to a unit�s owner before commencement or during pendency
+of the action. The receivership is governed by chapter
+32 of NRS. The court may order the receiver to pay any sums held by the
+receiver to the association during pendency of the action to the extent of the
+association�s common expense assessments based on a periodic budget adopted by
+the association pursuant to NRS 116.3115 .
 ����� 16. Notwithstanding any other provision of
 law, any payment of an amount due to an association in accordance with
 subsection 1 by the holder of any lien or encumbrance on a unit that is
@@ -6046,9 +5870,9 @@ from the unit�s owner to the holder of the lien or encumbrance.
 delinquent assessment; recording of notice of default and election to sell;
 period during which unit�s owner may pay lien to avoid foreclosure; limitations
 on type of lien that may be foreclosed.
-����� 1. Except as otherwise provided in subsection
-5, 6 or 7, in a condominium, in a planned community, in a cooperative where the
-owner�s interest in a unit is real estate under NRS 116.1105 , or in a cooperative where
+����� 1. Except as otherwise provided in
+subsection 5, 6 or 7, in a condominium, in a planned community, in a
+cooperative where the owner�s interest in a unit is real estate under NRS 116.1105 , or in a cooperative where
 the owner�s interest in a unit is personal property under NRS 116.1105 and the declaration provides
 that a lien may be foreclosed under NRS
 116.31162 to 116.31168 , inclusive,
@@ -6107,9 +5931,9 @@ WARNING! IF YOU FAIL TO PAY THE
 AMOUNT SPECIFIED IN THIS NOTICE, YOU COULD LOSE YOUR HOME, EVEN IF THE AMOUNT
 IS IN DISPUTE!
 ����� (c) The unit�s owner or his or her successor in
-interest has failed to pay the amount of the lien, including costs, fees and expenses
-incident to its enforcement, for 90 days following the recording of the notice
-of default and election to sell.
+interest has failed to pay the amount of the lien, including costs, fees and
+expenses incident to its enforcement, for 90 days following the recording of
+the notice of default and election to sell.
 ����� (d) The unit�s owner or his or her successor in
 interest, or the holder of a recorded security interest on the unit, has, for a
 period which commences in the manner and subject to the requirements described
@@ -6236,16 +6060,16 @@ apply if a court determines that the ability of the servicemember or dependent
 of the servicemember to comply with the terms of the obligation secured by the
 lien of a unit-owners� association is not materially affected by the
 servicemember�s active duty or deployment.
-����� 3. Upon application to the court, a dependent
-of a servicemember is entitled to the protections provided to a servicemember
-pursuant to this section if the ability of the dependent to make payments
-required by a lien of a unit-owners� association is materially affected by the
-servicemember�s active duty or deployment.
+����� 3. Upon application to the court, a
+dependent of a servicemember is entitled to the protections provided to a
+servicemember pursuant to this section if the ability of the dependent to make
+payments required by a lien of a unit-owners� association is materially
+affected by the servicemember�s active duty or deployment.
 ����� 4. An association shall:
 ����� (a) Inform each unit�s owner or his or her
 successor in interest that if the person is a servicemember or a dependent of a
-servicemember, he or she may be entitled to certain protections pursuant to this
-section; and
+servicemember, he or she may be entitled to certain protections pursuant to
+this section; and
 ����� (b) Give the person the opportunity to provide
 any information required to enable the association to verify whether he or she
 is entitled to the protections set forth in this section, including, without
@@ -6266,10 +6090,10 @@ foreclosure of a lien by sale in violation of this section:
 ����� (a) Is guilty of a misdemeanor; and
 ����� (b) May be liable for actual damages, reasonable
 attorney�s fees and costs incurred by the injured party.
-����� 7. In imposing liability pursuant to paragraph
-(b) of subsection 6, a court shall, when determining whether to reduce such
-liability, take into consideration any due diligence used by the person before
-he or she initiated the foreclosure of the lien by sale.
+����� 7. In imposing liability pursuant to
+paragraph (b) of subsection 6, a court shall, when determining whether to
+reduce such liability, take into consideration any due diligence used by the
+person before he or she initiated the foreclosure of the lien by sale.
 ����� 8. Notwithstanding any other provision of
 law, any applicable statute of limitations or period within which a
 servicemember is required to submit proof of service that is prescribed by
@@ -6313,8 +6137,7 @@ military.
 1118 )
 ����� NRS 116.311627 Foreclosure of liens: Limitations, requirements and procedures
 applicable to federal workers, tribal workers and state workers and household
-members and landlords of such workers in connection with shutdown; penalty;
-liability.
+members and landlords of such workers in connection with shutdown; penalty; liability.
 ����� 1. Notwithstanding any other provision of
 law and except as otherwise provided in subsection 2 or ordered by a court of
 competent jurisdiction, if a unit�s owner or his or her successor in interest
@@ -6328,9 +6151,9 @@ apply if a court determines that the ability of the federal worker, tribal
 worker, state worker, household member or landlord to comply with the terms of
 the obligation secured by the residential mortgage loan is not materially
 affected by the shutdown.
-����� 3. Upon application to the court, a household
-member or landlord of a federal worker, tribal worker or state worker is
-entitled to the protections provided to a federal worker, tribal worker or
+����� 3. Upon application to the court, a
+household member or landlord of a federal worker, tribal worker or state worker
+is entitled to the protections provided to a federal worker, tribal worker or
 state worker pursuant to this section if the ability of the household member or
 landlord to make payments required by a lien of a unit-owners� association is
 materially affected by the shutdown.
@@ -6340,8 +6163,8 @@ successor in interest that if the person is a federal worker, tribal worker,
 state worker, household member or landlord of such a worker, he or she may be
 entitled to certain protections pursuant to this section; and
 ����� (b) Give the person the opportunity to provide
-any information required to enable the association to verify whether he or she is
-entitled to the protections set forth in this section.
+any information required to enable the association to verify whether he or she
+is entitled to the protections set forth in this section.
 ����� 5. Before an association takes any action
 pursuant to paragraph (a) of subsection 4 of NRS 116.31162 , if information required to
 verify whether a unit�s owner or his or her successor in interest is entitled
@@ -6349,10 +6172,9 @@ to the protections set forth in this section:
 ����� (a) Has been provided to the association pursuant
 to subsection 4, the association must verify whether the person is entitled to
 the protections set forth in this section.
-����� (b) Has not been provided to the association
-pursuant to subsection 4, the association must make a good faith effort to
-verify whether the person is entitled to the protections set forth in this
-section.
+����� (b) Has not been provided to the association pursuant
+to subsection 4, the association must make a good faith effort to verify
+whether the person is entitled to the protections set forth in this section.
 ����� 6. Any person who knowingly initiates the
 foreclosure of a lien by sale in violation of this section:
 ����� (a) Is guilty of a misdemeanor; and
@@ -6372,11 +6194,11 @@ section, as evidenced by the following actions:
 ������������ (1) The association informs the unit�s
 owner or his or her successor in interest of the information required pursuant
 to paragraph (a) of subsection 4;
-������������ (2) The association makes reasonable
-efforts to give the unit�s owner or his or her successor in interest the
-opportunity to provide any information required to enable the association to
-verify whether the person is entitled to the protections set forth in this
-section pursuant to paragraph (b) of subsection 4; and
+������������ (2) The association makes reasonable efforts
+to give the unit�s owner or his or her successor in interest the opportunity to
+provide any information required to enable the association to verify whether
+the person is entitled to the protections set forth in this section pursuant to
+paragraph (b) of subsection 4; and
 ������������ (3) The association makes reasonable
 efforts to utilize all resources available to the association to verify whether
 the unit�s owner or his or her successor in interest is a federal worker,
@@ -6410,13 +6232,13 @@ Department of Business and Industry.
 2355 ; A 2005,
 2609 ; 2015,
 1339 , 1541 )
-����� NRS 116.311635 Foreclosure of liens: Providing notice of time and place of
-sale; service of notice of sale; contents of notice of sale; proof of service.
+����� NRS 116.311635 Foreclosure of liens: Providing notice of time and place of sale;
+service of notice of sale; contents of notice of sale; proof of service.
 ����� 1. The association or other person
 conducting the sale shall also, after the expiration of the 90-day period
 described in paragraph (c) of subsection 1 of NRS 116.31162 and before selling the
-unit, give notice of the time and place of the sale by recording the notice of sale
-and by:
+unit, give notice of the time and place of the sale by recording the notice of
+sale and by:
 ����� (a) Posting a similar notice particularly
 describing the unit, for 20 days consecutively, in a public place in the county
 where the unit is situated;
@@ -6538,9 +6360,8 @@ association to collect an obligation relating to the unit;
 and any of his or her assistants;
 ������������ (4) A member of the executive board of the
 association; or
-������������ (5) An attorney who provided
-representation to any of the parties with regard to the foreclosure of the
-lien;
+����� ����� (5) An attorney who provided representation
+to any of the parties with regard to the foreclosure of the lien;
 ����� (b) Any person who is related by blood, adoption,
 marriage or domestic partnership within the third degree of consanguinity or
 affinity to a person set forth in paragraph (a); or
@@ -6574,8 +6395,8 @@ owner.
 ����� NRS 116.31166 Foreclosure of liens: Title vested in purchaser subject to right
 of redemption; sale does not extinguish first security interest if superior
 amount of lien is satisfied; certificate of sale; exercise of right of
-redemption; deed without warranty; effect of recitals in deed; bona fide
-purchasers and bona fide encumbrancers for value.
+redemption; deed without warranty; effect of recitals in deed; bona fide purchasers
+and bona fide encumbrancers for value.
 ����� 1. Every sale of a unit pursuant to NRS 116.31162 to 116.31168 , inclusive, vests in the
 purchaser the title of the unit�s owner subject to the right of redemption
 provided by this section. If the holder of the security interest described in
@@ -6640,7 +6461,7 @@ interest:
 ������������ (1) An original or certified copy of the
 deed of trust securing the unit or a certified copy of any other recorded
 security interest of the holder.
-����� ����� (2) A copy of any assignment necessary to
+������������ (2) A copy of any assignment necessary to
 establish the claim of the person redeeming the unit, verified by the affidavit
 of that person, or that person�s agent, or of a subscribing witness thereto.
 ������������ (3) An affidavit by the person redeeming
@@ -6780,7 +6601,8 @@ when so indexed, is notice of the lien against the units.
 impending foreclosure on all or any portion of the association�s real estate,
 the association shall promptly transmit a copy of that notice to each owner of
 a unit located within the real estate to be foreclosed. Failure of the
-association to transmit the notice does not affect the validity of the foreclosure.
+association to transmit the notice does not affect the validity of the
+foreclosure.
 ����� (b) Whether an owner�s unit is subject to the
 claims of the association�s creditors, no other property of an owner is subject
 to those claims.
@@ -6796,8 +6618,8 @@ charged to conduct review.
 subsection 4, the executive board of an association shall, upon the written
 request of a unit�s owner, make available the books, records and other papers
 of the association for review at the business office of the association or a
-designated business location not to exceed 60 miles from the physical location
-of the common-interest community and during the regular working hours of the
+designated business location not to exceed 60 miles from the physical location of
+the common-interest community and during the regular working hours of the
 association, including, without limitation:
 ����� (a) The financial statement of the association;
 ����� (b) The budgets of the association required to be
@@ -6851,8 +6673,9 @@ person against whom the sanction was imposed or any other personal information
 which may be used to identify the person or the location of the unit, if any,
 that is associated with the violation.
 ����� (c) Must be maintained in an organized and
-convenient filing system or data system that allows a unit�s owner to search and
-review the general records concerning violations of the governing documents.
+convenient filing system or data system that allows a unit�s owner to search
+and review the general records concerning violations of the governing
+documents.
 ����� 6. If the executive board refuses to allow
 a unit�s owner to review the books, records or other papers of the association,
 the Ombudsman may:
@@ -6933,8 +6756,8 @@ or otherwise engage in a course of conduct against any other person who is the
 community manager of his or her common-interest community or an agent or
 employee of that community manager, a member of the executive board of his or
 her association, an officer, employee or agent of his or her association,
-another unit�s owner in his or her common-interest community or a guest or tenant
-of a unit�s owner in his or her common-interest community which:
+another unit�s owner in his or her common-interest community or a guest or
+tenant of a unit�s owner in his or her common-interest community which:
 ����� (a) Causes harm or serious emotional distress, or
 the reasonable apprehension thereof, to that person; or
 ����� (b) Creates a hostile environment for that
@@ -6972,10 +6795,10 @@ person.
 person working directly or indirectly for the attorney, law firm or vendor,
 shall not provide, directly or indirectly, any gifts, incentives, gratuities,
 rewards or other items of value to a member of the executive board, an officer
-of the association, the community manager or any person working for the community
-manager which total more than the amount established by the Commission by
-regulation, not to exceed $100 per year per such member, officer, community
-manager or person.
+of the association, the community manager or any person working for the
+community manager which total more than the amount established by the
+Commission by regulation, not to exceed $100 per year per such member, officer,
+community manager or person.
 ����� 4. A declarant, an affiliate of a
 declarant or any person responsible for the construction of a community or
 association, shall not provide, directly or indirectly, any gifts, incentives,
@@ -6993,10 +6816,10 @@ or collected from units� owners or tenants or guests of units� owners pursua
 to NRS 116.31031 for violations of the
 governing documents of the association; or
 ����� (b) Any percentage or proportion of those fines.
-����� 6. The provisions of this section do not prohibit
-a community manager from being paid compensation, a fee or other remuneration
-under the terms of a contract between the community manager and an association
-if:
+����� 6. The provisions of this section do not
+prohibit a community manager from being paid compensation, a fee or other
+remuneration under the terms of a contract between the community manager and an
+association if:
 ����� (a) The scope of the respective rights, duties
 and obligations of the parties under the contract comply with the standards of
 practice for community managers set forth as NRS 116A.630 and 116A.640 and any additional standards of
@@ -7081,9 +6904,9 @@ to inquire whether the association has power to act as trustee or is properly
 exercising trust powers. A third person, without actual knowledge that the
 association is exceeding or improperly exercising its powers, is fully
 protected in dealing with the association as if it possessed and properly
-exercised the powers it purports to exercise. A third person is not bound to
-assure the proper application of trust assets paid or delivered to the
-association in its capacity as trustee.
+exercised the powers it purports to exercise. A third person is not bound to assure
+the proper application of trust assets paid or delivered to the association in
+its capacity as trustee.
 ����� (Added to NRS by 1991,
 571 )
 ����� NRS 116.318 Right of units� owners to keep pet.
@@ -7122,8 +6945,8 @@ the common-interest community as that owner has a right to occupy and use
 exclusively.
 ����� 6. For purposes of this section:
 ����� (a) �Governing documents� means:
-������������ (1) The articles of incorporation,
-articles of association, articles of organization, certificate of registration,
+������������ (1) The articles of incorporation, articles
+of association, articles of organization, certificate of registration,
 certificate of limited partnership, certificate of trust or other documents
 that are used to organize the association for the common-interest community;
 ������������ (2) The bylaws and rules of the
@@ -7167,9 +6990,9 @@ not larger than the size of a flag of the United States that is displayed, if
 at all, by a unit�s owner.
 � The term
 does not include a depiction or emblem of the flag of the United States or of
-the State of Nevada that is made of balloons, flora, lights, paint, paving
-materials, roofing, siding or any other similar building, decorative or
-landscaping component.
+the State of Nevada that is made of balloons, flora, lights, paint, paving materials,
+roofing, siding or any other similar building, decorative or landscaping
+component.
 ����� (Added to NRS by 2003,
 2966 ; A 2015,
 851 ) (Substituted in revision for NRS 116.31067)
@@ -7180,8 +7003,8 @@ subsection 2 or 3, the executive board of an association or a unit�s owner who
 rents or leases his or her unit shall not and the governing documents of an
 association or rental agreement must not prohibit a unit�s owner or an occupant
 of a unit from engaging in the display of religious or cultural items within
-such physical portion of the common-interest community as that owner or
-occupant has a right to occupy and use exclusively.
+such physical portion of the common-interest community as that owner or occupant
+has a right to occupy and use exclusively.
 ����� 2. The provisions of this section do not:
 ����� (a) Apply to a display of religious or cultural
 items that:
@@ -7288,11 +7111,11 @@ maintaining drought tolerant landscaping within such physical portion of the
 common-interest community as that owner has a right to occupy and use
 exclusively, including, without limitation, the front yard or back yard of the
 unit�s owner, except that:
-����� (a) Before installing drought tolerant landscaping,
-the unit�s owner must submit a detailed description or plans for the drought
-tolerant landscaping for architectural review and approval in accordance with
-the procedures, if any, set forth in the governing documents of the
-association; and
+����� (a) Before installing drought tolerant
+landscaping, the unit�s owner must submit a detailed description or plans for
+the drought tolerant landscaping for architectural review and approval in
+accordance with the procedures, if any, set forth in the governing documents of
+the association; and
 ����� (b) The drought tolerant landscaping must be
 selected or designed to the maximum extent practicable to be compatible with
 the style of the common-interest community.
@@ -7384,13 +7207,13 @@ in NRS 444.490 .
 ����� NRS 116.333 Request by unit�s owner to install distributed generation
 system; approval or denial of request; resubmission of request.
 ����� 1. A unit�s owner in an association whose
-governing documents authorize the association to impose restrictions on architectural
-improvements who wishes to install a distributed generation system within such
-physical portion of the common-interest community as that owner has a right to
-occupy and use exclusively may submit a request to the association in
-accordance with any applicable procedures set forth in the governing documents
-of the association. The unit�s owner shall not install the distributed
-generation system unless the association has approved the request.
+governing documents authorize the association to impose restrictions on
+architectural improvements who wishes to install a distributed generation
+system within such physical portion of the common-interest community as that
+owner has a right to occupy and use exclusively may submit a request to the
+association in accordance with any applicable procedures set forth in the
+governing documents of the association. The unit�s owner shall not install the
+distributed generation system unless the association has approved the request.
 ����� 2. An association that has adopted rules
 and regulations governing the installation of a distributed generation system
 pursuant to NRS 116.334 shall approve or
@@ -7426,8 +7249,8 @@ and each unit�s owner shall comply with the rules and regulations.
 generation system� has the meaning ascribed to it in NRS 598.9804 .
 ����� (Added to NRS by 2025,
 1805 )
-����� NRS 116.334 Adoption of rules and regulations by association related to
-installation of distributed generation system; conditions and limitations.
+����� NRS 116.334 Adoption of rules and regulations by association related to installation
+of distributed generation system; conditions and limitations.
 ����� 1. An association whose governing
 documents authorize the association to impose restrictions on architectural
 improvements may adopt rules and regulations governing the installation of
@@ -7446,9 +7269,8 @@ provision of the rules and regulations adopted pursuant to paragraphs (a) and
 (b) of subsection 3 if the costs of complying with the provision exceeds 3
 percent of the cash cost of the installation of the distributed generation
 system. A unit�s owner may demonstrate that the costs of complying with the
-provision exceed 3 percent of the cash cost of the installation of the
-distributed generation system by delivering to the association a written
-estimate that:
+provision exceed 3 percent of the cash cost of the installation of the distributed
+generation system by delivering to the association a written estimate that:
 ������������ (1) Is prepared by a solar installation
 company that is properly licensed pursuant to chapter
 624 of NRS and is not affiliated with either the unit�s owner or the
@@ -7485,9 +7307,9 @@ unit�s owners.
 installed on a roof or other exterior portion of a unit for which the
 association is responsible for the maintenance, repair or replacement, enter
 into an agreement with the association setting forth the respective rights and
-obligations of the unit�s owner and the association with respect to the distributed
-generation system. The association may require the agreement to be recorded and
-to include provisions in the agreement which:
+obligations of the unit�s owner and the association with respect to the
+distributed generation system. The association may require the agreement to be
+recorded and to include provisions in the agreement which:
 ������������ (1) Provide that the unit�s owner is
 solely responsible for any damage caused to the roof or exterior portion that
 is caused by the installation, maintenance, repair or replacement of the
@@ -7502,8 +7324,8 @@ if, after reasonable notice has been provided to the unit�s owner, the unit�
 owner fails to remove the distributed generation system as required pursuant to
 subparagraph (2) and assess the costs of the removal, relocation, storage and
 replacement against the unit�s owner.
-����� ����� (4) Require the unit�s owner to install the
-distributed generation system in accordance with the terms of the request
+������������ (4) Require the unit�s owner to install
+the distributed generation system in accordance with the terms of the request
 submitted by the unit�s owner to the association and approved by the
 association.
 ������������ (5) Require the unit�s owner to maintain a
@@ -7537,62 +7359,9 @@ distributed generation system.
 generation system� has the meaning ascribed to it in NRS 598.9804 .
 ����� (Added to NRS by 2025,
 1806 )
-����� NRS 116.335 Association prohibited from requiring unit�s owner to obtain
-approval to rent or lease unit; exceptions. [Effective through .]
-����� 1. Unless, at the time a unit�s owner
-purchased his or her unit, the declaration prohibited the unit�s owner from
-renting or leasing his or her unit, the association may not prohibit the unit�s
-owner from renting or leasing his or her unit.
-����� 2. Unless, at the time a unit�s owner
-purchased his or her unit, the declaration required the unit�s owner to secure
-or obtain any approval from the association in order to rent or lease his or
-her unit, an association may not require the unit�s owner to secure or obtain
-any approval from the association in order to rent or lease his or her unit.
-����� 3. If a declaration contains a provision
-establishing a maximum number or percentage of units in the common-interest
-community which may be rented or leased, that provision of the declaration may
-not be amended to decrease that maximum number or percentage of units in the
-common-interest community which may be rented or leased.
-����� 4. If the governing documents of an
-association require a unit�s owner who leases or rents his or her unit, or the
-tenant of a unit�s owner, to register with the association or its agent or
-otherwise submit to the association or its agent information concerning the
-lease or rental agreement or the tenant, the association or its agent:
-����� (a) Must conduct such activities in accordance
-with the governing documents;
-����� (b) May not require the unit�s owner or tenant of
-the unit�s owner to provide information which the association or its agent does
-not require to be provided to the association or its agent by a unit�s owner
-who occupies his or her unit, except that the association or its agent may
-require the unit�s owner to provide a copy of the lease or rental agreement;
-and
-����� (c) May not charge a fee to the unit�s owner for
-the registration or submission of information.
-����� 5. The provisions of this section do not
-prohibit an association from enforcing any provisions which govern the renting
-or leasing of units and which are contained in this chapter or in any other
-applicable federal, state or local laws or regulations.
-����� 6. Notwithstanding any other provision of
-law or the declaration to the contrary:
-����� (a) If a unit�s owner is prohibited from renting
-or leasing a unit because the maximum number or percentage of units which may be
-rented or leased in the common-interest community have already been rented or
-leased, the unit�s owner may seek a waiver of the prohibition from the
-executive board based upon a showing of economic hardship, and the executive
-board may grant such a waiver and approve the renting or leasing of the unit.
-����� (b) If the declaration contains a provision
-establishing a maximum number or percentage of units in the common-interest
-community which may be rented or leased, in determining the maximum number or
-percentage of units in the common-interest community which may be rented or
-leased, the number of units owned by the declarant must not be counted or
-considered.
-����� (Added to NRS by 2005,
-2584 ; A 2009,
-1100 ; 2011,
-2137 )
-����� NRS 116.335 Adoption of rules and
-regulations by association related to certain restrictions or prohibitions in
-declaration concerning renting or leasing units; exceptions. [Effective .]
+����� NRS 116.335 Adoption of rules and regulations by association related to
+certain restrictions or prohibitions in declaration concerning renting or
+leasing units; exceptions.
 ����� 1. If the declaration authorizes the
 association to prohibit or restrict the unit�s owner from renting or leasing
 his or her unit, or contains a provision establishing a maximum number or
@@ -7616,9 +7385,9 @@ law or the declaration to the contrary:
 ����� (a) If a unit�s owner is prohibited from renting
 or leasing a unit because the maximum number or percentage of units which may
 be rented or leased in the common-interest community have already been rented
-or leased, the unit�s owner may seek a waiver of the prohibition from the
-executive board based upon a showing of economic hardship, and the executive
-board may grant such a waiver and approve the renting or leasing of the unit.
+or leased, the unit�s owner may seek a waiver of the prohibition from the executive
+board based upon a showing of economic hardship, and the executive board may
+grant such a waiver and approve the renting or leasing of the unit.
 ����� (b) If the declaration contains a provision
 establishing a maximum number or percentage of units in the common-interest
 community which may be rented or leased, in determining the maximum number or
@@ -7629,7 +7398,7 @@ considered.
 2584 ; A 2009,
 1100 ; 2011,
 2137 ; 2025,
-2382 , effective )
+2382 )
 ����� NRS 116.340 Transient commercial use of units within certain planned
 communities.
 ����� 1. Except as otherwise provided in
@@ -7710,8 +7479,8 @@ a party or any contract, governing document or declaration of covenants,
 conditions and restrictions, or any other decision, rule or regulation that a
 local governing body or other entity that makes decisions concerning land use
 or planning is authorized to make or enact that exists before ,
-including, without limitation, a zoning ordinance, permit or approval process or
-any other requirement of a local government or other entity that makes
+including, without limitation, a zoning ordinance, permit or approval process
+or any other requirement of a local government or other entity that makes
 decisions concerning land use or planning.
 ����� (Added to NRS by 1999,
 3354 ; A 2009,
@@ -7774,7 +7543,7 @@ visitors, in a designated parking area or common parking area, or on the
 driveway of his or her unit, if the person is:
 ������������������ (I) A unit�s owner or a tenant of a
 unit�s owner; and
-������������������ (II) Bringing the vehicle to his or
+������������ ������ (II) Bringing the vehicle to his or
 her unit pursuant to his or her employment with the entity which owns the
 vehicle for the purpose of responding to emergency requests for public utility
 services; or
@@ -7832,8 +7601,7 @@ PROTECTION OF PURCHASERS
 116.4101 to 116.412 , inclusive,
 apply to all units subject to this chapter, except as otherwise provided in
 subsection 2 or as modified or waived by agreement of purchasers of units in a
-common-interest community in which all units are restricted to nonresidential
-use.
+common-interest community in which all units are restricted to nonresidential use.
 ����� 2. Neither a public offering statement nor
 a resale package described in NRS 116.4109
 need be prepared or delivered in the case of a:
@@ -7887,8 +7655,8 @@ prepared. If a declarant or dealer did not prepare any part of a public
 offering statement that he or she delivers, he or she is not liable for any
 false or misleading statement set forth therein or for any omission of a
 material fact therefrom unless he or she had actual knowledge of the statement
-or omission or, in the exercise of reasonable care, should have known of the statement
-or omission.
+or omission or, in the exercise of reasonable care, should have known of the
+statement or omission.
 ����� 4. If a unit is part of a common-interest
 community and is part of any other real estate in connection with the sale of
 which the delivery of a public offering statement is required under the laws of
@@ -7934,13 +7702,13 @@ fees, whether payable to the association, the community manager of the
 association or any third party, together with a description of the purpose and
 method of calculating the fee.
 ����� (h) The terms and significant limitations of any
-warranties provided by the declarant, including statutory warranties and
-limitations on the enforcement thereof or on damages.
+warranties provided by the declarant, including statutory warranties and limitations
+on the enforcement thereof or on damages.
 ����� (i) A statement that unless the purchaser or his
 or her agent has personally inspected the unit, the purchaser may cancel, by
-written notice, his or her contract for purchase until midnight of the fifth
-calendar day following the date of execution of the contract, and the contract
-must contain a provision to that effect.
+written notice, his or her contract for purchase until midnight of the fifth calendar
+day following the date of execution of the contract, and the contract must
+contain a provision to that effect.
 ����� (j) A statement of any unsatisfied judgment or
 pending action against the association, and the status of any pending action
 material to the common-interest community of which a declarant has actual
@@ -7951,9 +7719,9 @@ related to the common-interest community.
 ����� (l) In addition to any other document, a
 statement describing all current and expected fees or charges for each unit,
 including, without limitation, association fees, fines, assessments, late
-charges or penalties, interest rates on delinquent assessments, additional
-costs for collecting past due fines and charges for opening or closing any file
-for each unit.
+charges or penalties, interest rates on delinquent assessments, additional costs
+for collecting past due fines and charges for opening or closing any file for
+each unit.
 ����� (m) Any restraints on alienation of any portion
 of the common-interest community and any restrictions:
 ������������ (1) On the leasing or renting of units;
@@ -8001,8 +7769,8 @@ community composed of not more than 12 units is not subject to any
 developmental rights and no power is reserved to a declarant to make the
 common-interest community part of a larger common-interest community, group of
 common-interest communities or other real estate, a public offering statement
-may include the information otherwise required by paragraphs (h) and (k) of subsection
-1 of NRS 116.4103 .
+may include the information otherwise required by paragraphs (h) and (k) of
+subsection 1 of NRS 116.4103 .
 ����� (Added to NRS by 1991,
 573 ; A 1993,
 553 , 2376 ;
@@ -8010,9 +7778,9 @@ may include the information otherwise required by paragraphs (h) and (k) of subs
 2455 )
 ����� NRS 116.4104 Public offering statement: Common-interest communities subject
 to developmental rights. If the
-declaration provides that a common-interest community is subject to any
-developmental rights, the public offering statement must disclose, in addition
-to the information required by NRS 116.4103 :
+declaration provides that a common-interest community is subject to any developmental
+rights, the public offering statement must disclose, in addition to the
+information required by NRS 116.4103 :
 ����� 1. The maximum number of units that may be
 created;
 ����� 2. A statement of how many or what
@@ -8074,8 +7842,8 @@ assessments provided in NRS 116.3116
 and 116.31162 .
 ����� (Added to NRS by 1991,
 574 )
-����� NRS 116.4106 Public offering statement: Common-interest community containing converted
-building.
+����� NRS 116.4106 Public offering statement: Common-interest community containing
+converted building.
 ����� 1. The public offering statement of a
 common-interest community containing any converted building must contain, in
 addition to the information required by NRS
@@ -8092,8 +7860,8 @@ estimated cost of curing those violations; and
 pursuant to paragraph (b) of subsection 2 of NRS
 116.3115 which must include, without limitation:
 ������������ (1) The current estimated replacement
-cost, estimated remaining life and estimated useful life of each major
-component of the common elements;
+cost, estimated remaining life and estimated useful life of each major component
+of the common elements;
 ������������ (2) As of the end of the fiscal year for
 which the budget was prepared, the current estimate of the amount of cash
 reserves that are necessary to repair, replace and restore the major components
@@ -8157,7 +7925,7 @@ to rescission.
 574 ; A 1993,
 2376 ; 2003,
 2247 )
-����� NRS 116.4109 Resales of units. [Effective through .]
+����� NRS 116.4109 Resales of units.
 ����� 1. Except in the case of a sale in which
 delivery of a public offering statement is required, or unless exempt under
 subsection 2 of NRS 116.4101 , a unit�s
@@ -8190,6 +7958,9 @@ including, without limitation, association fees, fines, assessments, late
 charges or penalties, interest rates on delinquent assessments, additional
 costs for collecting past due fines and charges for opening or closing any file
 for each unit.
+����� (g) Proof of the insurance policies that an
+association is required to carry pursuant to NRS
+116.3113 .
 ����� 2. The purchaser may, by written notice,
 cancel the contract of purchase until midnight of the fifth calendar day
 following the date of receipt of the resale package described in subsection 1,
@@ -8215,15 +7986,15 @@ her authorized agent for inclusion in the resale package:
 ����� (a) Copies of the documents required pursuant to
 paragraphs (a) and (c) of subsection 1; and
 ����� (b) A certificate containing the information
-necessary to enable the unit�s owner to comply with paragraphs (b), (d), (e)
-and (f) of subsection 1.
+necessary to enable the unit�s owner to comply with paragraphs (b), (d), (e),
+(f) and (g) of subsection 1.
 ����� 4. If the association furnishes the
 documents and certificate pursuant to subsection 3:
 ����� (a) The unit�s owner or his or her authorized
-agent shall include the documents and certificate in the resale package
-provided to the purchaser, and neither the unit�s owner nor his or her
-authorized agent is liable to the purchaser for any erroneous information
-provided by the association and included in the documents and certificate.
+agent shall include the documents and certificate in the resale package provided
+to the purchaser, and neither the unit�s owner nor his or her authorized agent
+is liable to the purchaser for any erroneous information provided by the
+association and included in the documents and certificate.
 ����� (b) The association may charge the unit�s owner a
 reasonable fee to cover the cost of preparing the certificate furnished
 pursuant to subsection 3. Such a fee must be based on the actual cost the
@@ -8231,11 +8002,11 @@ association incurs to fulfill the requirements of this section in preparing the
 certificate and must not exceed $185, except that if a unit�s owner or an
 authorized agent thereof requests that the certificate be furnished sooner than
 3 business days after the date of the request, the association may charge a
-fee, which must not exceed $100, to expedite the preparation of the certificate.
-The amount of the fee may increase, on an annual basis, by a percentage equal
-to the percentage of increase in the Consumer Price Index (All Items) published
-by the United States Department of Labor for the preceding calendar year, but
-must not increase by more than 3 percent each year.
+fee, which must not exceed $100, to expedite the preparation of the
+certificate. The amount of the fee may increase, on an annual basis, by a
+percentage equal to the percentage of increase in the Consumer Price Index (All
+Items) published by the United States Department of Labor for the preceding calendar
+year, but must not increase by more than 3 percent each year.
 ����� (c) The other documents furnished pursuant to
 subsection 3 must be provided in electronic format to the unit�s owner. If the
 association is unable to provide such documents in electronic format, the
@@ -8250,9 +8021,9 @@ to subsection 3.
 interest in a unit is liable for any unpaid assessment or fee greater than the
 amount set forth in the documents and certificate prepared by the association.
 If the association fails to furnish the documents and certificate within the 10
-calendar days allowed by this section, the purchaser is not liable for the
-delinquent assessment. A resale package provided to a unit�s owner or his or
-her authorized agent pursuant to this section remains effective for 90 calendar
+calendar days allowed by this section, the purchaser is not liable for the delinquent
+assessment. A resale package provided to a unit�s owner or his or her
+authorized agent pursuant to this section remains effective for 90 calendar
 days.
 ����� 6. Upon the request of a unit�s owner or
 his or her authorized agent, or upon the request of a purchaser to whom the
@@ -8332,188 +8103,8 @@ amount due from the selling unit�s owner.
 1305 ; 2019,
 856 , 859 ;
 2021,
-1406 )
-����� NRS 116.4109 Resales of units.
-[Effective .]
-����� 1. Except in the case of a sale in which
-delivery of a public offering statement is required, or unless exempt under
-subsection 2 of NRS 116.4101 , a unit�s
-owner or his or her authorized agent shall, at the expense of the unit�s owner,
-furnish to a purchaser a resale package containing all of the following:
-����� (a) A copy of the declaration, other than any
-plats, the bylaws, the rules or regulations of the association and the
-information statement required by NRS
-116.41095 .
-����� (b) A statement from the association setting
-forth the amount of the monthly assessment for common expenses and any unpaid
-obligation of any kind, including, without limitation, management fees,
-transfer fees, fines, penalties, interest, collection costs, foreclosure fees
-and attorney�s fees currently due from the selling unit�s owner.
-����� (c) A copy of the current operating budget of the
-association and current year-to-date financial statement for the association,
-which must include a summary of the reserves of the association required by NRS 116.31152 and which must include,
-without limitation, a summary of the information described in paragraphs (a) to
-(e), inclusive, of subsection 3 of NRS
-116.31152 .
-����� (d) A statement of any unsatisfied judgments or
-pending legal actions against the association and the status of any pending legal
-actions relating to the common-interest community of which the unit�s owner has
-actual knowledge.
-����� (e) A statement of any transfer fees, transaction
-fees or any other fees associated with the resale of a unit.
-����� (f) In addition to any other document, a
-statement describing all current and expected fees or charges for each unit,
-including, without limitation, association fees, fines, assessments, late
-charges or penalties, interest rates on delinquent assessments, additional
-costs for collecting past due fines and charges for opening or closing any file
-for each unit.
-����� (g) Proof of the insurance policies that an
-association is required to carry pursuant to NRS
-116.3113 .
-����� 2. The purchaser may, by written notice,
-cancel the contract of purchase until midnight of the fifth calendar day
-following the date of receipt of the resale package described in subsection 1,
-and the contract for purchase must contain a provision to that effect. If the purchaser
-elects to cancel a contract pursuant to this subsection, the purchaser must
-hand deliver the notice of cancellation to the unit�s owner or his or her
-authorized agent, mail the notice of cancellation by prepaid United States mail
-to the unit�s owner or his or her authorized agent or deliver the notice of
-cancellation by electronic transmission to the unit�s owner or his or her
-authorized agent. Cancellation is without penalty, and all payments made by the
-purchaser before cancellation must be refunded promptly. If the purchaser has
-accepted a conveyance of the unit, the purchaser is not entitled to:
-����� (a) Cancel the contract pursuant to this
-subsection; or
-����� (b) Damages, rescission or other relief based
-solely on the ground that the unit�s owner or his or her authorized agent
-failed to furnish the resale package, or any portion thereof, as required by
-this section.
-����� 3. Within 10 calendar days after receipt
-of a written request by a unit�s owner or his or her authorized agent, the
-association shall furnish all of the following to the unit�s owner or his or
-her authorized agent for inclusion in the resale package:
-����� (a) Copies of the documents required pursuant to
-paragraphs (a) and (c) of subsection 1; and
-����� (b) A certificate containing the information necessary
-to enable the unit�s owner to comply with paragraphs (b), (d), (e), (f) and (g)
-of subsection 1.
-����� 4. If the association furnishes the
-documents and certificate pursuant to subsection 3:
-����� (a) The unit�s owner or his or her authorized
-agent shall include the documents and certificate in the resale package
-provided to the purchaser, and neither the unit�s owner nor his or her
-authorized agent is liable to the purchaser for any erroneous information
-provided by the association and included in the documents and certificate.
-����� (b) The association may charge the unit�s owner a
-reasonable fee to cover the cost of preparing the certificate furnished
-pursuant to subsection 3. Such a fee must be based on the actual cost the
-association incurs to fulfill the requirements of this section in preparing the
-certificate and must not exceed $185, except that if a unit�s owner or an
-authorized agent thereof requests that the certificate be furnished sooner than
-3 business days after the date of the request, the association may charge a
-fee, which must not exceed $100, to expedite the preparation of the
-certificate. The amount of the fee may increase, on an annual basis, by a
-percentage equal to the percentage of increase in the Consumer Price Index (All
-Items) published by the United States Department of Labor for the preceding
-calendar year, but must not increase by more than 3 percent each year.
-����� (c) The other documents furnished pursuant to
-subsection 3 must be provided in electronic format to the unit�s owner. If the association
-is unable to provide such documents in electronic format, the association may
-charge the unit�s owner a reasonable fee, not to exceed 25 cents per page for
-the first 10 pages, and 10 cents per page thereafter, to cover the cost of
-copying.
-����� (d) Except for the fees allowed pursuant to
-paragraphs (b) and (c), the association may not charge the unit�s owner any
-other fees for preparing or furnishing the documents and certificate pursuant
-to subsection 3.
-����� 5. Neither a purchaser nor the purchaser�s
-interest in a unit is liable for any unpaid assessment or fee greater than the
-amount set forth in the documents and certificate prepared by the association.
-If the association fails to furnish the documents and certificate within the 10
-calendar days allowed by this section, the purchaser is not liable for the
-delinquent assessment. A resale package provided to a unit�s owner or his or
-her authorized agent pursuant to this section remains effective for 90 calendar
-days.
-����� 6. Upon the request of a unit�s owner or
-his or her authorized agent, or upon the request of a purchaser to whom the
-unit�s owner has provided a resale package pursuant to this section or his or
-her authorized agent, the association shall make the entire study of the
-reserves of the association which is required by NRS 116.31152 reasonably available for
-the unit�s owner, purchaser or authorized agent to inspect, examine, photocopy
-and audit. The study must be made available at the business office of the
-association or some other suitable location within the county where the
-common-interest community is situated or, if it is situated in more than one
-county, within one of those counties.
-����� 7. A unit�s owner, the authorized agent of
-the unit�s owner or the holder of a security interest on the unit may request a
-statement of demand from the association. Not later than 10 calendar days after
-receipt of a written request from the unit�s owner, the authorized agent of the
-unit�s owner or the holder of a security interest on the unit for a statement
-of demand, the association shall furnish a statement of demand to the person
-who requested the statement and provide a copy of the statement to any other
-interested party. The association may charge a fee of not more than $165 to
-prepare and furnish a statement of demand pursuant to this subsection and an
-additional fee of not more than $100 to furnish a statement of demand within 3
-business days after receipt of a written request for a statement of demand. The
-amount of the fees for preparing and furnishing a statement of demand and the
-additional fee for furnishing a statement of demand within 3 business days may
-increase, on an annual basis, by a percentage equal to the percentage of increase
-in the Consumer Price Index (All Items) published by the United States
-Department of Labor for the preceding calendar year, but must not increase by
-more than 3 percent each year. The statement of demand:
-����� (a) Must set forth the amount of the monthly
-assessment for common expenses and any unpaid obligation of any kind,
-including, without limitation, management fees, transfer fees, fines,
-penalties, interest, collection costs, foreclosure fees and attorney�s fees
-currently due from the selling unit�s owner; and
-����� (b) Remains effective for the period specified in
-the statement of demand, which must not be less than 15 business days after the
-date of delivery by the association to the unit�s owner, the authorized agent
-of the unit�s owner or the holder of a security interest on the unit, whichever
-is applicable.
-� As used in
-this subsection, �interested party� includes the unit�s owner selling the unit
-and the prospective purchaser of the unit.
-����� 8. In preparing, copying, furnishing or
-expediting or otherwise providing any document or other item pursuant to this
-section, an association, or entity related to or acting on behalf of an
-association, shall not charge a unit�s owner, the authorized agent of a unit�s
-owner, a purchaser or, pursuant to subsection 7, the holder of a security
-interest on a unit, any fee:
-����� (a) Not authorized in this section; or
-����� (b) In an amount which exceeds any limit set
-forth in this section.
-����� 9. If the association becomes aware of an
-error in a statement of demand furnished pursuant to subsection 7 during the
-period in which the statement of demand is effective but before the
-consummation of a resale for which a resale package was furnished pursuant to
-subsection 1, the association must deliver a replacement statement of demand to
-the person who requested the statement of demand. Unless the person who
-requested the statement of demand receives a replacement statement of demand,
-the person may rely upon the accuracy of the information set forth in the
-statement of demand provided by the association for the resale. Payment of the
-amount set forth in the statement of demand constitutes full payment of the
-amount due from the selling unit�s owner.
-����� (Added to NRS by 1991,
-575 ; A 1993,
-2376 ; 1997,
-3124 ; 2001,
-2494 ; 2003,
-2247 ; 2005,
-2614 ; 2009,
-1102 , 1617 ,
-2810 ,
-2819 ;
-2011,
-2047 , 2455 ,
-3542 ;
-2013,
-3792 ; 2017,
-1305 ; 2019,
-856 , 859 ;
-2021,
 1406 ; 2025,
-2383 , effective )
+2383 )
 ����� NRS 116.41095 Required form of information statement. The
 information statement required by NRS
 116.4103 and 116.4109 must be in
@@ -8611,29 +8202,28 @@ democratic principles. Some decisions require all homeowners to vote, some
 decisions are made by the executive board or other boards or committees
 established by the association or governing documents. Although the actions of
 the association and its executive board are governed by state laws, the
-CC&Rs and other documents that govern the common-interest community,
-decisions made by these persons will affect your use and enjoyment of your
-property, your lifestyle and freedom of choice, and your cost of living in the
-community. You may not agree with decisions made by the association or its
-governing bodies even though the decisions are ones which the association is
-authorized to make. Decisions may be made by a few persons on the executive
-board or governing bodies that do not necessarily reflect the view of the
-majority of homeowners in the community. If you do not agree with decisions
-made by the association, its executive board or other governing bodies, your
-remedy is typically to attempt to use the democratic processes of the association
-to seek the election of members of the executive board or other governing
-bodies that are more responsive to your needs. If you have a dispute with the
-association, its executive board or other governing bodies, you may be able to
-resolve the dispute through the complaint, investigation and intervention
-process administered by the Office of the Ombudsman for Owners in
-Common-Interest Communities and Condominium Hotels, the Nevada Real Estate
-Division and the Commission for Common-Interest Communities and Condominium
-Hotels. However, to resolve some disputes, you may have to mediate or arbitrate
-the dispute and, if mediation or arbitration is unsuccessful, you may have to
-file a lawsuit and ask a court to resolve the dispute. In addition to your
-personal cost in mediation or arbitration, or to prosecute a lawsuit, you may
-be responsible for paying your share of the association�s cost in defending
-against your claim.
+CC&Rs and other documents that govern the common-interest community, decisions
+made by these persons will affect your use and enjoyment of your property, your
+lifestyle and freedom of choice, and your cost of living in the community. You
+may not agree with decisions made by the association or its governing bodies
+even though the decisions are ones which the association is authorized to make.
+Decisions may be made by a few persons on the executive board or governing
+bodies that do not necessarily reflect the view of the majority of homeowners
+in the community. If you do not agree with decisions made by the association,
+its executive board or other governing bodies, your remedy is typically to
+attempt to use the democratic processes of the association to seek the election
+of members of the executive board or other governing bodies that are more
+responsive to your needs. If you have a dispute with the association, its
+executive board or other governing bodies, you may be able to resolve the
+dispute through the complaint, investigation and intervention process
+administered by the Office of the Ombudsman for Owners in Common-Interest
+Communities and Condominium Hotels, the Nevada Real Estate Division and the
+Commission for Common-Interest Communities and Condominium Hotels. However, to
+resolve some disputes, you may have to mediate or arbitrate the dispute and, if
+mediation or arbitration is unsuccessful, you may have to file a lawsuit and
+ask a court to resolve the dispute. In addition to your personal cost in
+mediation or arbitration, or to prosecute a lawsuit, you may be responsible for
+paying your share of the association�s cost in defending against your claim.
 ������ 6. YOU ARE
 REQUIRED TO PROVIDE PROSPECTIVE PURCHASERS OF YOUR PROPERTY WITH INFORMATION
 ABOUT LIVING IN YOUR COMMON-INTEREST COMMUNITY?
@@ -8673,8 +8263,8 @@ association or board that affect you.
 ������ 8. QUESTIONS?
 Although they may be voluminous, you
 should take the time to read and understand the documents that will control
-your ownership of a property in a common-interest community. You may wish to ask
-your real estate professional, lawyer or other person with experience to
+your ownership of a property in a common-interest community. You may wish to
+ask your real estate professional, lawyer or other person with experience to
 explain anything you do not understand. You may also request assistance from
 the Office of the Ombudsman for Owners in Common-Interest Communities and
 Condominium Hotels, Nevada Real Estate Division, at (telephone number).
@@ -8736,8 +8326,8 @@ escrow and held in this State when the escrow holder has:
 State;
 ����� (b) A registered agent in this State pursuant to
 subsection 1 of NRS 14.020 ; and
-����� (c) Consented to the jurisdiction of the courts of
-this State by:
+����� (c) Consented to the jurisdiction of the courts
+of this State by:
 ������������ (1) Maintaining a physical presence in
 this State; or
 ������������ (2) Executing a written instrument
@@ -8786,21 +8376,21 @@ offering statement no later than 120 days before the tenants and any subtenant
 in possession are required to vacate. The notice must set forth generally the
 rights of tenants and subtenants under this section and must be hand-delivered
 to the unit or mailed by prepaid United States mail to the tenant and subtenant
-at the address of the unit or any other mailing address provided by a tenant.
-No tenant or subtenant may be required to vacate upon less than 120 days�
-notice, except by reason of nonpayment of rent, waste or conduct that disturbs
-other tenants� peaceful enjoyment of the premises, and the terms of the tenancy
-may not be altered during that period. Failure to give notice as required by
-this section is a defense to an action for possession. If, during the 6-month
-period before the recording of a declaration, a majority of the tenants or any
+at the address of the unit or any other mailing address provided by a tenant. No
+tenant or subtenant may be required to vacate upon less than 120 days� notice,
+except by reason of nonpayment of rent, waste or conduct that disturbs other
+tenants� peaceful enjoyment of the premises, and the terms of the tenancy may
+not be altered during that period. Failure to give notice as required by this
+section is a defense to an action for possession. If, during the 6-month period
+before the recording of a declaration, a majority of the tenants or any
 subtenants in possession of any portion of the property described in such
 declaration has been required to vacate for reasons other than nonpayment of
 rent, waste or conduct that disturbs other tenants� peaceful enjoyment of the
 premises, a rebuttable presumption is created that the owner of such property
 intended to offer the vacated premises as units in a common-interest community
 at all times during that 6-month period.
-����� 2. For 60 days after delivery or mailing of
-the notice described in subsection 1, the person required to give the notice
+����� 2. For 60 days after delivery or mailing
+of the notice described in subsection 1, the person required to give the notice
 shall offer to convey each unit or proposed unit occupied for residential use
 to the tenant who leases that unit. If a tenant fails to purchase the unit
 during that 60-day period, the offeror may not offer to dispose of an interest
@@ -8943,9 +8533,9 @@ to address those claims. Only members of the executive board elected by units�
 owners other than the declarant and other persons appointed by those
 independent members may serve on the committee, and the committee�s decision
 must be free of any control by the declarant or any member of the executive
-board or officer appointed by the declarant. All costs reasonably incurred by
-the committee, including attorney�s fees, are common expenses, and must be
-added to the budget annually adopted by the association in accordance with the
+board or officer appointed by the declarant. All costs reasonably incurred by the
+committee, including attorney�s fees, are common expenses, and must be added to
+the budget annually adopted by the association in accordance with the
 requirements of NRS 116.31151 . If the
 committee is so created, the period of limitation for a warranty claim
 considered by the committee begins to run from the date of the first meeting of
@@ -9015,19 +8605,18 @@ to 116.795 , inclusive.
 ����� NRS 116.4118 Labeling of promotional material. No
 promotional material may be displayed or delivered to prospective purchasers
 which describes or portrays an improvement that is not in existence unless the
-description or portrayal of the improvement in the promotional material is
-conspicuously labeled or identified either as �MUST BE BUILT� or as �NEED NOT
-BE BUILT.�
+description or portrayal of the improvement in the promotional material is conspicuously
+labeled or identified either as �MUST BE BUILT� or as �NEED NOT BE BUILT.�
 ����� (Added to NRS by 1991,
 579 )
 ����� NRS 116.4119 Declarant�s obligation to complete and restore.
 ����� 1. Except for improvements labeled �NEED
 NOT BE BUILT,� the declarant shall complete all improvements depicted on any
-site plan or other graphic representation, including any plats or plans
-prepared pursuant to NRS 116.2109 ,
-whether or not that site plan or other graphic representation is contained in
-the public offering statement or in any promotional material distributed by or
-for the declarant.
+site plan or other graphic representation, including any plats or plans prepared
+pursuant to NRS 116.2109 , whether or
+not that site plan or other graphic representation is contained in the public
+offering statement or in any promotional material distributed by or for the
+declarant.
 ����� 2. The declarant is subject to liability
 for the prompt repair and restoration, to a condition compatible with the
 remainder of the common-interest community, of any portion of the
@@ -9050,9 +8639,8 @@ Hotels: Creation; appointment and qualifications of members; terms of office;
 compensation.
 ����� 1. The Commission for Common-Interest
 Communities and Condominium Hotels is hereby created.
-����� 2. The Commission consists of seven
-members appointed by the Governor. The Governor shall appoint to the
-Commission:
+����� 2. The Commission consists of seven members
+appointed by the Governor. The Governor shall appoint to the Commission:
 ����� (a) One member who is a unit�s owner residing in
 a unit within this State and who has served as a member of an executive board
 in this State;
@@ -9091,8 +8679,8 @@ provided for state officers and employees generally.
 2899 ; 2011,
 1146 ; 2017,
 1319 )
-����� NRS 116.605 Commission for Common-Interest Communities and Condominium
-Hotels: Courses of instruction for members.
+����� NRS 116.605 Commission for Common-Interest Communities and Condominium Hotels:
+Courses of instruction for members.
 ����� 1. The Division shall employ one or more
 training officers who are qualified by training and experience to provide to
 each member of the Commission courses of instruction concerning rules of
@@ -9145,9 +8733,9 @@ shall provide copies of the proposed regulations to the Commission not later
 than 30 days before the next meeting of the Commission. The Commission shall
 approve, amend or disapprove any proposed regulations at that meeting.
 ����� 6. All regulations adopted by the
-Commission, or adopted by the Administrator with the approval of the Commission,
-must be published by the Division, posted on its website and offered for sale
-at a reasonable fee.
+Commission, or adopted by the Administrator with the approval of the
+Commission, must be published by the Division, posted on its website and
+offered for sale at a reasonable fee.
 ����� (Added to NRS by 2003,
 2210 ; A 2005,
 2619 )
@@ -9201,7 +8789,8 @@ section must:
 ����� (a) Set forth the name and address of the
 petitioner; and
 ����� (b) Contain a clear and concise statement of the
-issues to be decided by the Division in its declaratory order or advisory opinion.
+issues to be decided by the Division in its declaratory order or advisory
+opinion.
 ����� 4. A petition filed pursuant to this
 section is submitted for consideration by the Division when it is filed with
 the Administrator.
@@ -9393,8 +8982,9 @@ of programs of education and research.
 ����� 1. The Commission shall conduct such
 hearings and other proceedings as are required by the provisions of this
 chapter.
-����� 2. The Commission shall collect and maintain
-or cause to be collected and maintained accurate information relating to:
+����� 2. The Commission shall collect and
+maintain or cause to be collected and maintained accurate information relating
+to:
 ����� (a) The number and kind of common-interest
 communities in this State;
 ����� (b) The effect of the provisions of this chapter
@@ -9731,55 +9321,13 @@ hearing.
 ����� 2. The Commission or the hearing panel
 shall notify all parties to the complaint of its decision in writing by
 certified mail, return receipt requested, not later than 60 days after the date
-of the final hearing. The written decision must include findings of fact and
-conclusions of law.
+of the final hearing. The written decision must include findings of fact and conclusions
+of law.
 ����� (Added to NRS by 2003,
 2216 )
 ����� NRS 116.785 Remedial and disciplinary action: Orders to cease and desist and
 to correct violations; administrative fines; removal from office or position;
-payment of costs; exemptions from liability. [Effective through .]
-����� 1. If the Commission or the hearing panel,
-after notice and hearing, finds that the respondent has committed a violation,
-the Commission or the hearing panel may take any or all of the following
-actions:
-����� (a) Issue an order directing the respondent to
-cease and desist from continuing to engage in the unlawful conduct that
-resulted in the violation.
-����� (b) Issue an order directing the respondent to
-take affirmative action to correct any conditions resulting from the violation.
-����� (c) Impose an administrative fine of not more
-than $1,000 for each violation.
-����� 2. If the respondent is a member of an
-executive board or an officer of an association, the Commission or the hearing
-panel may order the respondent removed from his or her office or position if
-the Commission or the hearing panel, after notice and hearing, finds that:
-����� (a) The respondent has knowingly and willfully
-committed a violation; and
-����� (b) The removal is in the best interest of the
-association.
-����� 3. If the respondent violates any order
-issued by the Commission or the hearing panel pursuant to this section, the
-Commission or the hearing panel, after notice and hearing, may impose an
-administrative fine of not more than $1,000 for each violation.
-����� 4. If the Commission or the hearing panel
-takes any disciplinary action pursuant to this section, the Commission or the
-hearing panel may order the respondent to pay the costs of the proceedings
-incurred by the Division, including, without limitation, the cost of the
-investigation and reasonable attorney�s fees.
-����� 5. Notwithstanding any other provision of
-this section, unless the respondent has knowingly and willfully committed a
-violation, if the respondent is a member of an executive board or an officer of
-an association:
-����� (a) The association is liable for all fines and
-costs imposed against the respondent pursuant to this section; and
-����� (b) The respondent may not be held personally
-liable for those fines and costs.
-����� (Added to NRS by 2003,
-2216 )
-����� NRS 116.785 Remedial and disciplinary
-action: Orders to cease and desist and to correct violations; administrative
-fines; removal from office or position; payment of costs; exemptions from
-liability. [Effective .]
+payment of costs; exemptions from liability.
 ����� 1. If the Commission or the hearing panel,
 after notice and hearing, finds that the respondent has committed a violation,
 the Commission or the hearing panel may take any or all of the following
@@ -9806,19 +9354,19 @@ administrative fine of not more than $5,000 for each violation.
 ����� 4. If the Commission or the hearing panel
 takes any disciplinary action pursuant to this section, the Commission or the
 hearing panel may order the respondent to pay the costs of the proceedings
-incurred by the Division, including, without limitation, the cost of the investigation
-and reasonable attorney�s fees.
+incurred by the Division, including, without limitation, the cost of the
+investigation and reasonable attorney�s fees.
 ����� 5. Notwithstanding any other provision of
-this section, unless the respondent has knowingly and willfully committed a
-violation, if the respondent is a member of an executive board or an officer of
-an association:
+this section, unless the respondent has knowingly and willfully committed a violation,
+if the respondent is a member of an executive board or an officer of an
+association:
 ����� (a) The association is liable for all fines and
 costs imposed against the respondent pursuant to this section; and
 ����� (b) The respondent may not be held personally
 liable for those fines and costs.
 ����� (Added to NRS by 2003,
 2216 ; A 2025,
-2386 , effective )
+2386 )
 ����� NRS 116.790 Remedial and disciplinary action: Audit of association;
 requiring association to hire community manager who holds certificate;
 appointment of receiver.
