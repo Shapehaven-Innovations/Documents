@@ -227,15 +227,14 @@ The condominium project (all condominium units, common elements and amenities) a
 Fewer than 75% of the total number of units in the project must have been conveyed to the unit purchasers, or
 The developer has not turned control of the homeowners association over to the unit owners
 3. Follow our condominium delivery requirements (See Section 5701.12 for more information).
-Read our factsheets:
+Read our factsheet:
 Condominium Unit Mortgages and Project Reviews
-Determining Condominium Project and Mortgage Eligibility
 Get More Information
 If a Seller determines that a condominium unit in an established condominium project does not meet certain Freddie Mac project eligibility requirements and concludes that the condominium unit is still adequate collateral for the mortgage transaction, see Section 5701.11 for information on requesting Freddie Mac to consider a waiver of certain project eligibility requirements.
 If a Seller wants to obtain feedback regarding an established condominium project’s compliance with the project review requirements that Condo Project Advisor assesses, see Section 5701.10 for more information.
 Sellers may also contact their Freddie Mac account representative for more information as well as refer to the Condo Project Advisor web page and Condo Project Advisor FAQs . Refer to Guide Chapter 5701 for our complete requirements for condominiums.
-Condo Project Advisor  ® Training
-Training resources to help you use Condo Project Advisor ® .
+Condominium and Condo Project Advisor Training
+Explore our many resources designed to help you originate and deliver condominium mortgages.
 Condominium Unit Mortgage FAQ
 Frequently asked questions about solutions and options for mortgages secured by condominium units.
 Condo Project Advisor
@@ -246,10 +245,6 @@ Condominium Project Questionnaire – Full Form​​
 You may want to use this optional form (full-length version) to collect information from HOAs.
 Form 476A​​​
 Review the addendum to the condominium questionnaire - full form.
-Determining Condominium Project & Mortgage Eligibility​​​​
-Make sure you comply with our condominium project review and general condominium project eligibility requirements in Single-Family Seller/Servicer Guide (Section 5701.2).
-Condominium Project Status Inquiry and Appeal Request​​​​
-This tutorial provides information regarding a Seller’s or authorized HOA representative’s request of the condominium project status and/or to request an appeal.
 Critical Repairs & Evacuation Orders: Condominium and Cooperative Project Requirements​​​​​
 Using multiple scenarios, this short tutorial will help you understand our requirements regarding critical repairs and evacuation orders.
 Condo Project Advisor ® Access: Third-Party Originators (TPOs)​​​​​​
@@ -257,7 +252,6 @@ Use this resource to guide you through the steps to obtain access to Condo Proje
 Seller/Servicer Guide​​​​​​
 The same content you depend on, but more streamlined, intuitive and usable, with a modern look, robust search and improved functionality.
 Other Condominium Requirements in the Single-Family Seller/Servicer Guide
-Guide Bulletin 2020-20: Updates to Property Insurance, Condo Project Advisor ® and eMortgages
 Guide Section 5701.3: Ineligible Projects
 Guide Section 5701.6: New Condominium Projects
 Guide Section 5701.12: Delivery Requirements
