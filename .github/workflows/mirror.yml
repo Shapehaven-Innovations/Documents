@@ -7,12 +7,12 @@ name: mirror-rule-sources
 
 on:
   schedule:
-    # 07:00 UTC daily. Daily keeps consumers' own "check daily" setting honest —
+    # 07:00 UTC daily. Every other Day —
     # a mirror slower than the consumer's schedule makes that setting theatre.
     # It is still only one fetch per source per day globally, which is far
     # gentler on a public .gov host than every install fetching on its own.
     # Cost is zero: Actions minutes are free on public repos.
-    - cron: "0 7 * * *"
+    - cron: "0 7 */2 * *"
   workflow_dispatch: {}
 
 permissions:
