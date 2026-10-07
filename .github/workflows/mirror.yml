@@ -49,5 +49,20 @@ jobs:
             echo "No change — nothing to commit."
           else
             git commit -m "mirror: refresh rule sources"
-            git push
+            # main can advance while this job runs (the concurrency group only
+            # serialises mirror runs, not other pushes). Rebase and retry.
+            # A rebase conflict is not retryable: abort and fail loudly. Only
+            # push races (non-fast-forward) are retried.
+            for attempt in 1 2 3; do
+              if ! git pull --rebase origin "$GITHUB_REF_NAME"; then
+                git rebase --abort 2>/dev/null || true
+                echo "::error::rebase conflict while pushing mirrors"
+                exit 1
+              fi
+              git push && exit 0
+              echo "push attempt $attempt failed"
+              [ "$attempt" -lt 3 ] && sleep $((attempt * 5))
+            done
+            echo "::error::could not push after 3 attempts"
+            exit 1
           fi
