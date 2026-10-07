@@ -83,13 +83,48 @@ resolve_url() { # landingUrl linkPattern base -> prints absolute URL, empty on f
   esac
 }
 
+# Fetch one candidate URL and validate it is the real document (rule 1).
+# On success sets: bytes sha docname textname. On failure sets: reason.
+acquire() { # url type
+  local url="$1" type="$2" status
+  raw=/tmp/doc.bin
+  status="$(fetch "$url" "$raw")"
+  if [ "$status" != "200" ]; then reason="http=$status"; return 1; fi
+  bytes="$(wc -c <"$raw" | tr -d ' ')"
+
+  if [ "$type" = "pdf" ]; then
+    # A block page is HTML, not a PDF.
+    if ! head -c 5 "$raw" | grep -q '%PDF'; then
+      reason="response is not a PDF (starts: $(head -c 30 "$raw" | tr -d '\0'))"; return 1
+    fi
+    # Diffing two multi-MB binaries tells a reviewer nothing, so the diffable
+    # committed artifact is extracted text. The PDF is kept to open.
+    if ! pdftotext -q "$raw" /tmp/doc.raw.txt || [ ! -s /tmp/doc.raw.txt ]; then
+      reason="pdftotext produced no text"; return 1
+    fi
+    sha="$(node scripts/normalize.mjs /tmp/doc.raw.txt text /tmp/doc.norm.txt)"
+    docname="$(basename "$url")"
+    textname="document.txt"
+  else
+    # Sanity floor: real pages are tens of KB; block/error pages are tiny.
+    if [ "$bytes" -lt 2000 ]; then
+      reason="response too small to be the real page ($bytes bytes)"; return 1
+    fi
+    sha="$(node scripts/normalize.mjs "$raw" html /tmp/doc.norm.txt)"
+    docname="page.html"
+    textname="page.txt"
+  fi
+}
+
 # Emit one tab-separated record per source. Tabs are safe here: none of the
-# fields (codes, dirs, URLs, regex patterns) can contain one.
+# fields (codes, dirs, URLs, regex patterns) can contain one. Alternates are
+# space-joined; "-" stands in for none because a tab IFS collapses empty fields.
 node -e '
   const { sources } = JSON.parse(require("fs").readFileSync("sources.json", "utf8"));
   for (const s of sources) {
     process.stdout.write([
       s.sourceCode, s.dir, s.type, s.url,
+      (s.alternates ?? []).join(" ") || "-",
       s.resolve?.linkPattern ?? "", s.resolve?.base ?? "",
     ].join("\t") + "\n");
   }
@@ -97,7 +132,7 @@ node -e '
 
 echo "Mirroring $(wc -l </tmp/sources.tsv | tr -d ' ') sources"
 
-while IFS=$'\t' read -r CODE DIR TYPE URL PATTERN BASE; do
+while IFS=$'\t' read -r CODE DIR TYPE URL ALTS PATTERN BASE; do
   [ -n "$CODE" ] || continue
   echo "==> $CODE"
   outdir="mirrors/$DIR"
@@ -114,40 +149,27 @@ while IFS=$'\t' read -r CODE DIR TYPE URL PATTERN BASE; do
     echo "  resolved: $(basename "$doc_url")"
   fi
 
-  raw=/tmp/doc.bin
-  status="$(fetch "$doc_url" "$raw")"
-  if [ "$status" != "200" ]; then
-    fail "$CODE" "http=$status"
+  # Try the primary, then each alternate, until one yields the real document.
+  # A different site's page normalizes to a different hash, so a fallback
+  # commit reads as a change; manifest sourceUrl records which one was used.
+  candidates=("$doc_url")
+  if [ "$ALTS" != "-" ]; then read -ra alt_urls <<<"$ALTS"; candidates+=("${alt_urls[@]}"); fi
+  got=0; reasons=""
+  for cand in "${candidates[@]}"; do
+    [ -n "$cand" ] || continue
+    if acquire "$cand" "$TYPE"; then
+      got=1; doc_url="$cand"; break
+    fi
+    echo "  failed ($reason): $cand"
+    reasons="${reasons:+$reasons; }$reason"
+    sleep "$POLITE_DELAY"
+  done
+  unset alt_urls
+  if [ "$got" = "0" ]; then
+    fail "$CODE" "all sources failed: $reasons"
     sleep "$POLITE_DELAY"; continue
   fi
-
-  bytes="$(wc -c <"$raw" | tr -d ' ')"
-
-  if [ "$TYPE" = "pdf" ]; then
-    # Rule 1: a block page is HTML, not a PDF.
-    if ! head -c 5 "$raw" | grep -q '%PDF'; then
-      fail "$CODE" "response is not a PDF (starts: $(head -c 30 "$raw" | tr -d '\0'))"
-      sleep "$POLITE_DELAY"; continue
-    fi
-    # Diffing two multi-MB binaries tells a reviewer nothing, so the diffable
-    # committed artifact is extracted text. The PDF is kept to open.
-    if ! pdftotext -q "$raw" /tmp/doc.raw.txt || [ ! -s /tmp/doc.raw.txt ]; then
-      fail "$CODE" "pdftotext produced no text"
-      sleep "$POLITE_DELAY"; continue
-    fi
-    sha="$(node scripts/normalize.mjs /tmp/doc.raw.txt text /tmp/doc.norm.txt)"
-    docname="$(basename "$doc_url")"
-    textname="document.txt"
-  else
-    # Sanity floor: real pages are tens of KB; block/error pages are tiny.
-    if [ "$bytes" -lt 2000 ]; then
-      fail "$CODE" "response too small to be the real page ($bytes bytes)"
-      sleep "$POLITE_DELAY"; continue
-    fi
-    sha="$(node scripts/normalize.mjs "$raw" html /tmp/doc.norm.txt)"
-    docname="page.html"
-    textname="page.txt"
-  fi
+  [ "$doc_url" = "$URL" ] || echo "  using alternate: $doc_url"
 
   # Drop files left behind by a previous run under a different name. HUD's
   # filename rotates (…-Update-18-Redline.pdf → -19-), so without this every
@@ -200,9 +222,14 @@ else
 fi
 
 if [ "$failed" = "1" ]; then
-  echo "==> ${#failures[@]} source(s) failed:"
+  echo "==> ${#failures[@]} source(s) skipped (primary and alternates all failed):"
   printf '    %s\n' "${failures[@]}"
-  # Rule 4: successes were still written and will be committed by the next
-  # step; this exit only marks the run red so the failure is not silent.
-  exit 1
+  # Skipped sources keep their last good mirror. The run stays green so one
+  # blocked host does not mask real failures elsewhere, but the skips are
+  # surfaced as annotations and in the job summary so they are not silent.
+  for f in "${failures[@]}"; do echo "::warning title=mirror source skipped::$f"; done
+  if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
+    { echo "### Skipped sources (last good mirror kept)"; printf -- '- %s\n' "${failures[@]}"; } >>"$GITHUB_STEP_SUMMARY"
+  fi
 fi
+exit 0
