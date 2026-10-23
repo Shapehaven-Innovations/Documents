@@ -817,8 +817,7 @@ B5-4.2-02, Disaster-Related Limited Cash-Out Refinance Flexibilities
 B5-4.2-03, Loans Secured by HomePath Properties
 Chapter B5-5, Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions
 Section B5-5.1, Community Seconds
-B5-5.1-01, Community Seconds Loans
-B5-5.1-02, Community Seconds Loan Eligibility
+B5-5.1-01, Community Seconds
 B5-5.1-03, Community Seconds: Shared Appreciation Transactions
 Section B5-5.2, Loans with Resale Restrictions
 B5-5.2-01, Loans With Resale Restrictions: General Information
