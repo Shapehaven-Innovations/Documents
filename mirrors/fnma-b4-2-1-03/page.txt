@@ -158,7 +158,7 @@ https://selling-guide.fanniemae.com/sel/b4-2.1-03/ineligible-projects
 B4-2.1-03, Ineligible Projects
 Print
 Share
-B4-2.1-03, Ineligible Projects (08/05/2026)
+B4-2.1-03, Ineligible Projects (11/04/2026)
 Introduction
 This topic contains information on ineligible projects and related criteria, including:
 List of Ineligible Project Characteristics
@@ -281,8 +281,9 @@ Any construction or renovation to structurally combine units has no material imp
 The individual units must be fully described in the legal description in the mortgage and under a single deed.
 The project’s legal documents must have been amended to reclassify the combined units as a single unit in the project.
 All structural renovation to physically combine the units must be completed.
-A condo or co-op unit with an accessory unit may be eligible on a case-by-case basis with a Fannie Mae PERS Project Approval or a loan-level project eligibility waiver. See
-B4-2.2-05, Projects with Special Considerations B4-2.2-05, Projects with Special Considerations , for additional information on submitting an exception request.
+Condo Projects with Units that Include Accessory Dwelling Units (ADUs)
+Projects that include condo units that have one ADU do not constitute multi-dwelling units and must follow the requirements in
+B2-3-04, Special Property Eligibility Considerations B2-3-04, Special Property Eligibility Considerations .
 Projects with Property that is not Real Estate
 Fannie Mae acquires mortgage loans secured by real estate. Houseboats, boat slips, cabanas, timeshares, and other forms of property that are not real estate are not eligible for delivery to Fannie Mae. The marketability and value of individual units in a project may be adversely impacted by the inclusion of non-real estate property such as houseboats, timeshares, and other forms and structures that are not real estate. As such, projects containing these other non-real estate forms of property are not eligible.
 Boat slips, cabanas, and other amenities are permitted when owned in common by the unit owners as part of the HOA.
@@ -418,6 +419,7 @@ Recent Related Announcements
 The table below provides references to recently issued Announcements that are related to this topic.
 Announcements
 Issue Date
+Announcement SEL-2026-10
 Announcement SEL-2026-07
 Announcement SEL-2025-06
 Announcement SEL-2025-05
@@ -458,7 +460,7 @@ Cookie Preferences
 Originating & Underwriting
 Selling Guide
 Download PDF Guide
-(Published: October 07 2026)
+(Published: November 04 2026)
 Selling Questions? Launch Ask Poli
 Get answers to Guide & policy questions with Fannie Mae's AI-powered search tool.
 Guide Resources
