@@ -162,13 +162,7 @@
     </div>
     <div class="row pb-3">
         <div class="col-auto">
-            <button aria-label="Request Accessibility Services" onclick="window.open('https://forms.gle/dfFFqjL9UeoiKyDs6')" style="width:11rem;border:2px solid black;border-radius:5px;">Request Accessibility Services</button>
-
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-auto">
-            <button aria-label="Accessibility Feedback" onclick="window.open('mailto:webmaster@mgadls.state.md.us')" style="width:11rem;border:2px solid black;border-radius:5px;">Accessibility Feedback</button>
+            <button aria-label="Request Accessibility Services" onclick="window.open('/mgawebsite/Accessibility/PrivateServiceRequest')" style="width:11rem;border:2px solid black;border-radius:5px;">Request Accessibility Services</button>
         </div>
     </div>
 </div>
@@ -220,7 +214,7 @@
         $('#searchBtn').click(function (e) {
 
             const webroot = '/mgawebsite';
-            const currentYrSess = '2026RS';
+            const currentYrSess = '2027RS';
 
             var elemVal = $('#bill-search').val();
 
@@ -749,7 +743,7 @@
         <div class="modal-content">
             <div class="modal-header d-inline">
                 <i class="fa-solid fa-circle-exclamation text-warning"></i>
-                <div id="alertTitle" class="d-inline">Success</div>
+                <div id="alertTitle" class="d-inline">ADA Request - Submitted</div>
             </div>
             <div class="modal-body">
                 <div class="d-inline">
@@ -886,9 +880,19 @@
                 <div class="modal-text-color modal-style">
                     <ul class="list-unstyled">
                         <li class="modal-style">
+                            2027 Regular Session <a href="/2027rs/misc/billsmasterlist/BillMasterList.csv" type="button" class="btn btn-primary msg-style">CSV</a>
+                            <a href="/2027rs/misc/billsmasterlist/legislation.json" type="button" class="btn btn-primary msg-style" target="_blank">JSON</a>
+                            &nbsp;*Updated hourly
+                        </li>
+
+                        <li class="modal-style">
+                            2026 Special Session <a href="/2026s1/misc/billsmasterlist/BillMasterList.csv" type="button" class="btn btn-primary msg-style">CSV</a>
+                            <a href="/2026s1/misc/billsmasterlist/legislation.json" type="button" class="btn btn-primary msg-style" target="_blank">JSON</a>
+                        </li>
+
+                        <li class="modal-style">
                             2026 Regular Session <a href="/2026rs/misc/billsmasterlist/BillMasterList.csv" type="button" class="btn btn-primary msg-style">CSV</a>
                             <a href="/2026rs/misc/billsmasterlist/legislation.json" type="button" class="btn btn-primary msg-style" target="_blank">JSON</a>
-                            &nbsp;*Updated hourly
                         </li>
 
                         <li class="modal-style">
@@ -992,7 +996,7 @@
         <div class="modal-content">
             <div class="modal-header d-inline">
                 <i class="fa-solid fa-circle-exclamation text-warning"></i>
-                <div id="alertTitle" class="d-inline">Alert</div>
+                <div id="alertModalTitle" class="d-inline">Alert</div>
             </div>
             <div class="modal-body">
                 <div class="d-inline"><span tabindex="0" id="alertMsg"></div>
@@ -1054,6 +1058,21 @@
         if ('' != '' && '' != null) {
             $('#alertSuccessModal').modal('toggle');
         }
+
+        if ('' != '' && '' != null) {
+
+            document.getElementById('alertModalTitle').innerHTML = 'ADA Request - Past Hearing';
+            $('#alertMsg').html('');
+            $('#alertModal').modal('show');
+        }
+
+          if ('' != '' && '' != null) {
+
+              document.getElementById('alertModalTitle').innerHTML = 'ADA Request - Hearing Changed';
+              $('#alertMsg').html('');
+              $('#alertModal').modal('show');
+          }
+
 
         //Logic for mobile controls of the two menu buttons
         function toggleMyMGA() {

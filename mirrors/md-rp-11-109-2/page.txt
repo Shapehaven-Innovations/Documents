@@ -13,7 +13,6 @@ Hide Images
 Default Contrast
 Reset All Settings
 Request Accessibility Services
-Accessibility Feedback
 Menu
 MEMBERS
 Find My Representatives
@@ -176,15 +175,15 @@ Previous Next
 (ii) The annual review under this paragraph does not require a reserve study or updated reserve study in addition to the reserve study requirements under § 11–109.4 of this title.
 (d) (1) The budget shall be adopted at an open meeting of the council of unit owners or any other body to which the council of unit owners delegates responsibilities for preparing and adopting the budget.
 (2) (i) The council of unit owners or other governing body of unit owners shall submit the adopted annual budget to the unit owners not more than 30 days after the meeting at which the budget was adopted.
-(ii) The adopted annual budget may be submitted to each unit owner by electronic transmission, by posting on the condominium association's home page, or by inclusion in the homeowners association's newsletter.
-(e) Any expenditure made other than those made because of conditions which, if not corrected, could reasonably result in a threat to the health or safety of the unit owners or a significant risk of damage to the condominium, that would result in an increase in an amount of assessments for the current fiscal year of the condominium in excess of 15 percent of the budgeted amount previously adopted, shall be approved by an amendment to the budget adopted at a special meeting, upon not less than 10 days written notice to the council of unit owners.
+(ii) The adopted annual budget may be submitted to each unit owner by electronic transmission, by posting on the condominium association's home page, or by inclusion in the condominium's newsletter.
+(e) Any expenditure made other than those made because of conditions which, if not corrected, could reasonably result in a threat to the health or safety of the unit owners or a significant risk of damage to the condominium, that would result in an increase in an amount of assessments for the current fiscal year of the condominium in excess of 15 percent of the budgeted amount previously adopted, shall be approved by an amendment to the budget adopted at a special meeting, upon not less than 10 days' written notice to the council of unit owners.
 (f) The adoption of a budget shall not impair the authority of the council of unit owners to obligate the council of unit owners for expenditures for any purpose consistent with any provision of this title.
 (g) The provisions of this section do not apply to a condominium that is occupied and used solely for nonresidential purposes.
 Previous Next
 Validation
 Please fix the following:
 OK
-Success
+ADA Request - Submitted
 Okay
 Helpful Links
 Executive Branch
@@ -208,9 +207,13 @@ The file includes information such as number, sponsor, title, legislative status
 legislative history, hearing dates, etc for each piece of legislation introduced during the selected legislative session.
 A word about the file format: CSV and JSON files are common file formats, widely supported by consumer and business applications and is used to move data between programs.
 The file you download can be imported into Excel, a text editor, browser, or any other application that supports the CSV and JSON formats. To save, right-click button and save as desired file format.
-2026 Regular Session CSV
+2027 Regular Session CSV
 JSON
 *Updated hourly
+2026 Special Session CSV
+JSON
+2026 Regular Session CSV
+JSON
 2025 Regular Session CSV
 JSON
 2024 Regular Session CSV

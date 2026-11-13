@@ -13,7 +13,6 @@ Hide Images
 Default Contrast
 Reset All Settings
 Request Accessibility Services
-Accessibility Feedback
 Menu
 MEMBERS
 Find My Representatives
@@ -205,7 +204,7 @@ Previous Next
 Validation
 Please fix the following:
 OK
-Success
+ADA Request - Submitted
 Okay
 Helpful Links
 Executive Branch
@@ -229,9 +228,13 @@ The file includes information such as number, sponsor, title, legislative status
 legislative history, hearing dates, etc for each piece of legislation introduced during the selected legislative session.
 A word about the file format: CSV and JSON files are common file formats, widely supported by consumer and business applications and is used to move data between programs.
 The file you download can be imported into Excel, a text editor, browser, or any other application that supports the CSV and JSON formats. To save, right-click button and save as desired file format.
-2026 Regular Session CSV
+2027 Regular Session CSV
 JSON
 *Updated hourly
+2026 Special Session CSV
+JSON
+2026 Regular Session CSV
+JSON
 2025 Regular Session CSV
 JSON
 2024 Regular Session CSV
