@@ -1,18 +1,15 @@
 Skip to main content
 SF.FreddieMac.com
 Freddie Mac Home
-View our other sites
 Freddie Mac Home
-View sites for
-Single-Family Division
+Toggle submenu for Single-Family Division
 Single-Family Division
 Insights, products, and technology to help you grow your business.
 Seller/Servicer Guide
 Learn how to work with us with our Guide Bulletins and Industry Letters.
 Multifamily Division
 Capital Markets Division
-View sites for
-Renters, Buyers and Owners
+Toggle submenu for Renters, Buyers and Owners
 My Home by Freddie Mac ®
 Resources to help you rent, buy, and own your home.
 Do we own your mortgage?
@@ -176,7 +173,7 @@ API Solutions
 ECO: Evaluate | Compare | Optimize
 Uniform Mortgage Data Program (UMDP)
 Uniform Instruments
-Freddie Mac Gateway®
+Freddie Mac Gateway ®
 Freddie Mac Gateway ® is the entry point to access the Single-Family tools you need to manage your loans throughout the entire mortgage lifecycle.
 Browse
 All Insights & Research
